@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>東日本大震災の原子力災害に見舞われた、福島県双葉町の記録写真にキーワードを付けてください</title>
+
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="css/futaba.css">
+
+  <script src="/script/task_loader.js?requester=-1&amp;length=10" type="text/javascript"></script>
+  <style type="text/css">
+
+  @media ( min-width: 768px ) {
+    #banner {
+      min-height: 300px;
+      border-bottom: none;
+    }
+    .bs-docs-section {
+      margin-top: 8em;
+    }
+    .bs-component {
+      position: relative;
+    }
+    .bs-component .modal {
+      position: relative;
+      top: auto;
+      right: auto;
+      left: auto;
+      bottom: auto;
+      z-index: 1;
+      display: block;
+    }
+    .bs-component .modal-dialog {
+      width: 90%;
+    }
+    .bs-component .popover {
+      position: relative;
+      display: inline-block;
+      width: 220px;
+      margin: 20px;
+    }
+    .nav-tabs {
+      margin-bottom: 15px;
+    }
+    .progress {
+      margin-bottom: 10px;
+    }
+  }
+
+  .button-line{
+    width:500px;
+    margin: 0 auto;
+    padding: 10px;
+  }
+
+  .square_btn{
+    margin: 0 20px;
+    text-align: center;
+    font-size: 12pt;
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background: #668ad8;/*ボタン色*/
+    color: #FFF;
+    border-bottom: solid 4px #627295;
+    border-radius: 3px;
+}
+.square_btn:active {/*ボタンを押したとき*/
+    -ms-transform: translateY(4px);
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);/*下に動く*/
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);/*影を小さく*/
+    border-bottom: none;
+}
+  </style>
+
+  <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+
+<div class="jumbotron hero">
+  <div class="box">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 outline">
+          <h1>東日本大震災の原子力災害に見舞われた、<br/>福島県双葉町の記録写真にキーワードを付けてください</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- /header -->
+
+<div class="row">
+    <div class="button-line">
+      <a class="square_btn microtask group131 repeat">ものの写真に<br/>キーワードをつける</a>
+      <a class="square_btn microtask group130 repeat">風景の写真に<br/>キーワードをつける</a>
+    </div>
+  </div>
+
+<section class="section section-default intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2"></div>
+        <div class="col-md-8 text-justify">
+         <p>2011年、東日本大震災が日本を襲い、その影響で原子力発電所が爆発事故を起こしました。</p>
+          <p class="mt30">福島県双葉町は、その原子力発電所が建っている町です。<br/>
+      放射能汚染を避けるため、町の人々は全員、町を脱出しました。彼らは未だに故郷へ帰れません。</p>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-inverse achievement">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8 text-justify">
+        <p>この悲惨な事故の記憶、被災した人々を全世界の人々が支援してきた事実、これらの二つを全世界の人々に伝えるため、現在，双葉町と複数の大学が協力して、記録写真を収集したディジタルアーカイブの構築プロジェクトを推進しています。</p>
+        <p class="mt60">このプロジェクトによって、双葉町の記録写真と資料が、国立台湾歴史博物館で展示される成果を挙げました。</p>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <figure>
+          <img src="img/taiwan.png" alt="国立台湾歴史博物館の特別展における双葉町の資料の展示" class="img-responsive">
+          <figcaption>国立台湾歴史博物館の特別展における双葉町の資料の展示</figcaption>
+        </figure>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-default mission">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2"></div>
+        <div class="col-md-8 text-justify">
+         <p>このプロジェクトでは、ディジタルアーカイブに保存されている写真に、<span class="underLine">世界中の言語で様々なキーワードを付与することが重要になります。</p>
+          <p class="mt60">記録写真は２つあります。</p>
+        </div>
+      <div class="col-md-2"></div>
+    </div>
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <p>一つは、日本の国の内外から贈られた支援と激励の物品の写真。</p>
+        <div class="thumbnail">
+          <img src="img/kites.png" alt="埼玉県の小学校から双葉町に贈られた大凧（約90cm×180cm">
+        </div>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+    <div class="row mt30">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <p>もう一つは、大震災が起きた2011年3月11日の夜に町の人々が過ごした学校や避難所などの記録写真です。</p>
+        <div class="thumbnail">
+          <img src="img/hinanjo.png" alt="町の中学校へ2011年3月11日夜に設置された避難所の受付">
+        </div>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <p>是非、皆さんがいつも使っている言語、あるいはよく知っている言語で、写真に沢山のキーワードを付けてください。</p>
+        <p>たくさんの言語で付与されたキーワードは、<span class="underLine">今後、双葉町の震災アーカイブが設立された暁には、世界中の人々が大震災の記録を検索する際のキーワードとなります。</span></p>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section closing">
+  <div class="container">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <h2>あなたのわずかな行動は、避難を続ける双葉町の人々を勇気づけます。</h2>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+</section>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+  $('.bs-component [data-toggle="popover"]').popover();
+  $('.bs-component [data-toggle="tooltip"]').tooltip();
+</script>
+
+</body>
+</html>

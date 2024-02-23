@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+
+/*bootstrap css override*/
+
+
+
+body {
+	font-size: 18px;
+	line-height: 2.0;
+}
+
+.jumbotron.hero {
+	position: relative;
+	min-height: 400px;
+	margin-bottom: 0;
+	overflow: hidden;
+	text-align: center;
+	background-image: url("../img/toden_fukushima1st_20170904.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.jumbotron.hero:before {
+	background-color: rgba(0,0,0,0.48);
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	content: '';
+}
+
+.jumbotron.hero .box {
+	position: absolute;
+	top: 25%;
+	width: 100%;
+	text-align: center;
+}
+
+.jumbotron.hero h1,
+section.section.closing h2 {
+	color: white;
+    font-size: 32px;
+    line-height: 2;
+    font-weight: bold;
+    text-shadow: rgba(0, 0, 0, 0.38) 1px 1px 1px;
+    margin-top: 32px;
+    letter-spacing: 0.05em;
+
+}
+
+section.section {
+  padding: 60px 0;
+}
+
+section.section.section-default {
+	background-color: #f9f9f9;
+}
+section.section.section-inverse {
+	position: relative;
+	margin-bottom: 0;
+	overflow: hidden;
+	text-align: center;
+	background-image: url("../img/paper_texture_02.png");
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+section.section .subtitle {
+  margin-bottom: 24px;
+  text-align: center;
+}
+section.section.closing {
+	position: relative;
+	margin-bottom: 0;
+	overflow: hidden;
+	text-align: center;
+	background-image: url("../img/green.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+section.section.closing:before {
+	background-color: rgba(255,255,255,0.3);
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	content: '';
+
+}
+.mt30{ margin-top: 30px; }
+.mt60{ margin-top: 60px; }
+.underLine{ background: linear-gradient(transparent 70%, #ff99ab 70%); }
+
+@media screen and (max-width: 1024px) {
+	.jumbotron.hero h1 {
+		font-size: 1.6em;
+}
