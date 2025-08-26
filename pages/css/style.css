@@ -602,7 +602,7 @@ a:focus,
 /*--------------------*/
 
 #mu-call-to-action {
-	background-image: url(assets/images/call-to-action-bg.jpg);
+	background-image: url(assets/images/call-to-action-bg.jpg.html);
 	float: left;
 	position: relative;
 	width: 100%;
@@ -734,7 +734,7 @@ a:focus,
 }
 
 .mu-video-left {
-	background-image: url(assets/images/video-img.jpg);
+	background-image: url(assets/images/video-img.jpg.html);
 	display: inline;
 	float: left;
 	text-align: center;
@@ -960,7 +960,7 @@ a:focus,
 /*--------------------*/
 
 #mu-counter {
-	background-image: url("assets/images/counter-bg.jpg");
+	background-image: url("assets/images/counter-bg.jpg.html");
 	background-size: cover;
 	display: inline;
 	float: left;
@@ -1206,7 +1206,7 @@ a:focus,
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/testimonial-bg.jpg");
+	background-image: url("assets/images/testimonial-bg.jpg.html");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -1331,7 +1331,7 @@ a:focus,
 /*--------------------*/
 
 #mu-newsletter {
-	background-image: url("assets/images/newsletter-bg.jpg");
+	background-image: url("assets/images/newsletter-bg.jpg.html");
 	background-position: center center;
 	background-size: cover;
 	display: inline;
@@ -1693,7 +1693,7 @@ a:focus,
 }
 
 #mu-skills {
-	background-image: url(assets/images/skill-bg.jpg);
+	background-image: url(assets/images/skill-bg.jpg.html);
 	background-position: center center;
 	background-size: cover;
 	display: inline;
@@ -2802,7 +2802,7 @@ a:focus,
 
 
 .mu-backdrop {
-	background-image: url(assets/images/error-bg.jpg);
+	background-image: url(assets/images/error-bg.jpg.html);
     width: 100%;
     height: 400px;
     position: relative;

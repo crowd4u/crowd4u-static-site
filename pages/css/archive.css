@@ -3,7 +3,7 @@
 /*--------------------*/
 
 #mu-page-header.news { 
-	background-image: url(/images/header_news.jpg); 
+	background-image: url(../images/header_news.jpg); 
 }
 
 #mu-from-news {
