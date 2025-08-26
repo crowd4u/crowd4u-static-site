@@ -1,0 +1,23 @@
+#wrapper2 table td:before{
+  font-family: FontAwesome;
+  content: "\f152";
+}
+
+#wrapper2 table tr{
+  display: flex;
+  justify-content: space-around;
+}
+
+#wrapper2 table td{
+  flex: 1;
+  -webkit-flex: 1;
+  border: 1px solid #FFFFFF;
+  background-color: #AAAAAA;
+  color: #666666;
+  padding: 15px 10px;
+}
+
+#wrapper2 table td a{
+  margin-left: 10px;
+  color: #FFFFFF;
+}

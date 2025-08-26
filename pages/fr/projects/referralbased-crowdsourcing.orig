@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='fr'>
+  <head>
+    <base href='//crowd4u.org/fr/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta content='A Crowd4U Project' name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='no-cache' http-equiv='Pragma' />
+    <meta content='no-store' http-equiv='Cache-Control' />
+    <meta content='no-cache' http-equiv='Cache-Control' />
+    <meta content='-1' http-equiv='Expires' />
+    <title>A Crowd4U Project - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/projects/referralbased-crowdsourcing' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/projects/referralbased-crowdsourcing' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/projects/referralbased-crowdsourcing' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/projects/referralbased-crowdsourcing' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/projects/referralbased-crowdsourcing' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/projects/referralbased-crowdsourcing' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/de/projects/referralbased-crowdsourcing' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/projects/referralbased-crowdsourcing' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/projects/referralbased-crowdsourcing' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/projects/referralbased-crowdsourcing' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/projects/referralbased-crowdsourcing' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/projects/referralbased-crowdsourcing' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/projects/referralbased-crowdsourcing' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/projects/referralbased-crowdsourcing' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/projects/referralbased-crowdsourcing' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/projects/referralbased-crowdsourcing' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/projects/referralbased-crowdsourcing' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/projects/referralbased-crowdsourcing' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/projects/referralbased-crowdsourcing' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/projects/referralbased-crowdsourcing' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/projects/referralbased-crowdsourcing' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/projects/referralbased-crowdsourcing' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_header.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_table.css' rel='stylesheet' type='text/css' />
+    <!-- Fontawesome -->
+    <link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <script src='/js/jquery.js'></script>
+    <script src='/js/bootstrap-modal.js'></script>
+    <script src='/js/scrollsmooth.js'></script>
+    <script src='/js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='project_logo' href=''>
+          <img align='right' alt='Crowd4U' height='20' src='/img/c4u_logo.png' />
+          <span style='color: white; font-size: 0.8em; margin-right: 1em;'>powered by:</span>
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/projects/referralbased-crowdsourcing'>Arabic</option>
+            <option value='/bn/projects/referralbased-crowdsourcing'>Bengali</option>
+            <option value='/bg/projects/referralbased-crowdsourcing'>Bulgarian</option>
+            <option value='/zh/projects/referralbased-crowdsourcing'>Chinese</option>
+            <option value='/en/projects/referralbased-crowdsourcing'>English</option>
+            <option value='/fi/projects/referralbased-crowdsourcing'>Finnish</option>
+            <option selected='selected' value='/fr/projects/referralbased-crowdsourcing'>French</option>
+            <option value='/de/projects/referralbased-crowdsourcing'>German</option>
+            <option value='/el/projects/referralbased-crowdsourcing'>Greek</option>
+            <option value='/hi/projects/referralbased-crowdsourcing'>Hindi</option>
+            <option value='/id/projects/referralbased-crowdsourcing'>Indonesian</option>
+            <option value='/it/projects/referralbased-crowdsourcing'>Italian</option>
+            <option value='/ja/projects/referralbased-crowdsourcing'>Japanese</option>
+            <option value='/ko/projects/referralbased-crowdsourcing'>Korean</option>
+            <option value='/nl/projects/referralbased-crowdsourcing'>Nederlands</option>
+            <option value='/fa/projects/referralbased-crowdsourcing'>Persian</option>
+            <option value='/pt/projects/referralbased-crowdsourcing'>Portuguese</option>
+            <option value='/ru/projects/referralbased-crowdsourcing'>Russian</option>
+            <option value='/es/projects/referralbased-crowdsourcing'>Spanish</option>
+            <option value='/th/projects/referralbased-crowdsourcing'>Thai</option>
+            <option value='/tr/projects/referralbased-crowdsourcing'>Trukish</option>
+            <option value='/vi/projects/referralbased-crowdsourcing'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        * Currently, English is used if we do not have translations
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <h1>referralbased-crowdsourcing</h1>
+                                                          <p>This page is under construction.</p>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

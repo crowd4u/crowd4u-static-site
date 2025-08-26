@@ -1,0 +1,40 @@
+#key_intro{
+  background: #feefdd url(../img/circles.png) right center no-repeat;
+  width: 90%;
+  margin: 30px auto;
+  padding: 10px 10px;
+  border-radius: 20px;  /* CSS3 */  
+  -webkit-border-radius: 20px;  /* Safari,Google Chrome */  
+  -moz-border-radius: 20px;  /* Firefox */ 
+}
+#key_intro .message{
+  width:95%;
+  margin: 20px auto;
+  color: #666;
+}
+.key_info{
+  margin: 0 auto;
+  width: 90%;
+}
+.step{
+  font-size: 110%;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+label.file_name{
+  color: rgb(255, 138, 160);
+}
+.banner_step{
+  font-size: 90%;
+  margin: 5px 0px 20px 20px;
+}
+.banner_step pre{
+  background: #efefef;
+  font-size: 90%;
+  margin: 10px 0;
+}
+.banner_step a{
+  text-decoration: none;
+  margin-left: 20px;
+}
+

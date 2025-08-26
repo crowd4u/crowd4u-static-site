@@ -1,0 +1,58 @@
+#key_intro{
+  background: #feefdd url(/img/circles.png) right center no-repeat;
+  width: 90%;
+  margin: 30px auto;
+  padding: 10px 10px;
+  border-radius: 20px;  /* CSS3 */  
+  -webkit-border-radius: 20px;  /* Safari,Google Chrome */  
+  -moz-border-radius: 20px;  /* Firefox */ 
+}
+#key_intro .message{
+  width:95%;
+  margin: 20px auto;
+  color: #666;
+}
+.key_info{
+  margin: 0 auto;
+  width: 90%;
+  margin-bottom: 30px;
+}
+.citation{
+  width: 90%;
+  margin: 20px auto;
+  font-size:90%;
+  color: #555;
+}
+
+.hl {
+    color: #ff8899;
+}
+
+.bold {
+    color: #333;
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+#k1 h3 {
+    border-bottom: #ccc solid 2px;
+}
+
+#k2 h3 {
+    border-bottom: #ccc solid 2px;
+}
+
+#k3 h3 {
+    border-bottom: #ccc solid 2px;
+}
+
+@media screen and (max-width: 900px){
+    body{
+	width: 100%;
+    }
+    .wrapper{
+	width: 100% !important;
+	padding: 15px;
+	box-sizing: border-box;
+    }
+}

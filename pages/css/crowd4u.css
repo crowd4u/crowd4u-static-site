@@ -1,0 +1,310 @@
+@charset "utf-8";
+
+/* CSSリセット */
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,
+pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,
+strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,
+caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,
+figure,footer,header,hgroup,menu,nav,section,summary,time,mark,
+audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;
+vertical-align:baseline;background:transparent;font-weight:normal;}
+body{line-height:1}article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section{display:block}
+ul{list-style:none}blockquote,q{quotes:none}blockquote:before,
+blockquote:after,q:before,q:after{content:none}a{margin:0;padding:0;
+font-size:100%;vertical-align:baseline;background:transparent}
+del{text-decoration:line-through}abbr[title],dfn[title]
+{border-bottom:1px dotted;cursor:help}
+table{border-collapse:collapse;border-spacing:0}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;
+margin:1em 0;padding:0}input,select{vertical-align:middle}
+
+body{
+  background: #fff url(crowd4u.css) repeat-x;
+  font: 16px/24px Arial,Helvetica,"ヒラギノ丸ゴ Pro W4","Hiragino Maru Gothic Pro",'メイリオ',Meiryo,Sans-Serif;
+  color: #333;
+}
+
+a{ color: #6082bf; }
+  a:hover{color:#ff9c33;}
+
+#lang_bar{
+  width: 900px;
+  height: 100%;
+  margin: 0.5em auto;
+}
+#lang_bar_comment{
+  width: 900px;
+  height: 100%;
+  margin: 1.0em auto;
+}
+#wrapper{
+  height: 100%;
+  margin: 0 auto;
+}
+.hundred{
+  width: 900px;
+  margin: 0 auto;
+}
+hr.w{
+  height: 2px;
+  border: none;
+  border-top: 2px #fff solid;
+}
+.je{
+  float:right;
+  font-size: 80%;
+}
+
+/* =====================================================
+plus
+=====================================================
+*/
+input[disabled],
+select[disabled],
+textarea[disabled],
+input[readonly],
+select[readonly],
+textarea[readonly] {
+  cursor: not-allowed;
+  background-color: #eeeeee;
+}
+
+input[type="radio"][disabled],
+input[type="checkbox"][disabled],
+input[type="radio"][readonly],
+input[type="checkbox"][readonly] {
+  background-color: transparent;
+}
+
+.page_header, h1{
+  width:90%;
+  margin: 30px 0;
+}
+.title, h1{
+  background:url(../img/title30.png%3Fdate=20141127) 0 center no-repeat;
+  line-height: 30px;
+  padding: 0 0 0 35px;
+  color: #666;
+  font-size: 190%;
+  margin-bottom: 30px;
+}
+h2{
+  background:url(../img/title20.png%3Fdate=20141127) center left no-repeat;
+  padding-left:23px;
+  color: #888;
+  font-size: 130%;
+  margin: 50px 0 20px 0;
+  border-bottom: #ccc solid 2px;
+}
+h3{
+  color: #333;
+  font-weight: bold;
+  margin: 10px 0;
+}
+.bg_gray{
+  padding: 20px 0;
+  background: #f2f2f2;
+}
+.hl { /*highLight*/
+  color: #ff8899;
+}
+a{
+  text-decoration: none;
+}
+.bold {
+  color: #333;
+  font-weight: bold;
+  margin: 0 5px;
+}
+small{
+  color: #888;
+  font-size: 80%;
+}
+.annotation {
+  color: #c33;
+  font-size: 90%;
+}
+.pull_left {
+  float: left;
+  margin-right: 5px;
+}
+.pull_right {
+  float: right;
+  margin-left: 5px;
+}
+table th, table td{
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  padding: 5px;
+}
+
+/* =====================================================
+header
+=====================================================
+*/
+
+#idx_header{
+  background-color: #333;
+  width: 100%;
+
+}
+#header_cont{
+  width: 900px;
+  margin: 0 auto;
+  }
+.logo{
+  float: left;
+  margin-top: 30px;
+  }
+#header_cont .logo img{
+  opacity: 0.7;
+  filter: alpha(opacity=70);
+  -ms-filter: "alpha(opacity=70)";
+}
+
+#idx_nav{
+  background: #333 url(crowd4u.css) repeat-x;
+  padding-top: 13px;
+  padding-right: 10px;
+  float: right;
+}
+#idx_nav img{
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  -ms-filter: "alpha(opacity=50)";
+  height: 60px;
+}
+
+#header_cont a:hover img, #header_cont a.active img {
+  opacity: 1.0;
+  filter: alpha(opacity=100);
+  -ms-filter: "alpha(opacity=100)";
+}
+
+#idx_nav li{
+  display: inline;
+  margin-left: 20px;
+}
+
+/* =====================================================
+footer
+=====================================================
+*/
+
+footer{
+  padding: 20px 0;
+  background: #333;
+  text-align: center;
+}
+footer a{
+  text-decoration: none;
+}
+footer a:hover img {
+  opacity: 0.7;
+  filter: alpha(opacity=70);
+  -ms-filter: "alpha(opacity=70)";
+}
+.footer{
+  color: #aaa;
+  font-size: 90%;
+  margin-top: 10px;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  zoom: 1;
+}
+
+.button {
+    color: #fff;
+    display: inline-block;
+    height: 54px;
+    line-height: 54px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 1px 1px 0px #999;
+    min-width: 200px;
+    max-width: 300px;
+}
+.button-min {
+    color: #fff;
+    display: inline-block;
+    height: 27px;
+    line-height: 27px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 1px 1px 0px #999;
+    font-size: 90%;
+    min-width: 120px;
+    max-width: 180px;
+}
+.button::before,
+.button::after,
+.button-min::before,
+.button-min::after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: -1;
+}
+.button,
+.button::before,
+.button::after,
+.button-min,
+.button-min::before,
+.button-min::after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+
+.buttonBlue{
+    background-color: #99cccc;
+}
+.buttonBlue:hover{
+    color: #665140;
+}
+.buttonPink{
+    background-color: #ff8888;
+}
+.buttonYellow{
+    background-color: #f9bb82;
+}
+.buttonGreen{
+    background-color: #cccc99;
+}
+.buttonBlack{
+    background-color: #5d5d5d;
+}
+.buttonWhite{
+    background-color: #FFF;
+    border: 1px solid #999;
+    color: #999;
+    text-shadow: 1px 1px 0px #EEE;
+}
+
+.button:hover,
+.button-min:hover{
+    border-radius: 6px;
+    letter-spacing: 1px;
+    opacity: 0.8;
+}
+
+.button:active,
+.button-min:active{
+    color: #333333;
+    text-shadow: none;
+    transition: all 0s;
+}
+

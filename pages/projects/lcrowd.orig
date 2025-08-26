@@ -1,0 +1,756 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='ja'>
+  <head>
+    <base href='//crowd4u.org/ja/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='L-Crowd, CyLog, UniCat, The FusionCOMP Project, Crowd4U, Crowd_for_you, 筑波大学' name='keywords' />
+    <meta content='L-Crowd: The Library Crowdsourcing  Initiative in Japan - Crowd4U' name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='no-cache' http-equiv='Pragma' />
+    <meta content='no-store' http-equiv='Cache-Control' />
+    <meta content='no-cache' http-equiv='Cache-Control' />
+    <meta content='-1' http-equiv='Expires' />
+    <title>L-Crowd: The Library Crowdsourcing Initiative in Japan - Crowd4U</title>
+    <link href='https://crowd4u.org/projects/DEIM2017_Program' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_header.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_table.css' rel='stylesheet' type='text/css' />
+    <!-- Fontawesome -->
+    <link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+    <link href="/css/flickity.min.css" media="screen" rel="stylesheet" />
+    <style type="text/css">
+      #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+    </style>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <script src="/js/flickity.pkgd.min.js"></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <header id='idx_header'>
+      <div id='header_cont' style="color:white;">
+        <span style="display:inline-block; height:34px; line-height:34px;">
+          <a href="https://crowd4u.org/ja/projects/lcrowd#lcrowd_intro" style="color:white;">L-Crowdとは</a>
+        </span>
+        <span style="display:inline-block; height:34px; line-height:34px;">｜</span>
+
+        <span style="display:inline-block; height:34px; line-height:34px;">
+          <a href="https://crowd4u.org/ja/projects/lcrowd#projects" style="color:white;">プロジェクトと作業内容</a>
+        </span>
+        <span style="display:inline-block; height:34px; line-height:34px;">｜</span>
+
+        <span style="display:inline-block; height:34px; line-height:34px;">
+          <a href="https://crowd4u.org/ja/projects/lcrowd#history" style="color:white;">歴史</a>
+        </span>
+        <span style="display:inline-block; height:34px; line-height:34px;">｜</span>
+
+        <span style="display:inline-block; height:34px; line-height:34px;">
+          <a href="https://crowd4u.org/ja/projects/lcrowd#people" style="color:white;">チーム</a>
+        </span>
+        <span style="display:inline-block; height:34px; line-height:34px;">｜</span>
+
+        <span style="display:inline-block; height:34px; line-height:34px;">
+          <a href="https://crowd4u.org/ja/projects/lcrowd#banner" style="color:white;">バナーと設置方法</a>
+        </span>
+
+        <a class='project_logo' href=''>
+          <img align='right' alt='Crowd4U' height='20' src='/img/c4u_logo.png' />
+          <span style='color: white; font-size: 0.8em; margin-right: 1em;'>powered by:</span>
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+<div id='wrapper' style='width: 900px; margin: 15px auto; padding-top:0;'>
+
+<div id="langBar" style="text-align:right;">
+  <form>
+    <select id="langButton">
+      <option value="">-- Language --</option>
+      <option value="ar">Arabic</option>
+      <option value="bn">Bengali</option>
+      <option value="bg">Bulgarian</option>
+      <option value="zh">Chinese</option>
+      <option value="en">English</option>
+      <option value="fi">Finnish</option>
+      <option value="fr">French</option>
+      <option value="de">German</option>
+      <option value="el">Greek</option>
+      <option value="hi">Hindi</option>
+      <option value="id">Indonesian</option>
+      <option value="it">Italian</option>
+      <option selected="selected" value="ja">Japanese</option>
+      <option value="ko">Korean</option>
+      <option value="nl">Nederlands</option>
+      <option value="fa">Persian</option>
+      <option value="pt">Portuguese</option>
+      <option value="ru">Russian</option>
+      <option value="es">Spanish</option>
+      <option value="th">Thai</option>
+      <option value="tr">Trukish</option>
+      <option value="vi">Vietnamese</option>
+    </select>
+  </form>
+  <p class="note">* 現時点で翻訳が無い場合には英語で表示します</p>
+</div>
+
+  <div id='lcrowd_top' style="margin-top:0;">
+    <h1 style="color:#333; margin-top:15px;">L-Crowd: インターネットでできる図書館ボランティア<br />(図書館×クラウドソーシング)</h1>
+
+    <div class="main-carousel" style="overflow-y: hidden; max-height:435px; margin-bottom:16px;">
+      <div class="carousel-cel">
+        <img src='/img/800px-Ando_hirosige_miyakawanowatasi.jpg' alt='安藤広重 「伊勢参宮 宮川の渡し」に描かれた"Crowd(沢山の人々)" (Wikimedia Commonsより)' /><br />
+        <p style="text-align:center; font-size: 14px">安藤広重 「伊勢参宮 宮川の渡し」に描かれた"Crowd(沢山の人々)" (<a href="https://commons.wikimedia.org/wiki/File:Ando_hirosige_miyakawanowatasi.jpg">Wikimedia Commonsより</a>)</p>
+      </div>
+      <div class="carousel-cell">
+        <img src='/img/tofsystem.jpg' /><br />
+        <p style="text-align:center; font-size: 14px">筑波大学附属図書館に設置されたTOFシステム</p>
+      </div>
+    </div><!-- .main-carousel -->
+
+    <p>
+      <span>In Support of:</span><br />
+      <div style="margin: 0 auto;">
+      <div style="margin-bottom:12px; float:left; height:65px; width:271px; display: flex; justify-content: center; align-items: center;">
+        <a href="http://www.ndl.go.jp/" target="_blank">
+          <img src="/img/lcrowd/banner_ndl.png" width="230" height="60" alt="国立国会図書館" />
+        </a>
+      </div>
+      <div style="margin-bottom:12px; float:left; height:65px; width:260px; display: flex; justify-content: center; align-items: center;">
+        <a href="https://www.library.pref.kyoto.jp/" target="_blank" style="line-">
+          <img src="/img/lcrowd/banner_kyoto.png" alt="京都府立図書館" />
+        </a>
+      </div>
+      <div style="margin-bottom:12px; float:left; height:65px; width:271px; display: flex; justify-content: center; align-items: center;">
+        <a href="https://www.tulips.tsukuba.ac.jp/lib/" target="_blank">
+          <img src="/img/lcrowd/banner_tulips.png" height="65" alt="筑波大学附属図書館" />
+        </a>
+      </div>
+      <div style="float:left; height:80px; width:271px; display: flex; justify-content: center; align-items: center;">
+      <a href="http://alc.chiba-u.jp/" target="_blank">
+        <img src="/img/lcrowd/banner_alc.gif" height="50" alt="千葉大学附属図書館 / アカデミック・リンク・センター" />
+      </a>
+      </div>
+      <div style="float:left; height:80px; width:260px; display: flex; justify-content: center; align-items: center;">
+      <a href="http://www.slis.doshisha.ac.jp/" target="_blank">
+        <img src="/img/lcrowd/banner_doshisya.png" alt="同志社大学図書館情報学研究室" />
+      </a>
+      </div>
+      <div style="float:left; height:80px;  width:271px;display: flex; justify-content: center; align-items: center;">
+      <a href="http://web.flet.keio.ac.jp/slis/" target="_blank">
+        <img src="/img/lcrowd/banner_keio.png" height="80" alt="慶應義塾大学文学部図書館・情報学専攻" />
+      </a>
+      </div>
+      <div style="float:left; height: 90px;  width:271px; display: flex; justify-content: center; align-items: center;">
+      <a href="http://lss.ifs.kyushu-u.ac.jp/" target="_blank">
+        <img src="/img/lcrowd/banner_kyusyu.jpg" height="60" alt="九州大学大学院統合新領域学府ライブラリーサイエンス専攻" />
+      </a>
+      </div>
+      <div style="float:left; height: 90px; width:260px; display: flex; justify-content: center; align-items: center;">
+      <a href="http://www.aasa.ac.jp/faculty/department2016/human/library.html" target="_blank">
+        <img src="/img/lcrowd/banner_as.png" height="100" alt="愛知淑徳大学 人間情報学部人間情報学科 図書館情報学専修" />
+      </a>
+      </div>
+      <div style="float:left; height: 90px; width:271px; display: flex; justify-content: center; align-items: center;">
+      <a href="http://klis.tsukuba.ac.jp/" target="_blank">
+        <img src="/img/lcrowd/banner_tsukuba.png" height="52"  alt="筑波大学情報学群知識情報・図書館学類" />
+      </a>
+      </div>
+      <div style="float:left; height: 90px; width:271px; display: flex; justify-content: center; align-items: center;">
+      <a href="https://calil.jp/company/" target="_blank">
+        <img src="/img/lcrowd/banner_calil.png" height="40" alt="株式会社カーリル" />
+      </a>
+      </div>
+      </div>
+    </p>
+
+    <div id='updatelog' style="clear:both; padding-top:18px;">
+      <h4 style="margin-top:18px; font-weight:bold;">更新履歴</h4>
+      <ul style="background-color: #f6f6f6; height:120px; overflow-y: scroll;padding: 10px; list-style-type: disc; padding-left: 32px; border: 1px solid #999;">
+        <li>
+          2017/11/14:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              第19回図書館総合展内フォーラム「書誌の未来：クラウドソーシングで繋ぐ・溶かす」の発表資料を公開しました．
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/09/12:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              <a href="https://crowd4u.org/ja/events/competition_lcrowd">都道府県総合目録の将来像に関する研究プロジェクトにおいて，同定判定タスクを実施するAIワーカの公募を開始しました．</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/04/28:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              国立国会図書館が発行するメールマガジン「カレントアウェアネス-E」に「<a href="http://current.ndl.go.jp/e1907" target="_blank">L-Crowdによる日本の書誌誤同定／書誌割れ問題の解決に向けて</a>」が掲載されました
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/03/07:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              国立国会図書館が発行するメールマガジン<a href="http://www.ndl.go.jp/jp/library/library_news_toroku.html" target="_blank">「図書館協力ニュース」</a>に「『都道府県総合目録の将来像に関する研究プロジェクト』ボランティア参加のお願い」が掲載されました
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/03/06:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              国立国会図書館が運営する<a href="http://www.ndl.go.jp/jp/library/news/index.html" target="_blank">「図書館へのお知らせ」</a>に<a href="http://www.ndl.go.jp/jp/library/news/170303_04.html" target="_blank">「『都道府県総合目録の将来像に関する研究プロジェクト』ボランティア参加のお願い」</a>が掲載されました
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/02/27:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              <a href="http://www.arg.ne.jp/node/8833" target="_blank">ACADEMIC RESOURCE GUIDE 630号</a>に「都道府県総合目録の将来像に関する研究プロジェクト」に関する記事を寄稿しました
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/02/26:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              <a href="https://crowd4u.org/ja/projects/lcrowd#unicat-nl">「都道府県総合目録の将来像に関する研究プロジェクト」のニュースレター登録を開始しました</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/02/21:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              「都道府県総合目録の将来像に関する研究プロジェクト」を<a href="http://mainichi.jp/articles/20170221/ddl/k26/040/573000c" target="_blank">毎日新聞京都版朝刊およびweb版でご紹介頂きました</a>
+            </li>
+            <li>
+              「都道府県総合目録の将来像に関する研究プロジェクト」の毎日の実施タスク数と貢献者数の推移を<a href="https://twitter.com/hashtag/kunicat?f=tweets">ツイートするようにしました</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/02/17:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              「都道府県総合目録の将来像に関する研究プロジェクト」を<a href="http://www.kyoto-np.co.jp/politics/article/20170217000061" target="_blank">京都新聞夕刊およびweb版でご紹介頂きました</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/02/16:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              「都道府県総合目録の将来像に関する研究プロジェクト」を<a href="http://current.ndl.go.jp/node/33479" target="_blank">カレントアウェアネス-Rでご紹介頂きました</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          2017/02/14:<br />
+          <ul style="list-style-type: circle; padding-left:16px;">
+            <li>
+              <a href="http://crowd4u.org/ja/projects/lcrowd#unicat">「都道府県総合目録の将来像に関する研究プロジェクト」</a>のタスク配信を開始しました
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- lcrowd_intro -->
+
+    <div id='lcrowd_intro'>
+      <h2 style="color:#333;">L-Crowdとは</h2>
+      <p class='message'>
+        L-Crowdの目的は，人間の力が必要な図書館領域の問題に対してマイクロボランティアとクラウドソーシングによる解決を試みることです．例えば，様々なカタログの書誌レコードを機械同定した際の誤同定を見つける問題は，人の力抜きでは解決出来ません． マイクロボランティアとは，極めて短時間でできるボランティアの事であり，クラウドソーシングとは，インターネット等を通じて多くの人々に仕事を委託する事です．
+      </p>
+      <p class='message' style="margin-top:12px;">
+        L-Crowdでは，ボランティアの方々に，図書館領域におけるそのような問題を解決するために設計されたマイクロタスク(短時間でできる作業)をお願いしています． マイクロタスクを行うにはほんの短時間しか必要とされません．あなたの名前は貢献者一覧に掲載されます． 世界中のいかなる国からの貢献を歓迎します．いくつかのマイクロタスクは日本語の能力が必要ですが，英語や他の言語で可能なマイクロタスクもあります．
+      </p>
+      <p class='message' style="margin-top:12px;">
+        L-Crowdは<a href="http://crowd4u.org/" target="_blank" style="text-decoration:underline;">Crowd4Uオープンクラウドソーシングプラットフォーム</a>を利用しており，積極的に最新のクラウドソーシング技術を採用しています．たとえば，一部のタスクは床にマイクロタスクを投影する"Task-on-the-Floor" (TOF)システムを通じて配布され，人々は床に投影されたタスクの上を歩くだけでそのタスクを実行することができます．TOFシステムは複数の大学キャンパスに設置されています．
+      </p>
+    </div><!-- lcrowd_intro -->
+
+    <div id='projects'>
+      <h2 style="color:#333;">プロジェクトと作業内容</h2>
+
+
+      <h3 id='unicat' style="margin-bottom:0">
+        プロジェクト3. <br />都道府県総合目録の将来像に関する研究プロジェクト
+        <a href="https://twitter.com/share"
+           class="twitter-share-button"
+           data-url="https://crowd4u.org/ja/projects/lcrowd#unicat"
+           data-text="都道府県総合目録の将来像に関する研究プロジェクトに参加しました！"
+           data-hashtags="kunicat #lcrowd"
+           data-dnt="true"
+          >Tweet
+        </a>
+      </h3>
+      <p>
+        Twitterハッシュタグ: <a href="https://twitter.com/search?&q=%23kunicat" target="_blank">#kunicat</a>
+      </p>
+
+      <div style="background-color:#fff3f3; padding:6px 12px; margin-bottom:30px;">
+        <p class='message' style="margin-top:12px;">
+         「京都府域図書館総合目録ネットワークシステム」の充実を図るための産官学連携プロジェクトです．複数の図書館の所蔵情報をまとめた総合目録では，検索結果に同一の書籍が複数表示されないよう，データの同定を行う必要があります．しかし，書籍を特定するための番号であるISBNは運用の問題により重複して利用されていることがあり，機械的な判定では結果として誤同定されてしまうことがあります．また，ISBNがない書籍については機械的な同定を行うことが困難です．
+        </p>
+        <p class='message' style="margin-top:12px;">
+          本プロジェクトでは，京都府域の図書館のデータに対し，同定判定をマイクロタスクにより行うことで同一書籍を1つのデータとして表示し，システムを使いやすくすることを目指しています．
+        </p>
+        <p class='message' style="margin-top:12px;">
+          なおこのタスクでは，ある書誌の組合せに対し，複数人が判定をするという仕組みになっています．最終的な同定はその結果の多数決により行われます．
+        </p>
+
+        <h4 style="margin-top:18px; ">より詳しい説明：</h3>
+        <ul style="list-style-type: disc; padding-left: 32px;">
+          <li><a href="http://www.library.pref.kyoto.jp/?p=9196" style="text-decoration: underline;">全国の公立図書館初のクラウドソーシングを開始しました！</a>.  京都府立図書館, 2017年2月14日</li>
+          <li><a href="http://blog.calil.jp/2016/12/lcoud.html" style="text-decoration: underline;">京都府図書館総合目録ネットワークシステムの充実を図る産官学連携プロジェクトに参加します</a>.  カーリルのブログ, 2016年12月1日</li>
+          <li><a href="http://www.library.pref.kyoto.jp/?p=8373" style="text-decoration: underline;">京都府図書館総合目録ネットワークシステムの充実を図る産官学連携プロジェクトについて記者発表を行いました！</a>. 京都府立図書館, 2016年11月30日</li>
+        </ul>
+
+        <h4 style="margin-top:18px; font-weight:bold;">タスク</h4>
+        <p>書籍の同定 (日本語のみ対応)</p>
+
+        <p class='lc_info'>
+          <a class='microtask button buttonBlue sizeL group134 repeat-prefetch' href='javascript:void(0);'>Perform a task</a>
+        </p>
+
+        <h4 style="margin-top:18px; font-weight:bold;">
+          貢献者(募集中) <span id="numOfUniCatContributors"></span>
+        </h4>
+
+        <ul id="uniCatContributors" style="min-height:146px; padding: 10px; background-color: #fff; padding-bottom:10px; border:1px solid #999;">
+        </ul>
+        <p>
+          <a href="https://crowd4u.org/ja/projects/lcrowd#people" style="text-decoration: underline;">
+            貢献者としてこのプロジェクトに参加するには
+          </a>
+        </p>
+
+        <h4 style="margin-top:18px; font-weight:bold;">フォーラム「書誌の未来：クラウドソーシングで繋ぐ・溶かす」</h4>
+        <p>2017年11月8日に，第19回図書館総合展内フォーラム<br />「<a href="https://www.libraryfair.jp/forum/2017/5918">書誌の未来：クラウドソーシングで繋ぐ・溶かす</a>」を開催しました．
+        </p>
+
+        <ul style="background-color: #fff;padding: 10px;border: 1px solid #999;">
+          <li>
+              <a href="http://crowd4u.org/file/20171108_bib_01.pdf">発表資料1: 書誌割れの話</a>
+          </li>
+          <li>
+              <a href="http://crowd4u.org/file/20171108_bib_02.pdf">発表資料2: 京都府図書館総合目録ネットワーク（K-Libnet）の現状と課題</a>
+          </li>
+          <li>
+              <a href="http://crowd4u.org/file/20171108_bib_03.pdf">発表資料3: 本プロジェクトにおけるクラウドソーシングを用いた取り組み</a>
+          </li>
+        </ul>
+
+
+        <h4 style="margin-top:18px; font-weight:bold;">メディア掲載</h4>
+        <ul style="background-color: #fff; height:170px; overflow-y: scroll;padding: 10px; list-style-type: disc; padding-left: 32px; border: 1px solid #999;">
+          <li>
+              <a href="http://current.ndl.go.jp/e1907" target="_blank">L-Crowdによる日本の書誌誤同定／書誌割れ問題の解決に向けて</a>. カレントアウェアネス-E. No.324, 2017年4月28日
+          </li>
+          <li>
+              「都道府県総合目録の将来像に関する研究プロジェクト」ボランティア参加のお願い. 図書館協力ニュース. No.241, 2017年3月7日
+          </li>
+          <li>
+            <a href="http://www.ndl.go.jp/jp/library/news/170303_04.html" target="_blank" style="text-decoration: underline;">
+              「都道府県総合目録の将来像に関する研究プロジェクト」ボランティア参加のお願い
+            </a>. 図書館へのお知らせ, 2017年3月3日
+          </li>
+          <li>
+            <a href="http://www.arg.ne.jp/node/8833" target="_blank" style="text-decoration: underline;">
+              羅針盤「書誌情報をつなぐために －『都道府県総合目録の将来像に関する研究プロジェクト』の始動」
+            </a>. ACADEMIC RESOURCE GUIDE 630号, 2017年2月27日
+          </li>
+          <li>
+            <a href="http://mainichi.jp/articles/20170221/ddl/k26/040/573000c" target="_blank" style="text-decoration: underline;">
+              蔵書検索、システム充実へ ネット上のボランティア募集 ／京都
+            </a>. 毎日新聞京都版, 2017年2月21日
+          </li>
+          <li>
+            <a href="http://www.kyoto-np.co.jp/politics/article/20170217000061" target="_blank" style="text-decoration: underline;">
+              クラウドソーシングで蔵書検索の精度向上へ　京都府立図書館
+            </a>. 京都新聞, 2017年2月17日
+          </li>
+          <li>
+            蔵書検索 精度アップ クラウドソーシング導入. 京都新聞 (夕刊), 2017年2月16日
+          </li>
+          <li>
+            <a href="http://current.ndl.go.jp/node/33479" target="_blank" style="text-decoration: underline;">
+              京都府立図書館、「京都府図書館総合目録ネットワークシステムの充実を図る産官学連携プロジェクト」のクラウドソーシングを開始
+            </a>. カレントアウェアネス-R, 2017年2月16日
+          </li>
+          <li>
+            <a href="http://www.sankei.com/region/news/170111/rgn1701110038-n1.html" target="_blank" style="text-decoration: underline;">
+              蔵書検索の精度アップへ　京都府立図書館、大学や企業と連携
+            </a>. 産経新聞京都版, 2017年1月11日
+          </li>
+          <li>
+            <a href="http://internet.watch.impress.co.jp/docs/news/1032876.html" target="_blank" style="text-decoration: underline;">
+              ISBNコードの重複、書誌割れ……クラウドソーシングで同定して横断検索システムを改善、京都府立図書館やカーリルらが連携プロジェクト
+            </a>. INTERNET Watch, 2016年12月1日
+          </li>
+        </ul>
+
+        <h4 style="margin-top:18px; font-weight:bold;" id="unicat-nl">ニュースレター</h4>
+        <p>本プロジェクトに関するイベントが開催されるときや，タスクのアップデートが行われたときなどに配信を行います．是非ご登録ください．</p>
+
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup">
+        <form style="border:1px solid #999;" action="//calil.us8.list-manage.com/subscribe/post?u=fcf762033c0bc2f84df6118fe&amp;id=cc4693d824" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <div id="mc_embed_signup_scroll">
+            <label for="mce-EMAIL">都道府県総合目録の将来像に関する研究プロジェクトのニュースレターに登録</label>
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required />
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+              <input type="text" name="b_fcf762033c0bc2f84df6118fe_cc4693d824" tabindex="-1" value="">
+            </div>
+            <div class="clear">
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" />
+            </div>
+          </div>
+        </form>
+        </div>
+        <!--End mc_embed_signup-->
+
+        <h4 style="margin-top:18px; font-weight:bold;">本プロジェクトへの問合せ先</h4>
+        <p>
+          都道府県総合目録の将来像に関する研究プロジェクトへのお問合せは，下記までお願いいたします．<br />
+          future-unicat-prj-ml [] klis.tsukuba.ac.jp (please replace [] with @)
+        </p>
+      </div><!-- #unicat -->
+
+
+
+
+
+      <h3 id='hondigi' style="margin-bottom:0">
+        プロジェクト2. <br />国立国会図書館デジタルコレクションを便利にする
+        <br />
+        (翻デジ＠日本デジタル・ヒューマニティーズ学会 x マイクロタスク)
+      </h3>
+
+      <div style="background-color:#f3f3ff; padding:6px 12px; margin-bottom:30px;">
+        <p class='message'>
+          国立国会図書館デジタルコレクション（以下，国デコ）を色々便利に使えるようにするためプロジェクトです．マイクロタスクが利用可能な問題を切り出し，順次実現していきます．現在は次の2点を当面の目的としています．</p>
+        <ol style="margin-left:20px;">
+          <li>図書全体への関心を喚起するために絵や写真，図表を抜き出す</li>
+          <li>画像でしか提供されていない日本語資料の文字起こし(翻刻)を行うことで，多少なりともグーグルやBaidu，Bing等の全文検索エンジンから検索できるようにし，検索性を高める</li>
+        </ol>
+
+        <h4 style="margin-top:18px; font-weight:bold;">タスク1</h4>
+        <p>
+          テキストでない部分の発見(多言語対応) 
+        </p>
+
+        <p class='lc_info'>
+          <a class='microtask button buttonBlue sizeL group53 repeat-prefetch' href='javascript:void(0);'>Perform a task</a>
+        </p>
+
+        <h4 style="margin-top:18px; font-weight:bold;">タスク2</h4>
+        <p>正しい文字を選ぶ (日本語のみ対応)（入れ替え準備中）</p>
+<!--
+        <p class='lc_info'>
+          <a class='microtask button buttonBlue sizeL group94 repeat' href='javascript:void(0);'>Perform a task</a>
+        </p>
+-->
+
+        <h4 style="margin-top:18px; font-weight:bold;">ボランティアの成果</h4>
+        <p>
+          <a href="http://lab.ndl.go.jp/dhii/kunidicoview/" target="_blank" style="text-decoration: underline;">国デコ Image Wall</a>
+        </p>
+
+        <h4 style="margin-top:18px; font-weight:bold;">
+          貢献者(募集中) <span id="numOfHondigiContributors"></span>
+        </h4>
+
+        <ul id="hondigiContributors" style="min-height:146px; padding: 10px; background-color: #fff; padding-bottom:10px;border:1px solid #999;">
+        </ul>
+        <p>
+          <a href="https://crowd4u.org/ja/projects/lcrowd#people" style="text-decoration: underline;">
+            貢献者としてこのプロジェクトに参加するには
+          </a>
+        </p>
+      </div><!-- #hondigi-->
+
+
+
+
+      <h3 id="NDLBibIdentify" style="margin-bottom:0">
+        プロジェクト1.<br />NDL書誌レコードの誤同定を発見する (終了)
+      </h3>
+
+      <div style="border: 1px dashed #666; padding:6px 12px 12px; margin-bottom:30px;">
+        <p class='message'>
+          国立国会図書館の書誌情報を利用して同じISBNを持った全く異なる本を検出し，ISBN重複の実態を調査することにより、書誌情報のクリーニングを支援します．機械的にある程度怪しい組は見つかりますが，重版などの必ずしも異なる本ではない場合や，タイトルの書式が異なっている場合など，最終的な判断にはどうしても人間の判断が必要となります．
+        </p>
+        <p class='message' style="margin-top:12px;">
+          このプロジェクトの結果をリストとして公開し，図書館などのシステムでこのリストを使うことで書誌の誤同定問題を回避することができるようになります．また，今までは不明だったISBNの重複の規模等について知見が得られるという学術的な価値もあります．
+        </p>
+<!--
+        <br />
+        <p>タスク1: 誤同定の発見 (日本語のみ対応)</p>
+-->
+        <h4 style="margin-top:18px; font-weight:bold;">
+          貢献者(募集終了) <span id="numOfNDLBibIdentifyContributors"></span>
+        </h4>
+
+        <ul id="NDLBibIdentifyContributors" style="min-height:146px; padding: 10px; background-color: #f6f6f6; padding-bottom:10px;border:1px dashed #666;">
+        </ul>
+      </div>
+    </div> <!--projects-->
+
+
+    <div id='history'>
+      <h2 style="color:#333;">L-Crowdの歴史</h2>
+      <p class='message'>
+        L-Crowdは，2012年8月に図書館情報学とコンピュータサイエンスの研究者によって開始された，日本で最初の大規模図書館クラウドソーシングの試みです．同年10月に，NDLによる機械書誌誤同定の結果に置ける誤同定判定のタスクの提供を開始しました．2013年3月には10以上の日本の大学等からのボランティアが参加をしています．2015年には，NDL近代デジタルライブラリーの非テキストコンテンツを識別するためのマイクロタスクと，OCRの校正により著作権保護期間が終了した国立国会図書館デジタルコレクションの一部を翻刻するマイクロタスクの提供を開始しました．2016年には，都道府県総合目録の将来像に関する研究プロジェクトを開始しました．
+      </p>
+    </div><!-- history -->
+
+
+    <div id='people'>
+      <h2 style="color:#333;">チーム</h2>
+      <p class='message'>
+        <a href='/login' style="text-decoration: underline;">Crowd4Uのアカウントを作り，ログインした状態でタスクを行うことで貢献者としてアカウント名が掲載されます．</a><br />アカウント名は実名，ハンドル名のどちらでも構いません．
+      </p>
+
+      <div class='nav'>
+        <h3>Specialist Contributors (As of April 27, 2017)：</h3>
+        <ul style="list-style-type: disc; padding-left: 32px;">
+<!--A-->
+          <li>浅石卓真（南山大学）</li>
+<!--F-->
+          <li>ふじたまさえ（株式会社カーリル / アカデミック・リソース・ガイド株式会社）</li>
+          <li>福島幸宏（京都府立図書館）</li>
+<!--H-->
+          <li>原田隆史（同志社大学 / 国立国会図書館非常勤調査員）</li>
+<!--I-->
+          <li>池田光雪（千葉大学 / 国立国会図書館非常勤調査員）</li>
+          <li>池内淳（筑波大学）</li>
+          <li>石田栄美（九州大学）</li>
+          <li>伊藤真理（愛知淑徳大学）</li>
+          <li>逸村裕（筑波大学）</li>
+<!--K-->
+          <li>川島隆徳（国立国会図書館）</li>
+          <li>倉田敬子（慶應義塾大学）</li>
+<!--M-->
+          <li>森嶋厚行（筑波大学）</li>
+<!--N-->
+          <li>永森光晴（筑波大学）</li>
+          <li>永崎研宣（一般財団法人人文情報学研究所 / 東京大学 / 国立国会図書館研究員）</li>
+<!--O-->
+          <li>岡部晋典（愛知淑徳大学）</li>
+          <li>大向一輝（国立情報学研究所）</li>
+<!--S-->
+          <li>佐藤翔（同志社大学）</li>
+<!--T-->
+          <li>谷口祥一（慶応義塾大学）</li>
+<!--U-->
+          <li>宇陀則彦（筑波大学）</li>
+<!--Y-->
+          <li>吉本龍司（株式会社カーリル）</li>
+        </ul>
+
+        <h3>協力組織（順不同）</h3>
+        <ul style="list-style-type: disc; padding-left: 32px;">
+          <li>
+            <a href='http://www.ndl.go.jp/' target='_blank'>国立国会図書館</a>
+          </li>
+          <li>
+            <a href='https://www.library.pref.kyoto.jp/' target='_blank'>京都府立図書館</a>
+          </li>
+          <li>
+            <a href='https://www.tulips.tsukuba.ac.jp/lib/' target='_blank'>筑波大学附属図書館</a>
+          </li>
+          <li>
+            <a href='http://www.ll.chiba-u.ac.jp/' target='_blank'>千葉大学附属図書館</a> / 
+            <a href='http://alc.chiba-u.jp/' target='_blank'>アカデミック・リンク・センター</a>
+          </li>
+          <li>
+            <a href='http://www.slis.doshisha.ac.jp/' target='_blank'>同志社大学図書館情報学研究室</a>
+          </li>
+          <li>
+            <a href='http://web.flet.keio.ac.jp/slis/' target='_blank'>慶應義塾大学文学部図書館・情報学専攻</a>
+          </li>
+          <li>
+            <a href='http://lss.ifs.kyushu-u.ac.jp/' target='_blank'>九州大学大学院統合新領域学府ライブラリーサイエンス専攻</a>
+          </li>
+          <li>
+            <a href='http://www.aasa.ac.jp/faculty/department2016/human/library.html' target='_blank'>愛知淑徳大学 人間情報学部人間情報学科 図書館情報学専修</a>
+          </li>
+          <li>
+            <a href='http://klis.tsukuba.ac.jp/' target='_blank'>筑波大学情報学群知識情報・図書館学類</a>
+          </li>
+          <li>
+            <a href='https://calil.jp/company/' target='_blank'>株式会社カーリル</a>
+          </li>
+        </ul>
+
+      </div><!-- nav -->
+
+      <div class='info'>
+        <h3 style="color:#333;">協力組織・個人を募集しております</h3>
+        <p class='lc_info'>L-Crowdへの参加にご興味のある組織・個人を募集しております．下記までご連絡下さい．</p>
+        <p class='lc_info'>lcrowd [] crowd4u.org (please replace [] with @)</p>
+      </div><!--info -->
+    </div><!-- people -->
+
+    <br />
+    <div id='banner'>
+      <h2 style="color:#333;">バナーと設置方法</h2>
+      <div style='margin: 5px 0px 20px 20px;'>
+        <h3>バナー1: 190x49px</h3>
+        <a href='/projects/lcrowd'>
+          <img alt='lcrowd_ja_190x49.png' hspace='10' src='/img/banner/lcrowd_ja_190x49.png' title='lcrowd_ja_190x49.png' />
+        </a>
+        <br />
+        <script src="https://gist.github.com/lumely/1024ef467e1ad34fe8cdd9e5e8c52839.js"></script>
+
+        <h3>バナー2: 225x76px</h3>
+        <a href='/projects/lcrowd'>
+          <img alt='lcrowd_ja_225x76.png' hspace='10' src='/img/banner/lcrowd_ja_225x76.png' title='lcrowd_ja_225x76.png' />
+        </a>
+        <br />
+
+        <script src="https://gist.github.com/lumely/11403a80e3ae884eafec58132247a595.js"></script>
+
+        <h3>バナー3: 234x60px</h3>
+        <a href='/projects/lcrowd'>
+          <img alt='lcrowd_ja_234x60.png' hspace='10' src='/img/banner/lcrowd_ja_234x60.png' title='lcrowd_ja_234x60.png' />
+        </a>
+        <br />
+
+        <script src="https://gist.github.com/lumely/6c7ec2e31374999d34e3a49e74fa0548.js"></script>
+
+      </div>
+    </div><!-- banner -->
+  </div><!-- lcrowd_top -->
+
+</div><!--wrapper-->
+
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u_jp' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+  <script src='/js/jquery.js'></script>
+  <script src='/js/bootstrap-modal.js'></script>
+  <script src='/js/scrollsmooth.js'></script>
+  <script src='/js/scrolltopcontrol.js'></script>
+  <script src='/script/task_loader.js?requester=-1&length=10' type='text/javascript'></script>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <script src="https://crowd4u.org/js/lcrowd_unicat.js"></script>
+  <script type="text/javascript" src="https://crowd4u.org/js/jquery.xdomainajax.js"></script>
+  <script type="text/javascript">
+var elem = document.querySelector('.main-carousel');
+var flkty = new Flickity( elem, {
+  // options
+  cellAlign: 'center',
+  contain: true
+});
+
+// element argument can be a selector string
+//   for an individual element
+var flkty = new Flickity( '.main-carousel', {
+  // options
+});
+
+function showContributors(primary_group_id, prj_id, display_nums, output_destination_id_name, destination_header_id_name, is_finished) {
+  // 非同期通信
+  // ランキングページからスクレイピング
+  $.ajax({  
+// ランキングページではなくまとめページから取ってくる場合，10件しか取れない．また，HTMLの構造も変わる
+//  url:  'http://crowd4u.org/ja/projects',
+    url:  'https://crowd4u.org/ja/projects/ranking',
+    type: 'GET',
+  }).success(function(data){
+
+    // httpでアクセスしているときはこれで良い
+//    var contributors  = $(data).find('#p'+prj_id+' + div.proj .sub_member ul li');
+    var contributors = $(data).find('#group'+primary_group_id+' + table tr td:nth-child(2)');
+
+    // httpsでアクセスしているときはレスポンスが変わるので取得しなおし
+    if (contributors.length == 0){
+//      var contributors = $(data.results[0]).find('#p'+prj_id+' + div.proj .sub_member ul li');
+      var contributors = $(data.results[0]).find('#group'+primary_group_id+' + table tr td:nth-child(2)');
+    }
+
+    // n名中m名の表示．終わっていない場合は最新ではないランキングの可能性があるため暫定をつける
+    if (is_finished == "TRUE"){
+      $("#"+destination_header_id_name).append('(' +contributors.length + '名中タスク実施数の上位' + display_nums + '名)');
+//      $("#"+destination_header_id_name).append('(タスク数上位' + display_nums + '名)');
+    }else {
+      $("#"+destination_header_id_name).append('(' +contributors.length + '名中タスク実施数の上位' + display_nums + '名(暫定))');
+//      $("#"+destination_header_id_name).append('(タスク数上位' + display_nums + '名(暫定))');
+    }
+
+    // 貢献者を出力
+    contributors.each(function(index){
+      $("#"+output_destination_id_name)
+        .append('<li style="display:inline-block; width:210px; ">' + $(this).text() + '</li>');
+          if(index == (display_nums -1)){ // display_nums個出力したら
+            return false; // break;
+          }
+      });
+
+    // 最後に貢献者一覧へのリンクを生成
+    $("#"+output_destination_id_name)
+      .append('<li style="display:inline-block; width:100%; text-align:right;"><a href="http://crowd4u.org/ja/projects/ranking#group'+primary_group_id+'" style="text-decoration:underline;">貢献者一覧</a></li>');
+
+  // 一応エラー時の対応
+  }).error(function(data){
+    console.log("something wrong");
+    console.log(data);
+  });
+
+  return true;
+}
+
+// 3つのプロジェクトそれぞれ読み込む．まとめてやれたらもっといいかも
+//showContributors(primary_group_id, prj_id, display_nums, output_destination_id_name, destination_header_id_name, is_finished) {
+showContributors(133, 21, 20, "uniCatContributors",         "numOfUniCatContributors",         "");
+showContributors(52,  15, 20, "hondigiContributors",        "numOfHondigiContributors",        "");
+showContributors(2,   2,  20, "NDLBibIdentifyContributors", "numOfNDLBibIdentifyContributors", "TRUE");
+
+
+$("#langButton").change(function(){
+  // 国コード
+  var country = $(this).val();
+
+  // URLから，現在の国コード以外を取得
+  location.href.match(/(^.+crowd4u\.org\/)..(.+$)/);
+
+  // 別言語のページに遷移
+  window.location.href = (RegExp.$1 + country + RegExp.$2);
+
+});
+
+  </script>
+  </body>
+</html>

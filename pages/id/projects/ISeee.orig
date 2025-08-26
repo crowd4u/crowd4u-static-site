@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='id'>
+  <head>
+    <base href='//crowd4u.org/id/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta content='ISeee Project: Information Support of Everyone, by Everyone, for Everyone' name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='no-cache' http-equiv='Pragma' />
+    <meta content='no-store' http-equiv='Cache-Control' />
+    <meta content='no-cache' http-equiv='Cache-Control' />
+    <meta content='-1' http-equiv='Expires' />
+    <title>ISeee Project: Information Support of Everyone, by Everyone, for Everyone - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/projects/ISeee' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/projects/ISeee' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/projects/ISeee' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/projects/ISeee' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/projects/ISeee' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/projects/ISeee' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/projects/ISeee' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/projects/ISeee' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/projects/ISeee' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/projects/ISeee' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/it/projects/ISeee' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/projects/ISeee' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/projects/ISeee' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/projects/ISeee' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/projects/ISeee' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/projects/ISeee' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/projects/ISeee' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/projects/ISeee' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/projects/ISeee' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/projects/ISeee' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/projects/ISeee' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/projects/ISeee' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_header.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_table.css' rel='stylesheet' type='text/css' />
+    <!-- Fontawesome -->
+    <link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <script src='/js/jquery.js'></script>
+    <script src='/js/bootstrap-modal.js'></script>
+    <script src='/js/scrollsmooth.js'></script>
+    <script src='/js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='project_logo' href=''>
+          <img align='right' alt='Crowd4U' height='20' src='/img/c4u_logo.png' />
+          <span style='color: white; font-size: 0.8em; margin-right: 1em;'>powered by:</span>
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/projects/ISeee'>Arabic</option>
+            <option value='/bn/projects/ISeee'>Bengali</option>
+            <option value='/bg/projects/ISeee'>Bulgarian</option>
+            <option value='/zh/projects/ISeee'>Chinese</option>
+            <option value='/en/projects/ISeee'>English</option>
+            <option value='/fi/projects/ISeee'>Finnish</option>
+            <option value='/fr/projects/ISeee'>French</option>
+            <option value='/de/projects/ISeee'>German</option>
+            <option value='/el/projects/ISeee'>Greek</option>
+            <option value='/hi/projects/ISeee'>Hindi</option>
+            <option selected='selected' value='/id/projects/ISeee'>Indonesian</option>
+            <option value='/it/projects/ISeee'>Italian</option>
+            <option value='/ja/projects/ISeee'>Japanese</option>
+            <option value='/ko/projects/ISeee'>Korean</option>
+            <option value='/nl/projects/ISeee'>Nederlands</option>
+            <option value='/fa/projects/ISeee'>Persian</option>
+            <option value='/pt/projects/ISeee'>Portuguese</option>
+            <option value='/ru/projects/ISeee'>Russian</option>
+            <option value='/es/projects/ISeee'>Spanish</option>
+            <option value='/th/projects/ISeee'>Thai</option>
+            <option value='/tr/projects/ISeee'>Trukish</option>
+            <option value='/vi/projects/ISeee'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        * Currently, English is used if we do not have translations
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <h1>ISeee Project: Information Support of Everyone, by Everyone, for Everyone</h1>
+                                                          
+                                                          <img src="/img/collaborators/iseee_animalslide.jpg" width="80%"
+                                                          style="margin: 0 auto;display: block;" alt="What is ISeee Project?">
+                                                          
+                                                          <h2>What is ISeee Project?</h2>
+                                                          
+                                                          <p>ISeee is an abbreviation of "Information Support of Everyone, by Everyone, for Everyone."</p>
+                                                          <ul>
+                                                          <li>- Information Support
+                                                          <li>- of Everyone
+                                                          <li>- by Everyone (Everyone provides information support)
+                                                          <li>- for Everyone (Everyone receives information support)
+                                                          </ul>
+                                                          
+                                                          <br>
+                                                          
+                                                          <p>
+                                                          Information support is the technology that helps people with disabilities acquire information using alternative means. ISeee project applies crowdsourcing technique to the field of information support and aims to provide a platform where everyone can make good use of their abilities to provide information support so that everyone can receive information support regardless of disabled or non-disabled people. We expect to realize a society where everyone can say "I see."
+                                                          </p>
+                                                          
+                                                          <br>
+                                                          
+                                                          <p>
+                                                          As the first step, we are developing a crowdsourcing-based system of sign language captioning by deaf and hard-of-hearing people. Multiple non-expert people who know sign language cooperate to interpret sign language to text in real-time, which provides information support to the people who do not know sign language. One of our goal is to achieve a practical use of the system at academic conventions by the end of fiscal 2017. The constructed system will be open to the public.
+                                                          </p>
+                                                          
+                                                          <!-- <img src="/img/collaborators/iseee_slide-e.jpg" width="80%" style="margin: 0 auto;display: block;" alt="What is ISeee Project?"> -->
+                                                          
+                                                          <h2>People</h2>
+                                                          <ul>
+                                                          <li> Rumi Hiraga (Tsukuba University of Technology)
+                                                          <li> Yuhki Shiraishi (Tsukuba University of Technology)
+                                                          <li> Jianwei Zhang (Iwate University)
+                                                          <li> Daisuke Wakatsuki (Tsukuba University of Technology)
+                                                          <li> Takeaki Shionome (Teikyo University)
+                                                          <li> Takuya Suzuki (Tsukuba University of Technology)
+                                                          <li> Ying Zhong (University of Tsukuba)
+                                                          <li> Masaki Matsubara (University of Tsukuba)
+                                                          <li> Atsuyuki Morishima (University of Tsukuba)
+                                                          <li> Makoto Kobayashi (Tsukuba University of Technology)
+                                                          <li> Yoshiki Fukunaga (Tsukuba University of Technology)
+                                                          <li> Manabi Miyagi (Tsukuba University of Technology)
+                                                          <li> Chiemi Watanabe (Tsukuba University of Technology, University of Tsukuba)
+                                                          </ul>
+                                                          
+                                                          <h2>Past People</h2>
+                                                          <ul>
+                                                          <li> Hirotaka Hashimoto (University of Tsukuba, till fiscal 2017)
+                                                          <li> Katsumi Kumai (University of Tsukuba, till fiscal 2016)
+                                                          <li> Emi Sakurai (University of Tsukuba, till fiscal 2015)
+                                                          <li> Akiko Kawabata (University of Tsukuba, till fiscal 2015)
+                                                          </ul>
+                                                          
+                                                          <h2>Achievements</h2>
+                                                          <ol>
+                                                          <li>Ying Zhong, Masaki Matsubara, Makoto Kobayashi and Atsuyuki Morishima:
+                                                          Understandable Microtasks With No Visual Representation. WorkInProgress,The seventh AAAI Conference on Human Computation and Crowdsourcing (HCOMP2019), Skamania Lodge, WA, Oct 28–30, 2019.
+                                                          <li>Hirotaka Hashimoto, Masaki Matsubara, Yuhki Shiraishi, Daisuke Wakatsuki, Jianwei Zhang and Atsuyuki Morishima: A Task Assignment Method Considering Inclusiveness and Activity Degree. In Proceedings of The Second IEEE Workshop on Human-in-the-loop Methods and Human Machine Collaboration in BigData (IEEE HMData2018), pp. 3498-3503 , Seattle, WA, USA, 2018.
+                                                          <li>Ying Zhong, Masaki Matsubara, Atsuyuki Morishima. Identification of Important Images for Understanding Web Pages. In Proceedings of The Second IEEE Workshop on Human-in-the-loop Methods and Human Machine Collaboration in BigData (IEEE HMData2018), pp. 3567－3573, Seattle, USA, Dec 10 (Dec 10-13), 2018.
+                                                          <li>Daisuke Wakatsuki, Rumi Hiraga, Makoto Kobayashi, Yuhki Shiraishi, Takeaki Shionome, Jianwei Zhang, Yoshiki Fukunaga, Manabi Miyagi, Atsuyuki Morishima, "A Study on Information Support for Deaf and Hard-of-Hearing People Using Sports Game Timeline", The 2018 IEEE International Conference on Systems, Man, and Cybernetics(IEEE SMC2018), pp.2244-2249，Miyazaki, Japan, October 2018．</li>
+                                                          <li>Katsumi Kumai, Masaki Matsubara, Yuhki Shiraishi, Daisuke Wakatsuki, Jianwei Zhang, Takeaki Shionome, Hiroyuki Kitagawa and Atsuyuki Morishima, Skill-and-Stress-Aware Assignment of Crowd-Worker Groups to Task Streams, The sixth AAAI Conference on Human Computation and Crowdsourcing (HCOMP2018), pp.88-97, Zurich, Switzerland July 6 (July 5–8), 2018
+                                                          <li>Takeaki Shionome, Hirotaka Hashimoto, Jianwei Zhang, Yuhki Shiraishi, Daisuke Wakatsuki, Yohei Seki, and Atsuyuki Morishima,“Complement of Incomplete Task Results for Real-time Crowdsourcing Interpretation”, Proc. 21th International Conference on Asian Language Processing (IALP 2017), pp.359-362, Singapore, December  2017.
+                                                          <li>Katsumi Kumai, Jianwei Zhang, Yuhki Shiraishi, Daisuke Wakatsuki, Hiroyuki Kitagawa, Atsuyuki Morishima, "Group Rotation Management in Real-Time Crowdsourcing", Proc. 19th International Conference on Information Integration and Web-based Applications & Services (iiWAS 2017) , pp.23-31, Salzburg, Austria, December 2017.
+                                                          <li>Yuhki Shiraishi, Jianwei Zhang, Daisuke Wakatsuki, Katsumi Kumai, and Atsuyuki Morishima, "Crowdsourced Real-Time Captioning of Sign Language by Deaf and Hard-of-Hearing People", International Journal of Pervasive Computing and Communications, Vol. 13, No. 1, pp.2-25, 2017.  <strong style="font-weight: bold;">(Highly Commended Award by Emerald Publishing)</strong>
+                                                          <li>Jianwei Zhang, Yuhki Shiraishi, Katsumi Kumai, and Atsuyuki Morishima, "Real-Time Captioning of Sign Language by Groups of Deaf and Hard-of-Hearing People", Proc. The 18th International Conference on Information Integration and Web-based Applications & Services (iiWAS 2016), pp.56-65, Singapore, November 2016.
+                                                          <li>Katsumi Kumai, Yuhki Shiraishi, Jianwei Zhang, Hiroyuki Kitagawa and Atsuyuki Morishima, "Group Rotation Type Crowdsourcing", The Fourth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2016), Work-in-Progress Poster, 3 pages, Austin, Texas, USA, November 2016.
+                                                          
+                                                          <h2>Cooperative Organization</h2>
+                                                          <ul>
+                                                          <li><a href="http://npo-stand.jp/">NPO STAND</a>
+                                                          <li><a href="http://www.ipsj-dbs.org">IPSJ DBS</a>
+                                                          </ul>
+                                                          
+                                                          <h2>Support Organization / Funding</h2>
+                                                          <ul>
+                                                          <li>This work is partially supported by NII, Tsukuba University of Technology, JST, JSPS.
+                                                          </ul>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

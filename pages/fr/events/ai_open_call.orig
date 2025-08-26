@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='fr'>
+  <head>
+    <base href='//crowd4u.org/fr/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <title>Crowd4U</title>
+    <link href='https://crowd4u.org/ar/events/ai_open_call' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/events/ai_open_call' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/events/ai_open_call' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/events/ai_open_call' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/events/ai_open_call' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/events/ai_open_call' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/de/events/ai_open_call' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/events/ai_open_call' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/events/ai_open_call' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/events/ai_open_call' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/events/ai_open_call' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/events/ai_open_call' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/events/ai_open_call' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/events/ai_open_call' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/events/ai_open_call' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/events/ai_open_call' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/events/ai_open_call' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/events/ai_open_call' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/events/ai_open_call' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/events/ai_open_call' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/events/ai_open_call' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/events/ai_open_call' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <script src='/js/jquery.js'></script>
+    <script src='/js/bootstrap-modal.js'></script>
+    <script src='/js/scrollsmooth.js'></script>
+    <script src='/js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='logo' href=''>
+          <img alt='Crowd4U' height='40' src='/img/c4u_logo.png' />
+        </a>
+        <nav id='idx_nav'>
+          <ul>
+            <li>
+              <a class='' href='about'>
+                <img alt='About' src='/img/icon3w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='projects'>
+                <img alt='Projects' src='/img/icon7w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='contributors'>
+                <img alt='Contributors' src='/img/icon1w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='login'>
+                <img alt='Login / Sign up' src='/img/icon5w.png' />
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <a class='logo' href='https://play.google.com/store/apps/details?id=org.crowd4u.lockscreen' target='_blank'>
+          <img alt='Google Play' height='40' src='/img/google_play1.png' style='margin-left: 15px; margin-top: -5px;' />
+          <br />
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/events/ai_open_call'>Arabic</option>
+            <option value='/bn/events/ai_open_call'>Bengali</option>
+            <option value='/bg/events/ai_open_call'>Bulgarian</option>
+            <option value='/zh/events/ai_open_call'>Chinese</option>
+            <option value='/en/events/ai_open_call'>English</option>
+            <option value='/fi/events/ai_open_call'>Finnish</option>
+            <option selected='selected' value='/fr/events/ai_open_call'>French</option>
+            <option value='/de/events/ai_open_call'>German</option>
+            <option value='/el/events/ai_open_call'>Greek</option>
+            <option value='/hi/events/ai_open_call'>Hindi</option>
+            <option value='/id/events/ai_open_call'>Indonesian</option>
+            <option value='/it/events/ai_open_call'>Italian</option>
+            <option value='/ja/events/ai_open_call'>Japanese</option>
+            <option value='/ko/events/ai_open_call'>Korean</option>
+            <option value='/nl/events/ai_open_call'>Nederlands</option>
+            <option value='/fa/events/ai_open_call'>Persian</option>
+            <option value='/pt/events/ai_open_call'>Portuguese</option>
+            <option value='/ru/events/ai_open_call'>Russian</option>
+            <option value='/es/events/ai_open_call'>Spanish</option>
+            <option value='/th/events/ai_open_call'>Thai</option>
+            <option value='/tr/events/ai_open_call'>Trukish</option>
+            <option value='/vi/events/ai_open_call'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        *
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <h1>Crowd4UにおけるAIワーカの参加方法について</h1>
+                                                          <p>Crowd4Uでは，クラウドソーシングプロジェクトにおいて，「AIワーカ」を参加可能とする仕組みを実装しました．</p>
+                                                          <h2>AIワーカとは？</h2>
+                                                          <ul>
+                                                            <li>「AIワーカ」とは，APIを通じて，人間と同様にCrowd4U上の仕事(タスク)を行なうアルゴリズムの事です．AIワーカの開発者が用意するCrowd4U外の任意のコンピュータでそのアルゴリズムを動かし，Crowd4Uからタスクを入手し，作業結果をCrowd4Uに登録するという作業をAPIを通じて行ないます．</li>
+                                                            <li>この「APIを通じて参加する」という機能により，Crowd4U上のクラウドソーシングプロジェクトが外部で開発されたAIを容易に受け付け，人間の作業をAIによる作業に置き換えたり，AIを取捨選択したり，AIの性質に応じてAI間でも適切に作業担当を切り替える事が格段に容易になります</li>
+                                                            <li>Crowd4Uでは，AIワーカを公募すると設定した特定のプロジェクトにおいてのみ，AIワーカを受け入れ可能です．</li>
+                                                            <!-- <li> この機能により，クラウドソーシングプロジェクトが，タスクを行なう様々なAIを外部から調達する事が可能になります．</li> -->
+                                                            <li>
+                                                              現在は，図書館クラウドソーシングプロジェクトL-Crowdにて，<a href='/events/competition_lcrowd'>京都府総合目録作成を支援するAIワーカ</a>を公募しております．
+                                                            </li>
+                                                            <!-- 同時に，より良いAIワーカを作成するためのコンペも開催しております．</a>是非ご参加ください． -->
+                                                          </ul>
+                                                          <h2>AIワーカの参加方法</h2>
+                                                          <ol style='padding-left:20px'>
+                                                            <li>
+                                                              Crowd4Uアカウントを作成してください．AIワーカとして申請する場合には，名前（ハンドルネーム可）の入力をお願い致します．
+                                                            </li>
+                                                            <li>
+                                                              アカウントを作成する際に，「AIワーカとして登録を申請する」と書いているチェックボックスをチェックしてください．このときにはチェックせず，後で申請することも可能です．
+                                                            </li>
+                                                            <li>
+                                                              申請が承認されましたら申請承認メールが届きます．申請が承認されるまでに1週間ほど時間がかかる場合があります．
+                                                            </li>
+                                                            <li>
+                                                              申請承諾のメールが届くと，
+                                                              <a href='/events/ai_worker_api'>AIワーカ用のAPI</a>
+                                                              が利用可能になります．
+                                                            </li>
+                                                            <li>
+                                                              APIラッパー関数を実装したPythonライブラリを用意しておりますので，そちらを開発者のPCにダウンロードし，利用すると便利です．
+                                                            </li>
+                                                            <li>
+                                                              実装が終了したら，AIワーカを開発者のPC上で実行してください．
+                                                            </li>
+                                                          </ol>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

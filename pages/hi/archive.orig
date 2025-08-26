@@ -1,0 +1,453 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='ja'>
+  <head>
+    <base href='/hi/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <!-- Required meta tags -->
+    <meta charset='utf-8' />
+    <meta content='width=device-width, initial-scale=1, shrink-to-fit=no' name='viewport' />
+    <title>NEWS</title>
+    <!-- Favicon -->
+    <link href='/images/favicon.ico' rel='shortcut icon' type='image/icon' />
+    <!-- Font Awesome -->
+    <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' rel='stylesheet' />
+    <!-- Bootstrap CSS -->
+    <link crossorigin='anonymous' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css' integrity='sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB' rel='stylesheet' />
+    <!-- Slick slider -->
+    <link href='/css/slick.css' rel='stylesheet' />
+    <!-- Gallery Lightbox -->
+    <link href='/css/magnific-popup.css' rel='stylesheet' />
+    <!-- Skills Circle CSS -->
+    <link href='https://unpkg.com/circlebars@1.0.3/dist/circle.css' rel='stylesheet' type='text/css' />
+    <!-- Main Style -->
+    <link href='/css/style.css' rel='stylesheet' />
+    <link href='/css/c4u.css' rel='stylesheet' />
+    <!-- Fonts -->
+    <!-- Google Fonts Raleway -->
+    <link href='https://fonts.googleapis.com/css?family=Raleway:300,400,400i,500,500i,600,700' rel='stylesheet' />
+    <!-- Google Fonts Open sans -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800' rel='stylesheet' />
+    <title>NEWS - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/archive' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/archive' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/archive' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/archive' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/archive' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/archive' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/archive' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/archive' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/archive' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/id/archive' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/archive' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/archive' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/archive' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/archive' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/archive' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/archive' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/archive' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/archive' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/archive' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/archive' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/archive' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/archive' hreflang='x-default' rel='alternate' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- START SCROLL TOP BUTTON -->
+    <a class='scrollToTop' href='#'>
+      <i class='fa fa-angle-up'></i>
+    </a>
+    <!-- END SCROLL TOP BUTTON -->
+    <!-- Start Header -->
+    <header id='mu-hero'>
+      <div class='container'>
+        <nav class='navbar navbar-expand-lg navbar-light mu-navbar'>
+          <a class='navbar-brand mu-logo' href='index.html'>
+            <img alt='logo' src='/images/logo_820x180@2x.png' />
+            <span>Your micro-contributions can make a difference</span>
+          </a>
+          <button aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation' class='navbar-toggler' data-target='#navbarSupportedContent' data-toggle='collapse' type='button'>
+            <span class='fa fa-bars'></span>
+          </button>
+          <div class='collapse navbar-collapse' id='navbarSupportedContent'>
+            <ul class='navbar-nav mr-auto mu-navbar-nav'>
+              <li class='nav-item'>
+                <a class='' href='home'>MY PAGE</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='about'>About Crouwd4u</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='projects'>PROJECTS</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='contributors'>Contributers</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='developers'>Developers</a>
+              </li>
+              <li class='nav-item'>
+                <a class='mu-btn_s' href='login'>Login / Register</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- End Header -->
+    <link href='/css/c4u.css' rel='stylesheet' type='text/css' />
+                                                    <link href='/css/archive.css' rel='stylesheet' type='text/css' />
+                                                    <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' rel='stylesheet' />
+                                                    <link href='https://fonts.googleapis.com/css?family=Raleway:300,400,400i,500,500i,600,700' rel='stylesheet' />
+                                                    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800" rel="stylesheet' rel='stylesheet' />
+                                                    <!-- Start Page Header area -->
+                                                    <div class='news' id='mu-page-header'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col-md-12'>
+                                                            <div class='mu-page-header-area'>
+                                                              <h1 class='mu-page-header-title'>NEWS</h1>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                    <!-- End Page Header area -->
+                                                    <!-- Start main content -->
+                                                    <main>
+                                                      <!-- Start Blog -->
+                                                      <section id='mu-news'>
+                                                        <div class='container'>
+                                                          <div class='row'>
+                                                            <div class='col-md-12'>
+                                                              <div class='mu-news-area'>
+                                                                <!-- Title -->
+                                                                <div class='row'>
+                                                                  <div class='col-md-12'>
+                                                                    <div class='mu-news-left' id='iframe-area'>
+                                                                      <!-- start single item -->
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2020-10-08</li>
+                                                                            <li class='label-maintenance'>MAINTENANCE</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>We are going to have the system maintenance from 2020-10-16 08:00(UTC) to 2020-10-19 03:00(UTC).</h1>
+                                                                          <p>Due to the system maintenance, Crowd4U website and tasks do not appear from 2020-10-16 08:00(UTC) to 2020-10-19 03:00(UTC).</p>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2020-06-30</li>
+                                                                            <li class='label-maintenance'>MAINTENANCE</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>We are going to have the system maintenance from 2020-07-02 00:00(UTC) to 2020-07-02 03:00(UTC).</h1>
+                                                                          <p>Due to the system maintenance, Crowd4U website and tasks do not appear from 2020-07-02 00:00(UTC) to 2020-07-02 03:00(UTC).</p>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2020-06-05</li>
+                                                                            <li class='label-project'>PROJECT</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>The Web site that aggregates information about COVID-19 around the world was released.</h1>
+                                                                          <p>The Web site that aggregates information about COVID-19 around the world, being collaborately developed by information laboratories of universities and research institutes in Japan, was released.</p>
+                                                                          <a class='mu-news-link-btn' href='https://lotus.kuee.kyoto-u.ac.jp/NLPforCOVID-19/en/' target='_blank'>
+                                                                            Related Link
+                                                                            <i class='fa fa-long-arrow-right'></i>
+                                                                          </a>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2020-03-27</li>
+                                                                            <li class='label-project'>PROJECT</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>The video of the World's First “International Cyber Disaster Response Drill” on  October 8, 2019, was published.</h1>
+                                                                          <p>The video of the World's First “International Cyber Disaster Response Drill” on  October 8, 2019, by  Ehime Prefecture,  Japan, and Banda Aceh City, Indonesia, was published.</p>
+                                                                          <a class='mu-news-link-btn' href='/events/mind-cndd/index.html' target='_blank'>
+                                                                            Related Link
+                                                                            <i class='fa fa-long-arrow-right'></i>
+                                                                          </a>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2020-03-10</li>
+                                                                            <li class='label-maintenance'>MAINTENANCE</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>We have finished developing and publishing the Crowd4U lock screen (an Android App). Thank you for your cooperation so far.</h1>
+                                                                          <p>We have finished developing and publishing the Crowd4U lock screen (an Android App). Thank you for your cooperation so far.</p>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2019-10-02</li>
+                                                                            <li class='label-project'>PROJECT</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>The World's First “International Cyber Disaster Response Drill” will be held simultaneously in Ehime Prefecture, Banda Aceh City, Indonesia, and at the University of Syiah Kuala.</h1>
+                                                                          <p>On Tuesday, October 8, 2019, at 9 AM (JST) and 7 AM (IWST). (i.e., 0 AM (UTC)), The World's First “International Cyber Disaster Response Drill” will be held simultaneously in Ehime Prefecture, Banda Aceh City, Indonesia, and at the University of Syiah Kuala.</p>
+                                                                          <a class='mu-news-link-btn' href='/events/mind-cndd/index.html' target='_blank'>
+                                                                            Related Link
+                                                                            <i class='fa fa-long-arrow-right'></i>
+                                                                          </a>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2019-09-06</li>
+                                                                            <li class='label-project'>PROJECT</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>The Tokyo Olympics 2020 Organizing Committee has announced the "Tokyo 2020:Make The Beat!" project.</h1>
+                                                                          <p>The Tokyo Olympics 2020 Organizing Committee has announced a project "Tokyo 2020:Make The Beat!" that aims to support athletes by playing “2020beat," the official music and rhythm created with the help of the Intel technology and Crowd4U.</p>
+                                                                          <a class='mu-news-link-btn' href='https://tokyo2020.org/en/games/event-mtb/' target='_blank'>
+                                                                            Related Link
+                                                                            <i class='fa fa-long-arrow-right'></i>
+                                                                          </a>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2019-02-24</li>
+                                                                            <li class='label-urgent'>URGENT</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>About the effect of server migration</h1>
+                                                                          <p>About the effect of server migration</p>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2018-07-21</li>
+                                                                            <li class='label-project'>PROJECT</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>Started the project for detecting inundated area and damaged buildings at West Japan Great Flood 2018</h1>
+                                                                          <p>Started the project for detecting inundated area and damaged buildings at West Japan Great Flood 2018</p>
+                                                                          <a class='mu-news-link-btn' href='projects/mind-20180710-west-japan-great-flood' target='_blank'>
+                                                                            Related Link
+                                                                            <i class='fa fa-long-arrow-right'></i>
+                                                                          </a>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2018-06-06</li>
+                                                                            <li class='label-maintenance'>MAINTENANCE</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'>Open a new top page</h1>
+                                                                          <p>Open a new top page</p>
+                                                                        </div>
+                                                                      </article>
+                                                                      <article class='mu-news-item'>
+                                                                        <div class='mu-news-item-content'>
+                                                                          <ul class='mu-news-meta'>
+                                                                            <li>2017-09-12</li>
+                                                                            <li class='label-project'>PROJECT</li>
+                                                                          </ul>
+                                                                          <h1 class='mu-news-item-title'> The L-Crowd project started to call for "AI workers" which perform the microtasks.</h1>
+                                                                          <p> The L-Crowd project start to call for "AI workers" which perform the microtasks for L-Crowd Kyoto prefecture Union Catalog Project.</p>
+                                                                          <a class='mu-news-link-btn' href='events/ai_open_call' target='_blank'>
+                                                                            Related Link
+                                                                            <i class='fa fa-long-arrow-right'></i>
+                                                                          </a>
+                                                                        </div>
+                                                                      </article>
+                                                                      <!-- End single item -->
+                                                                    </div>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </section>
+                                                    </main>
+    <!-- Start footer -->
+    <footer id='mu-footer'>
+      <div class='mu-footer-top'>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <img alt='logo' class='mu-footer-logo' src='/images/410x90WH@2x.png' />
+                <p>A non-profit microvolunteering and crowdsourcing platform for academic and public purposes.</p>
+                <div class='mu-social-media'>
+                  <a href='https://www.facebook.com/crowd4U/'>
+                    <i class='fa fa-facebook'></i>
+                  </a>
+                  <a class='mu-twitter' href='https://twitter.com/crowd4u_jp'>
+                    <i class='fa fa-twitter'></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>SITE MAP</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='about'>About Us</a>
+                  </li>
+                  <li>
+                    <a href='projects'>Projects</a>
+                  </li>
+                  <li>
+                    <a href='contributors'>Contributers</a>
+                  </li>
+                  <li>
+                    <a href='projects/ranking'>Ranking</a>
+                  </li>
+                  <li>
+                    <a href='#'>Press release</a>
+                  </li>
+                  <li>
+                    <a href='login'>Login / Signup</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>For Menbers Only</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='home'>My Page</a>
+                  </li>
+                  <li>
+                    <a href='certificate'>Obtain a Certificate</a>
+                  </li>
+                  <li>
+                    <a href='home/set#screen_unlock'>Set tasks to the lock screen app</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3 id='contact'>Contact Us</h3>
+                <ul class='list-unstyled'>
+                  <li class='media'>
+                    <div class='media-body'>
+                      <p>We need your feedback, bug reports, and any comments.</p>
+                      <p>Contact us using crowd4u#crowd4u.com (replace # with @) or @crowd4u.</p>
+                    </div>
+                  </li>
+                </ul>
+                <h3>Language</h3>
+                <form>
+                  <p class='je'>
+                    <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+                      <option value=''>-- Language --</option>
+                      <option value='/ar/archive'>Arabic</option>
+                      <option value='/bn/archive'>Bengali</option>
+                      <option value='/bg/archive'>Bulgarian</option>
+                      <option value='/zh/archive'>Chinese</option>
+                      <option value='/en/archive'>English</option>
+                      <option value='/fi/archive'>Finnish</option>
+                      <option value='/fr/archive'>French</option>
+                      <option value='/de/archive'>German</option>
+                      <option value='/el/archive'>Greek</option>
+                      <option selected='selected' value='/hi/archive'>Hindi</option>
+                      <option value='/id/archive'>Indonesian</option>
+                      <option value='/it/archive'>Italian</option>
+                      <option value='/ja/archive'>Japanese</option>
+                      <option value='/ko/archive'>Korean</option>
+                      <option value='/nl/archive'>Nederlands</option>
+                      <option value='/fa/archive'>Persian</option>
+                      <option value='/pt/archive'>Portuguese</option>
+                      <option value='/ru/archive'>Russian</option>
+                      <option value='/es/archive'>Spanish</option>
+                      <option value='/th/archive'>Thai</option>
+                      <option value='/tr/archive'>Trukish</option>
+                      <option value='/vi/archive'>Vietnamese</option>
+                    </select>
+                  </p>
+                </form>
+                <p class='lang-annotation'>* If there is no translation at the moment, it will be displayed in English</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- End footer -->
+    <!-- JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script crossorigin='anonymous' integrity='sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=' src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        window.jQuery || document.write('<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-3.3.1.min.js"><\/script>');
+      //]]>
+    </script>
+    <script crossorigin='anonymous' integrity='sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js'></script>
+    <script crossorigin='anonymous' integrity='sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T' src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js'></script>
+    <!-- Slick slider -->
+    <script src='/js/slick.min.js' type='text/javascript'></script>
+    <!-- Filterable Gallery js -->
+    <script src='/js/jquery.filterizr.min.js' type='text/javascript'></script>
+    <!-- Gallery Lightbox -->
+    <script src='/js/jquery.magnific-popup.min.js' type='text/javascript'></script>
+    <!-- Counter js -->
+    <!-- Ajax contact form -->
+    <script src='/js/app.js' type='text/javascript'></script>
+    <!-- get act number -->
+    <script src='/js/get_act_task_num.js' type='text/javascript'></script>
+    <!-- Custom js -->
+    <script src='/js/custom.js' type='text/javascript'></script>
+    <!-- About us Skills Circle progress -->
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src='//crowd4u.org/script/task_loader.js?requester=-2&amp;length=10' type='text/javascript'></script>
+    <!-- homeで必要なscript -->
+  </body>
+</html>
+<script type='text/javascript'>
+  //<![CDATA[
+    $(function(){
+      // #で始まるアンカーをクリックした場合に処理
+      $('a[href^="#"]').on('click',function() {
+          // スクロールの速度
+          var speed = 400; // ミリ秒
+    　　　 // 移動先を取得
+          var href= $(this).attr("href");
+          var target = $(href == "#" || href == "" ? 'html' : href);
+          // 移動先を数値で取得
+          var position = target.offset().top;
+          // スムーススクロール
+          $('body,html').animate({scrollTop:position}, speed, 'swing');
+          return false;
+      });
+    });
+  //]]>
+</script>

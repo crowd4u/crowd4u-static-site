@@ -1,0 +1,326 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='ja'>
+  <head>
+    <base href='/th/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <!-- Required meta tags -->
+    <meta charset='utf-8' />
+    <meta content='width=device-width, initial-scale=1, shrink-to-fit=no' name='viewport' />
+    <title>Crowd4Uの３つのキーワード</title>
+    <!-- Favicon -->
+    <link href='/images/favicon.ico' rel='shortcut icon' type='image/icon' />
+    <!-- Font Awesome -->
+    <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' rel='stylesheet' />
+    <!-- Bootstrap CSS -->
+    <link crossorigin='anonymous' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css' integrity='sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB' rel='stylesheet' />
+    <!-- Slick slider -->
+    <link href='/css/slick.css' rel='stylesheet' />
+    <!-- Gallery Lightbox -->
+    <link href='/css/magnific-popup.css' rel='stylesheet' />
+    <!-- Skills Circle CSS -->
+    <link href='https://unpkg.com/circlebars@1.0.3/dist/circle.css' rel='stylesheet' type='text/css' />
+    <!-- Main Style -->
+    <link href='/css/style.css' rel='stylesheet' />
+    <link href='/css/c4u.css' rel='stylesheet' />
+    <!-- Fonts -->
+    <!-- Google Fonts Raleway -->
+    <link href='https://fonts.googleapis.com/css?family=Raleway:300,400,400i,500,500i,600,700' rel='stylesheet' />
+    <!-- Google Fonts Open sans -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800' rel='stylesheet' />
+    <title>Crowd4Uの３つのキーワード - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/keywords' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/keywords' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/keywords' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/keywords' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/keywords' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/keywords' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/keywords' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/keywords' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/keywords' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/keywords' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/keywords' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/keywords' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/keywords' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/keywords' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/keywords' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/keywords' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/keywords' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/keywords' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/keywords' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/tr/keywords' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/keywords' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/keywords' hreflang='x-default' rel='alternate' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- START SCROLL TOP BUTTON -->
+    <a class='scrollToTop' href='#'>
+      <i class='fa fa-angle-up'></i>
+    </a>
+    <!-- END SCROLL TOP BUTTON -->
+    <!-- Start Header -->
+    <header id='mu-hero'>
+      <div class='container'>
+        <nav class='navbar navbar-expand-lg navbar-light mu-navbar'>
+          <a class='navbar-brand mu-logo' href='index.html'>
+            <img alt='logo' src='/images/logo_820x180@2x.png' />
+            <span>Your micro-contributions can make a difference</span>
+          </a>
+          <button aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation' class='navbar-toggler' data-target='#navbarSupportedContent' data-toggle='collapse' type='button'>
+            <span class='fa fa-bars'></span>
+          </button>
+          <div class='collapse navbar-collapse' id='navbarSupportedContent'>
+            <ul class='navbar-nav mr-auto mu-navbar-nav'>
+              <li class='nav-item'>
+                <a class='' href='home'>MY PAGE</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='about'>About Crouwd4u</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='projects'>PROJECTS</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='contributors'>Contributers</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='developers'>Developers</a>
+              </li>
+              <li class='nav-item'>
+                <a class='mu-btn_s' href='login'>Login / Register</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- End Header -->
+    <link href='/css/keywords.css' rel='stylesheet' type='text/css' />
+                                                    <div class='clearfix'></div>
+                                                    <div class='container'>
+                                                      <div class='row'>
+                                                        <div class='col pt-3'>
+                                                          <h1>Crowd4Uの３つのキーワード</h1>
+                                                          <div id='key_intro'>
+                                                            <p class='message'>
+                                                              Crowd4Uは非営利・公益・学術に関するクラウドソーシングプラットフォームであると同時に、クラウドソーシングプロジェクトやそのプラットフォーム自体が研究の対象となっています。本ページでは、Crowd4Uのキーワードとなる用語のうち、互いに関係が深いが異なる3つの用語について説明します。
+                                                            </p>
+                                                          </div>
+                                                          <div class='wapper' id='k1'>
+                                                            <h2 class='pt-2'>クラウドソーシング (crowdsourcing)</h2>
+                                                            <p class='key_info'>
+                                                              不特定多数の人に仕事を委託することです。ITやコンピュータネットワークが未発達の時代には実現が困難でしたが、これらの発達によって近年注目を集めています。
+                                                              <br />
+                                                              クラウドソーシングは<span class="hl">Crowd(群衆)</span>と<span class="hl">sourcing(業務委託)</span>を合成した造語であり Jeff HoweによるWiredの記事&quot;The Rise of Crowdsourcing&quot;[1]で広く知られる事になりました。
+                                                            </p>
+                                                            <p class='citation'>
+                                                              [1] Jeff Howe. The Rise of Crowdsourcing. Wired, 2006.
+                                                            </p>
+                                                          </div>
+                                                          <div class='wapper' id='k2'>
+                                                            <h2 class='pt-2'>ヒューマンコンピュテーション (human computation)</h2>
+                                                            <p class='key_info'>
+                                                              人の知や力を利用した計算のことです。
+                                                              <br />
+                                                              オンラインゲームを行うことにより画像にタグ付けを行うESP Game 等で有名なLuis von Ahn博士らは、<span class="bold">「ヒューマンコンピュテーションとは、計算機が処理できないタスクの処理に人手を利用する事である」</span>としています[2]。
+                                                              <br />
+                                                              例えば、画像からの文字の読み取りに関しては、コンピュータによるソフトウェア(OCRと呼ばれます)が認識できないが人は認識できるといったケースがしばしばあります。これを利用した仕組みとしては<span class="hl">reCAPCHA</span>が有名です。
+                                                            </p>
+                                                            <p class='citation'>
+                                                              [2] Edith Law, Luis von Ahn: Input-agreement: a new mechanism for collecting data using human computation games. CHI 2009: 1197-1206, 2009.
+                                                            </p>
+                                                          </div>
+                                                          <div class='wapper' id='k3'>
+                                                            <h2 class='pt-2'>マイクロボランティア (micro-volunteering)</h2>
+                                                            <p class='key_info'>
+                                                              ボランティアというと、一日がかりであったり数日泊まり込んだりといったイメージがあり、やりたい気持ちはあっても、実際にはなかなか実行することが困難な場合があります。
+                                                              <br />
+                                                              しかし、情報の提供や確認といったボランティアであれば、PCやスマートフォンなどを利用して、短時間で可能です。以前からこのような&quot;小さなボランティア&quot;は行われていましたが、特に、2000年代後半より、このような短時間で可能なボランティアが<hl>マイクロボランティア</hl>という用語で明示的に呼ばれるようになり、多くの人々が少ない負担でボランティアを実行できる仕組みとして近年注目されています。
+                                                              <br />
+                                                              日本では、AC（公共広告機構）が「ちょボラ」という概念を2001年に既に提案しておりますが、それの一種と考えられます。
+                                                            </p>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+    <!-- Start footer -->
+    <footer id='mu-footer'>
+      <div class='mu-footer-top'>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <img alt='logo' class='mu-footer-logo' src='/images/410x90WH@2x.png' />
+                <p>A non-profit microvolunteering and crowdsourcing platform for academic and public purposes.</p>
+                <div class='mu-social-media'>
+                  <a href='https://www.facebook.com/crowd4U/'>
+                    <i class='fa fa-facebook'></i>
+                  </a>
+                  <a class='mu-twitter' href='https://twitter.com/crowd4u_jp'>
+                    <i class='fa fa-twitter'></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>SITE MAP</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='about'>About Us</a>
+                  </li>
+                  <li>
+                    <a href='projects'>Projects</a>
+                  </li>
+                  <li>
+                    <a href='contributors'>Contributers</a>
+                  </li>
+                  <li>
+                    <a href='projects/ranking'>Ranking</a>
+                  </li>
+                  <li>
+                    <a href='#'>Press release</a>
+                  </li>
+                  <li>
+                    <a href='login'>Login / Signup</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>For Menbers Only</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='home'>My Page</a>
+                  </li>
+                  <li>
+                    <a href='certificate'>Obtain a Certificate</a>
+                  </li>
+                  <li>
+                    <a href='home/set#screen_unlock'>Set tasks to the lock screen app</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3 id='contact'>Contact Us</h3>
+                <ul class='list-unstyled'>
+                  <li class='media'>
+                    <div class='media-body'>
+                      <p>We need your feedback, bug reports, and any comments.</p>
+                      <p>Contact us using crowd4u#crowd4u.com (replace # with @) or @crowd4u.</p>
+                    </div>
+                  </li>
+                </ul>
+                <h3>Language</h3>
+                <form>
+                  <p class='je'>
+                    <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+                      <option value=''>-- Language --</option>
+                      <option value='/ar/keywords'>Arabic</option>
+                      <option value='/bn/keywords'>Bengali</option>
+                      <option value='/bg/keywords'>Bulgarian</option>
+                      <option value='/zh/keywords'>Chinese</option>
+                      <option value='/en/keywords'>English</option>
+                      <option value='/fi/keywords'>Finnish</option>
+                      <option value='/fr/keywords'>French</option>
+                      <option value='/de/keywords'>German</option>
+                      <option value='/el/keywords'>Greek</option>
+                      <option value='/hi/keywords'>Hindi</option>
+                      <option value='/id/keywords'>Indonesian</option>
+                      <option value='/it/keywords'>Italian</option>
+                      <option value='/ja/keywords'>Japanese</option>
+                      <option value='/ko/keywords'>Korean</option>
+                      <option value='/nl/keywords'>Nederlands</option>
+                      <option value='/fa/keywords'>Persian</option>
+                      <option value='/pt/keywords'>Portuguese</option>
+                      <option value='/ru/keywords'>Russian</option>
+                      <option value='/es/keywords'>Spanish</option>
+                      <option selected='selected' value='/th/keywords'>Thai</option>
+                      <option value='/tr/keywords'>Trukish</option>
+                      <option value='/vi/keywords'>Vietnamese</option>
+                    </select>
+                  </p>
+                </form>
+                <p class='lang-annotation'>* If there is no translation at the moment, it will be displayed in English</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- End footer -->
+    <!-- JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script crossorigin='anonymous' integrity='sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=' src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        window.jQuery || document.write('<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-3.3.1.min.js"><\/script>');
+      //]]>
+    </script>
+    <script crossorigin='anonymous' integrity='sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js'></script>
+    <script crossorigin='anonymous' integrity='sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T' src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js'></script>
+    <!-- Slick slider -->
+    <script src='/js/slick.min.js' type='text/javascript'></script>
+    <!-- Filterable Gallery js -->
+    <script src='/js/jquery.filterizr.min.js' type='text/javascript'></script>
+    <!-- Gallery Lightbox -->
+    <script src='/js/jquery.magnific-popup.min.js' type='text/javascript'></script>
+    <!-- Counter js -->
+    <!-- Ajax contact form -->
+    <script src='/js/app.js' type='text/javascript'></script>
+    <!-- get act number -->
+    <script src='/js/get_act_task_num.js' type='text/javascript'></script>
+    <!-- Custom js -->
+    <script src='/js/custom.js' type='text/javascript'></script>
+    <!-- About us Skills Circle progress -->
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src='//crowd4u.org/script/task_loader.js?requester=-2&amp;length=10' type='text/javascript'></script>
+    <!-- homeで必要なscript -->
+  </body>
+</html>
+<script type='text/javascript'>
+  //<![CDATA[
+    $(function(){
+      // #で始まるアンカーをクリックした場合に処理
+      $('a[href^="#"]').on('click',function() {
+          // スクロールの速度
+          var speed = 400; // ミリ秒
+    　　　 // 移動先を取得
+          var href= $(this).attr("href");
+          var target = $(href == "#" || href == "" ? 'html' : href);
+          // 移動先を数値で取得
+          var position = target.offset().top;
+          // スムーススクロール
+          $('body,html').animate({scrollTop:position}, speed, 'swing');
+          return false;
+      });
+    });
+  //]]>
+</script>

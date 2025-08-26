@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='ja'>
+  <head>
+    <base href='' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta content='リバーシを題材としたクラウドによる意志決定プロセスの検証実験' name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='no-cache' http-equiv='Pragma' />
+    <meta content='no-store' http-equiv='Cache-Control' />
+    <meta content='no-cache' http-equiv='Cache-Control' />
+    <meta content='-1' http-equiv='Expires' />
+    <title>リバーシを題材としたクラウドによる意志決定プロセスの検証実験 - Crowd4U</title>
+    <link href='../ar/projects/Reversi.html' hreflang='ar' rel='alternate' />
+    <link href='../bn/projects/Reversi.html' hreflang='bn' rel='alternate' />
+    <link href='../bg/projects/Reversi.html' hreflang='bg' rel='alternate' />
+    <link href='../zh/projects/Reversi.html' hreflang='zh' rel='alternate' />
+    <link href='../en/projects/Reversi.html' hreflang='en' rel='alternate' />
+    <link href='../fi/projects/Reversi.html' hreflang='fi' rel='alternate' />
+    <link href='../fr/projects/Reversi.html' hreflang='fr' rel='alternate' />
+    <link href='../de/projects/Reversi.html' hreflang='de' rel='alternate' />
+    <link href='../el/projects/Reversi.html' hreflang='el' rel='alternate' />
+    <link href='../hi/projects/Reversi.html' hreflang='hi' rel='alternate' />
+    <link href='../id/projects/Reversi.html' hreflang='id' rel='alternate' />
+    <link href='../it/projects/Reversi.html' hreflang='it' rel='alternate' />
+    <link href='../ko/projects/Reversi.html' hreflang='ko' rel='alternate' />
+    <link href='../nl/projects/Reversi.html' hreflang='nl' rel='alternate' />
+    <link href='../fa/projects/Reversi.html' hreflang='fa' rel='alternate' />
+    <link href='../pt/projects/Reversi.html' hreflang='pt' rel='alternate' />
+    <link href='../ru/projects/Reversi.html' hreflang='ru' rel='alternate' />
+    <link href='../es/projects/Reversi.html' hreflang='es' rel='alternate' />
+    <link href='../th/projects/Reversi.html' hreflang='th' rel='alternate' />
+    <link href='../tr/projects/Reversi.html' hreflang='tr' rel='alternate' />
+    <link href='../vi/projects/Reversi.html' hreflang='vi' rel='alternate' />
+    <link href='Reversi.html' hreflang='x-default' rel='alternate' />
+    <link href='../css/crowd4u.css%3Fdate=20141127.css' rel='stylesheet' type='text/css' />
+    <link href='../css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='../css/sp.css' rel='stylesheet' type='text/css' />
+    <link href='../css/project_header.css' rel='stylesheet' type='text/css' />
+    <link href='../css/project_table.css' rel='stylesheet' type='text/css' />
+    <!-- Fontawesome -->
+    <link href='https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='../img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='../img/favicon.ico' rel='shortcut icon' />
+    <script src='../js/jquery.js'></script>
+    <script src='../js/bootstrap-modal.js'></script>
+    <script src='../js/scrollsmooth.js'></script>
+    <script src='../js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='project_logo' href='../index.html'>
+          <img align='right' alt='Crowd4U' height='20' src='../img/c4u_logo.png' />
+          <span style='color: white; font-size: 0.8em; margin-right: 1em;'>powered by:</span>
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/projects/Reversi'>Arabic</option>
+            <option value='/bn/projects/Reversi'>Bengali</option>
+            <option value='/bg/projects/Reversi'>Bulgarian</option>
+            <option value='/zh/projects/Reversi'>Chinese</option>
+            <option value='/en/projects/Reversi'>English</option>
+            <option value='/fi/projects/Reversi'>Finnish</option>
+            <option value='/fr/projects/Reversi'>French</option>
+            <option value='/de/projects/Reversi'>German</option>
+            <option value='/el/projects/Reversi'>Greek</option>
+            <option value='/hi/projects/Reversi'>Hindi</option>
+            <option value='/id/projects/Reversi'>Indonesian</option>
+            <option value='/it/projects/Reversi'>Italian</option>
+            <option selected='selected' value='/ja/projects/Reversi'>Japanese</option>
+            <option value='/ko/projects/Reversi'>Korean</option>
+            <option value='/nl/projects/Reversi'>Nederlands</option>
+            <option value='/fa/projects/Reversi'>Persian</option>
+            <option value='/pt/projects/Reversi'>Portuguese</option>
+            <option value='/ru/projects/Reversi'>Russian</option>
+            <option value='/es/projects/Reversi'>Spanish</option>
+            <option value='/th/projects/Reversi'>Thai</option>
+            <option value='/tr/projects/Reversi'>Trukish</option>
+            <option value='/vi/projects/Reversi'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        * 現時点で翻訳が無い場合には英語で表示します
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <link href='../css/othello_site.css.html' rel='stylesheet' type='text/css'>
+                                                          		<link href="../css/bootstrap-modal.css" rel="stylesheet" type="text/css" />
+                                                          		<link href="../css/othello_site.css.html" rel="stylesheet" type="text/css" />
+                                                          		<link href="../css/othello_css.css.html" rel="stylesheet" type="text/css" />
+                                                          		<link href="../css/crowd4u.css" rel="stylesheet" type="text/css" />
+                                                          		<script src="../sasaki/js/board_ajax2.js.html" type="text/javascript" charset="utf-8"></script>
+                                                          
+                                                          
+                                                          
+                                                          <h1>リバーシを題材としたクラウドによる意志決定プロセスの検証実験</h1>
+                                                          本プロジェクトの第一歩として，リバーシを題材とした群衆による意志決定プロセスの検証実験を進めています．<br/>
+                                                          皆さん，ご協力をお願いいたします．<br/>
+                                                          
+                                                          <h2>概要</h2>
+                                                          <p>この実験では，人間チーム対人間チームでリバーシの試合を行います．</p>
+                                                          
+                                                          <ul style="list-style-type: square">
+                                                          <li>出身地が東日本の人は黒の石，出身地が西日本の人は白の石を担当します．</li>
+                                                          <li>それぞれのチームは各手番ごとに5名の入力を待ち，そろった時点でその入力をまとめて一つの手を決定します．</li>
+                                                          <li>一つの手が決定すると手番が変わります．これを繰り返します．</li>
+                                                          </ul>
+                                                          
+                                                          	<h2>ゲーム手順</h2>
+                                                          	<ol>
+                                                          <li>【現在の手番：○の手番です】と表示されます．○があなたが担当の色の石のときに，あなたが担当する色の[石を置く]ボタンをクリックしてください．<br />
+                                                          <li>あなたが担当する色の[石を置く]ボタンをクリックすると，ポップアップウィンドウが表示されます．あなたのリバーシの強さと，表示される現在の盤の状態から次に<u>自分色の石</u>を置くべき場所を判断し，回答してください.</li>
+                                                          <small>※1試合に何度でも回答できますが，同じ手番に回答できる回数は1回だけです.</small><br />
+                                                          <small>※[石を置く]ボタンをクリックしてタスクが表示されない場合は，少し待ってからページを更新してください.</small>
+                                                          
+                                                          <li>他の人の回答を待って，次の手番に移ります．相手の手番が終わり，【現在の手番：○の手番です】の○があなたが担当の色の石のときに，[石を置く]ボタンをクリックし，2.と同様に回答してください．<br />
+                                                          
+                                                          	</ol>
+                                                          
+                                                          
+                                                          	<br/>
+                                                          
+                                                          <font color="red">プロジェクトは一旦終了しました．ご協力ありがとうございました．現在，下記のタスクは動きません．</font>
+                                                          
+                                                          	<br/>
+                                                          	<p>現在の手番：</p></td><td><p id="ready"></p>
+                                                          	<a class="button buttonBlue sizeL microtask group117" href="javascript:void(0);" id="black">黒の石を置く</a>
+                                                          
+                                                          	<a class="button buttonBlue sizeL microtask group118" href="javascript:void(0);" id="white">白の石を置く</a>
+                                                          
+                                                          
+                                                          	<script src="../script/task_loader.js%3Frequester=597" type="text/javascript"></script>
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          <!------script>
+                                                          var num = 0;
+                                                          $("#black").click(function(){
+                                                              $(this).data("click", ++num);
+                                                              var click = $(this).data("click");
+                                                              if(click == 2){
+                                                              document.getElementById('ready').innerHTML = '次のあなたの手番までお待ちください';
+                                                              document.getElementById("black").style.visibility = "hidden";
+                                                          
+                                                              }
+                                                              return false;
+                                                          });
+                                                          
+                                                          
+                                                          
+                                                          <div>
+                                                          <table id="board">
+                                                          <tbody> 
+                                                          </tbody>  
+                                                          </table>  
+                                                          </div>
+                                                          
+                                                          </script------------>
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          <!---script>
+                                                          function kakusu(num){
+                                                          	if (num == 0){
+                                                          	console.log("hidden!!!!!!!")
+                                                              document.getElementById('ready').innerHTML = '次のあなたの手番までお待ちください';
+                                                              document.getElementById("black").style.visibility = "hidden";
+                                                          }
+                                                          };
+                                                          
+                                                          
+                                                          </script----------->
+                                                          
+                                                          	<p>何かありましたら下のアドレスに連絡をお願い致します。</p>
+                                                          	<p>e-mail：yuu.sasaki.2015b@mlab.info</p>
+                                                          
+                                                          <br />
+                                                          <br />
+                                                          
+                                                          
+                                                          
+                                                          	</div>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u_jp' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

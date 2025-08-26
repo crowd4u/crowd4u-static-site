@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html amp >
+<head>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/jst-crest-cyborgcrowd-logo-128x28.png" type="image/x-icon">
+  <meta name="description" content="">
+  <meta name="amp-script-src" content="">
+  
+  <title>継続的な災害状況調査のためのAI,オンラインワーカ，現地ワーカの連携プラットフォーム実証実験</title>
+  
+<link rel="canonical" href="./">
+ <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+<noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<link href="https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i&display=swap" rel="stylesheet">
+ 
+ <style amp-custom> 
+div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption,textarea,input{font: inherit;}*{-webkit-box-sizing: border-box;box-sizing: border-box;outline: none;}*:focus{outline: none;}body{position: relative;font-style: normal;line-height: 1.7;color: #222222;}section{background-color: #ffffff;background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;overflow: hidden;padding: 30px 0;}h1,h2,h3,h4,h5,h6{margin: 0;padding: 0;}p,li,blockquote{letter-spacing: 0.5px;line-height: 1.7;}ul,ol,blockquote,p{margin-bottom: 0;margin-top: 0;}a{cursor: pointer;}a,a:hover{text-decoration: none;}a.mbr-iconfont:hover{text-decoration: none;}h1,h2,h3,h4,h5,h6,.display-1,.display-2,.display-4,.display-5,.display-7{word-break: break-word;word-wrap: break-word;}b,strong{font-weight: bold;}blockquote{padding: 10px 0 10px 20px;position: relative;border-left: 3px solid;}input:-webkit-autofill,input:-webkit-autofill:hover,input:-webkit-autofill:focus,input:-webkit-autofill:active{-webkit-transition-delay: 9999s;transition-delay: 9999s;-webkit-transition-property: background-color,color;-o-transition-property: background-color,color;transition-property: background-color,color;}html,body{height: auto;min-height: 100vh;}.mbr-section-title{margin: 0;padding: 0;font-style: normal;line-height: 1;width: 100%;}.mbr-section-subtitle{line-height: 1;width: 100%;}.mbr-text{font-style: normal;line-height: 1;width: 100%;}.mbr-white{color: #ffffff;}.mbr-black{color: #000000;}.align-left{text-align: left;}.align-left .list-item{justify-content: flex-start;}.align-center{text-align: center;}.align-center .list-item{justify-content: center;}.align-right{text-align: right;}.align-right .list-item{justify-content: flex-end;}@media (max-width: 767px){.align-left,.align-center,.align-right{text-align: center;}.align-left .list-item,.align-center .list-item,.align-right .list-item{justify-content: center;}}.mbr-light{font-weight: 300;}.mbr-regular{font-weight: 400;}.mbr-semibold{font-weight: 500;}.mbr-bold{font-weight: 700;}.icons-list a{margin: 0 1rem 0 0;}.icons-list a:last-child{margin: 0;}.mbr-figure{align-self: center;}.hidden{visibility: hidden;}.super-hide{display: none;}.inactive{-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;pointer-events: none;-webkit-user-drag: none;user-drag: none;}.mbr-overlay{position: absolute;bottom: 0;left: 0;right: 0;top: 0;z-index: 0;}.map-placeholder{display: none;}.google-map,.google-map iframe{position: relative;width: 100%;height: 400px;}@media (max-width: 992px){.google-map,.google-map iframe{padding: 0;margin: 0;}}amp-img{width: 100%;}amp-img img{max-height: 100%;max-width: 100%;}img.mbr-temp{width: 100%;}.rounded{border-radius: 50%;}.is-builder .nodisplay + img[async],.is-builder .nodisplay + img[decoding="async"],.is-builder amp-img > a + img[async],.is-builder amp-img > a + img[decoding="async"]{display: none;}html:not(.is-builder) amp-img > a{position: absolute;top: 0;bottom: 0;left: 0;right: 0;z-index: 1;}.is-builder .temp-amp-sizer{position: absolute;}.is-builder amp-youtube .temp-amp-sizer,.is-builder amp-vimeo .temp-amp-sizer{position: static;}.mobirise-spinner{position: absolute;top: 50%;left: 40%;margin-left: 10%;-webkit-transform: translate3d(-50%,-50%,0);z-index: 4;}.mobirise-spinner em{width: 24px;height: 24px;background: #3ac;border-radius: 100%;display: inline-block;-webkit-animation: slide 1s infinite;}.mobirise-spinner em:nth-child(1){-webkit-animation-delay: 0.1s;}.mobirise-spinner em:nth-child(2){-webkit-animation-delay: 0.2s;}.mobirise-spinner em:nth-child(3){-webkit-animation-delay: 0.3s;}@-moz-keyframes slide{0%{-webkit-transform: scale(1);}50%{opacity: 0.3;-webkit-transform: scale(2);}100%{-webkit-transform: scale(1);}}@-webkit-keyframes slide{0%{-webkit-transform: scale(1);}50%{opacity: 0.3;-webkit-transform: scale(2);}100%{-webkit-transform: scale(1);}}@-o-keyframes slide{0%{-webkit-transform: scale(1);}50%{opacity: 0.3;-webkit-transform: scale(2);}100%{-webkit-transform: scale(1);}}@keyframes slide{0%{-webkit-transform: scale(1);}50%{opacity: 0.3;-webkit-transform: scale(2);}100%{-webkit-transform: scale(1);}}.mobirise-loader .amp-active > div{display: none;}.iconfont-wrapper{display: inline-block;}.mbr-flex{display: flex;}.flex-wrap{flex-wrap: wrap;}.mbr-jc-s{justify-content: flex-start;}.mbr-jc-c{justify-content: center;}.mbr-jc-e{justify-content: flex-end;}.mbr-row-reverse{flex-direction: row-reverse;}.mbr-column{flex-direction: column;}amp-img,img{height: 100%;width: 100%;}.hidden-slide{display: none;}.visible-slide{display: flex;}section,.container,.container-fluid{position: relative;word-wrap: break-word;}.mbr-fullscreen .mbr-overlay{min-height: 100vh;}.mbr-fullscreen{display: flex;align-items: center;height: 100vh;min-height: 100vh;padding: 3rem 0;}.container{padding: 0 1rem;width: 100%;margin-right: auto;margin-left: auto;}@media (max-width: 767px){.container{max-width: 540px;}} @media (min-width: 768px){.container{max-width: 720px;}} @media (min-width: 992px){.container{max-width: 960px;}} @media (min-width: 1200px){.container{max-width: 1140px;}}.container-fluid{width: 100%;padding: 0 1rem;}.btn{position: relative;font-weight: 700;margin: 10px 0.8rem;border: 2px solid;font-style: normal;white-space: normal;transition: all 0.5s ease-in-out;display: inline-flex;align-items: center;justify-content: center;word-break: break-word;overflow: hidden;line-height: 1.6em;letter-spacing: 2px;}.btn-form{padding: 1rem 2rem;}.btn-form:hover{cursor: pointer;}.btn{padding: 10px 35px;border-radius: 25px;}.btn-sm{padding: 5px 32px;border-radius: 25px;}.btn-md{padding: 10px 35px;border-radius: 25px;}.btn-md:hover{transform: scale(1.1);}.btn-lg{padding: 12px 24px;border-radius: 50px;}.btn-lg:hover{transform: scale(1.1);}form .btn,form .mbr-section-btn{margin: 0;}.note-popover .btn:after{display: none;}.mbr-section-btn{margin: 0 -0.8rem;font-size: 0;}nav .mbr-section-btn{margin-left: 0rem;margin-right: 0rem;}.btn .mbr-iconfont,.btn.btn-md .mbr-iconfont{cursor: pointer;margin: 0 5px 0 0;}.btn-sm .mbr-iconfont{margin: 0 5px 0 0;}[type="submit"]{-webkit-appearance: none;}section.menu{min-height: 70px;overflow: visible;padding: 0;}.menu-container{display: flex;-webkit-box-pack: justify;-ms-flex-pack: justify;justify-content: space-between;align-items: center;min-height: 70px;}@media (max-width: 991px){.menu-container{max-width: 100%;padding: 0 2rem;}} @media (max-width: 767px){.menu-container{padding: 0 1rem;}}.navbar{z-index: 100;width: 100%;position: absolute;}.navbar-fixed-top{position: fixed;top: 0;}.navbar-brand{display: flex;align-items: center;word-break: break-word;z-index: 1;}.navbar-logo{margin: 0 0.8rem 0 0;}@media (max-width: 767px){.navbar-logo amp-img{max-height: 55px;max-width: 55px;}}.navbar-caption-wrap{display: flex;}.navbar .navbar-collapse{display: flex;-ms-flex-preferred-size: auto;flex-basis: auto;align-items: center;justify-content: flex-end;}@media (max-width: 991px){.navbar .navbar-collapse{display: none;position: absolute;top: 0;right: 0;height: 100vh;overflow-y: auto;padding: 70px 2rem 1rem;z-index: 1;}}@media (max-width: 991px){.navbar.opened .navbar-collapse.show,.navbar.opened .navbar-collapse.collapsing{display: block;}.is-builder .navbar-collapse{position: fixed;}}.navbar-nav{list-style-type: none;display: flex;flex-wrap: wrap;padding-left: 0;min-width: 10rem;}@media (max-width: 991px){.navbar-nav{flex-direction: column;}} .navbar-nav .mbr-iconfont{margin: 0 0.2rem 0 0;}.nav-item{word-break: break-all;}.nav-link{display: flex;align-items: center;justify-content: center;}.nav-link,.navbar-caption{transition: all 0.2s;letter-spacing: 1px;}.nav-dropdown .dropdown-menu{min-width: 10rem;position: absolute;left: 0;padding: 1.25rem 0;}.nav-dropdown .dropdown-menu .dropdown-item{line-height: 1.7;display: flex;justify-content: center;align-items: center;padding: 0;white-space: nowrap;}.nav-dropdown .dropdown-menu .dropdown{position: relative;}.dropdown-menu .dropdown:hover > .dropdown-menu{opacity: 1;pointer-events: all;}.nav-dropdown .dropdown-submenu{top: 0;left: 100%;margin: 0;}.nav-item.dropdown{position: relative;}.nav-item.dropdown .dropdown-menu{opacity: 0;pointer-events: none;}.nav-item.dropdown:hover > .dropdown-menu{opacity: 1;pointer-events: all;}.link.dropdown-toggle:after{display: inline-block;width: 5px;height: 5px;margin-left: .5rem;margin-top: -0.25rem;vertical-align: .255em;content: "";border: 1px solid;border-left: none;border-top: none;transform: rotate(45deg);}.navbar .dropdown.open > .dropdown-menu{display: block;}@media (max-width: 991px){.is-builder .nav-dropdown .dropdown-menu{position: relative;}.nav-dropdown .dropdown-submenu{left: 0;}.nav-dropdown .dropdown-menu .dropdown-item{padding: 0.25rem 1.5rem;margin: 0;justify-content: center;}.nav-dropdown .dropdown-menu .dropdown-item:after{right: auto;}.navbar.opened .dropdown-menu{top: 0;}}.navbar-buttons{display: flex;flex-wrap: wrap;align-items: center;justify-content: center;}@media (max-width: 991px){.navbar-buttons{flex-direction: column;}}.menu-social-list{display: flex;align-items: center;justify-content: center;flex-wrap: wrap;}.menu-social-list a{margin: 0 0.5rem;}.menu-social-list a span{font-size: 1rem;}button.navbar-toggler{position: absolute;right: 20px;top: 25px;width: 31px;height: 20px;cursor: pointer;transition: all .2s;align-self: center;}.hamburger span{position: absolute;right: 0;width: 30px;height: 2px;border-right: 5px;}.hamburger span:nth-child(1){top: 0;transition: all .2s;}.hamburger span:nth-child(2){top: 8px;transition: all .15s;}.hamburger span:nth-child(3){top: 8px;transition: all .15s;}.hamburger span:nth-child(4){top: 16px;transition: all .2s;}nav.opened .navbar-toggler:not(.hide) .hamburger span:nth-child(1){top: 8px;width: 0;opacity: 0;right: 50%;transition: all .2s;}nav.opened .navbar-toggler:not(.hide) .hamburger span:nth-child(2){transform: rotate(45deg);transition: all .25s;}nav.opened .navbar-toggler:not(.hide) .hamburger span:nth-child(3){transform: rotate(-45deg);transition: all .25s;}nav.opened .navbar-toggler:not(.hide) .hamburger span:nth-child(4){top: 8px;width: 0;opacity: 0;right: 50%;transition: all .2s;}.ampstart-btn.hamburger{position: absolute;top: 25px;right: 15px;margin-left: auto;height: 20px;width: 30px;background: none;border: none;cursor: pointer;z-index: 1000;}@media (min-width: 992px){.ampstart-btn,amp-sidebar{display: none;}.dropdown-menu .dropdown-toggle:after{content: "";border: 1px solid;border-left: none;border-top: none;transform: rotate(45deg);width: 5px;height: 5px;margin-left: 0.3rem;margin-top: -0.3077em;position: absolute;right: 1.1538em;top: 50%;}}.close-sidebar{width: 30px;height: 30px;position: relative;cursor: pointer;background-color: transparent;border: none;}.close-sidebar span{position: absolute;left: 0;width: 30px;height: 2px;border-right: 5px;}.close-sidebar span:nth-child(1){transform: rotate(-45deg);}.close-sidebar span:nth-child(2){transform: rotate(45deg);}.builder-sidebar{position: relative;height: 100vh;min-width: 10rem;overflow: hidden auto;z-index: 1030;padding: 1rem 2rem;max-width: 20rem;}.builder-sidebar .dropdown:hover > .dropdown-menu{position: relative;text-align: center;}section.sidebar-open:before{content: '';position: fixed;top: 0;bottom: 0;right: 0;left: 0;background-color: rgba(0,0,0,0.2);z-index: 1040;}#sidebar{background: transparent;}.is-builder section.horizontal-menu .ampstart-btn{display: none;}.is-builder section.horizontal-menu .dropdown-menu{z-index: auto;opacity: 1;pointer-events: auto;}.is-builder .menu{overflow: visible;}.card-title{margin: 0;}.card{position: relative;background-color: transparent;border: none;border-radius: 0;width: 100%;padding: 0 1rem;}@media (max-width: 767px){.card:not(.last-child){padding-bottom: 2rem;}} .card .card-img{width: auto;border-radius: 0;}.card .card-wrapper{height: 100%;}@media (max-width: 767px){.card .card-wrapper{flex-direction: column;}} .card img{height: 100%;-o-object-fit: cover;object-fit: cover;-o-object-position: center;object-position: center;}.card-inner,.items-list{display: flex;flex-direction: column;}.items-list{list-style-type: none;padding: 0;}.items-list .list-item{padding: 1rem 2rem;}.card-head{padding: 1.5rem 2rem;}.card-price-wrap{padding: 1rem 2rem;}.card-button{padding: 1rem;margin: 0;}.timeline-wrap{position: relative;}.timeline-wrap .iconBackground{position: absolute;left: 50%;width: 20px;height: 20px;line-height: 30px;text-align: center;border-radius: 50%;font-size: 30px;display: inline-block;background-color: #232323;top: 20px;margin: 0 0 0 -10px;}@media (max-width: 767px){.timeline-wrap .iconBackground{left: 0;}}.separline{position: relative;}@media (max-width: 767px){.separline:not(.last-child){padding-bottom: 2rem;}} .separline:before{position: absolute;content: "";width: 2px;background-color: #232323;left: calc(50% - 1px);height: calc(100% - 20px);top: 40px;}@media (max-width: 767px){.separline:before{left: 0;}}.gallery-img-wrap{position: relative;height: 100%;}.gallery-img-wrap:hover{cursor: pointer;}.gallery-img-wrap:hover .icon-wrap,.gallery-img-wrap:hover .caption-on-hover{opacity: 1;}.gallery-img-wrap:hover:after{opacity: .5;}.gallery-img-wrap amp-img{height: 100%;}.gallery-img-wrap:after{content: "";position: absolute;top: 0;bottom: 0;left: 0;right: 0;background: #000;opacity: 0;transition: opacity 0.3s;pointer-events: none;}.gallery-img-wrap .icon-wrap,.gallery-img-wrap .img-caption{z-index: 3;pointer-events: none;position: absolute;}.gallery-img-wrap .icon-wrap,.gallery-img-wrap .caption-on-hover{opacity: 0;transition: opacity 0.3s;}.gallery-img-wrap .icon-wrap{left: 50%;top: 50%;transform: translate(-50%,-50%);background-color: #fff;padding: .5rem;border-radius: 50%;}.gallery-img-wrap .amp-iconfont{color: #000;font-size: 1rem;width: 1rem;display: block;}.gallery-img-wrap .img-caption{left: 0;right: 0;}.gallery-img-wrap .img-caption.caption-top{top: 0;}.gallery-img-wrap .img-caption.caption-bottom{bottom: 0;}.gallery-img-wrap .img-caption:not(.caption-on-hover):after{content: "";position: absolute;top: 0;left: 0;right: 0;height: 100%;transition: opacity 0.3s;z-index: -1;pointer-events: none;}@media (max-width: 767px){.gallery-img-wrap:after,.gallery-img-wrap:hover:after,.gallery-img-wrap .icon-wrap{display: none;}.gallery-img-wrap .caption-on-hover{opacity: 1;}}.is-builder .gallery-img-wrap .icon-wrap,.is-builder .gallery-img-wrap .img-caption > *{pointer-events: all;}.amp-carousel-button,.dots-wrapper .dots span{transition: all 0.4s;cursor: pointer;outline: none;}.amp-carousel-button{border-radius: 50%;border: 10px transparent solid;transform: scale(1.5) translateY(-50%);height: 45px;width: 45px;}.amp-carousel-button:hover{opacity: 1;}.amp-carousel-button-next{background-position: 75% 50%;}.amp-carousel-button-prev{background-position: 25% 50%;}.dots-wrapper .dots{margin: 4px 8px;display: inline-block;}.dots-wrapper .dots span{border-radius: 12px;display: block;height: 24px;width: 24px;border: 10px solid #cccccc;}.dots-wrapper .dots span.current{width: 40px;}button.btn-img{cursor: pointer;}.is-builder .preview button.btn-img{opacity: 0.5;position: relative;pointer-events: none;}amp-image-lightbox,.lightbox{background: rgba(0,0,0,0.8);display: flex;flex-wrap: wrap;align-items: center;justify-content: center;width: 100%;height: 100%;overflow: auto;}amp-image-lightbox a.control,.lightbox a.control{position: absolute;cursor: default;top: 0;right: 0;}amp-image-lightbox .close,.lightbox .close{background: none;border: none;position: absolute;top: 15px;right: 25px;width: 32px;height: 32px;cursor: pointer;z-index: 1000;}amp-image-lightbox .close:before,amp-image-lightbox .close:after,.lightbox .close:before,.lightbox .close:after{position: absolute;top: 0;right: 15px;content: ' ';height: 32px;width: 2px;background-color: #fff;}amp-image-lightbox .close:before,.lightbox .close:before{transform: rotate(45deg);}amp-image-lightbox .close:after,.lightbox .close:after{transform: rotate(-45deg);}amp-image-lightbox .video-block,.lightbox .video-block{width: 100%;}div[submit-success] > *,div[submit-error] > *{padding: 1rem;margin-bottom: 1rem;}.form-block{z-index: 1;background-color: transparent;padding: 60px;position: relative;overflow: hidden;}.form-block .mbr-overlay{z-index: -1;}@media (max-width: 991px){.form-block{padding: 30px;}}form input,form textarea,form select{padding: 0.375rem 0.75rem;line-height: 1.6;width: 100%;background: #ffffff;border-width: 1px;border-style: solid;border-color: #ced4da;border-radius: 5px;color: #495057;}form input[type="checkbox"],form input[type="radio"]{border: none;background: none;width: auto;}form .field{padding-bottom: 1rem;padding-top: 1rem;}form textarea.field-input{height: 120px;}form .fieldset{display: flex;justify-content: center;flex-wrap: wrap;align-items: center;}textarea[type="hidden"]{display: none;}.form-check{margin-bottom: 0;}.form-check-label{padding-left: 0;}.form-check-input{position: relative;margin: 4px;}.form-check-inline{display: -webkit-inline-box;display: -ms-inline-flexbox;display: inline-flex;-webkit-box-align: center;-ms-flex-align: center;align-items: center;padding-left: 0;margin-right: .75rem;}.mbr-row,.mbr-form-row{display: -webkit-box;display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;margin-left: -1rem;margin-right: -1rem;}.mbr-form-row{margin-left: -0.5rem;margin-right: -0.5rem;}.mbr-form-row > [class*="mbr-col"]{padding-left: 0.5rem;padding-right: 0.5rem;}@media (max-width: 767px){.mbr-col,.mbr-col-auto{padding-right: 1rem;padding-left: 1rem;}.mbr-col-sm-12{-ms-flex: 0 0 100%;-webkit-box-flex: 0;flex: 0 0 100%;max-width: 100%;padding-right: 1rem;padding-left: 1rem;}}@media (min-width: 768px){.mbr-col,.mbr-col-auto{padding-right: 1rem;padding-left: 1rem;}.mbr-col-md-2{-ms-flex: 0 0 16.6666666667%;-webkit-box-flex: 0;flex: 0 0 16.6666666667%;max-width: 16.6666666667%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-md-3{-ms-flex: 0 0 25%;-webkit-box-flex: 0;flex: 0 0 25%;max-width: 25%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-md-4{-ms-flex: 0 0 33.3333333333%;-webkit-box-flex: 0;flex: 0 0 33.3333333333%;max-width: 33.3333333333%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-md-5{-ms-flex: 0 0 41.6666666667%;-webkit-box-flex: 0;flex: 0 0 41.6666666667%;max-width: 41.6666666667%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-md-6{-ms-flex: 0 0 50%;-webkit-box-flex: 0;flex: 0 0 50%;max-width: 50%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-md-7{-ms-flex: 0 0 58.3333333333%;-webkit-box-flex: 0;flex: 0 0 58.3333333333%;max-width: 58.3333333333%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-md-8{-ms-flex: 0 0 66.6666666667%;-webkit-box-flex: 0;flex: 0 0 66.6666666667%;max-width: 66.6666666667%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-md-10{-ms-flex: 0 0 83.3333333333%;-webkit-box-flex: 0;flex: 0 0 83.3333333333%;max-width: 83.3333333333%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-md-12{-ms-flex: 0 0 100%;-webkit-box-flex: 0;flex: 0 0 100%;max-width: 100%;padding-right: 1rem;padding-left: 1rem;}}.mbr-col{-ms-flex: 1 1 auto;-webkit-box-flex: 1;flex: 1 1 auto;max-width: 100%;}.mbr-col-auto{-ms-flex: 0 0 auto;flex: 0 0 auto;width: auto;}@media (min-width: 992px){.mbr-col,.mbr-col-auto{padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-2{-ms-flex: 0 0 16.6666666667%;-webkit-box-flex: 0;flex: 0 0 16.6666666667%;max-width: 16.6666666667%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-3{-ms-flex: 0 0 25%;-webkit-box-flex: 0;flex: 0 0 25%;max-width: 25%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-4{-ms-flex: 0 0 33.3333333333%;-webkit-box-flex: 0;flex: 0 0 33.3333333333%;max-width: 33.3333333333%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-5{-ms-flex: 0 0 41.6666666667%;-webkit-box-flex: 0;flex: 0 0 41.6666666667%;max-width: 41.6666666667%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-6{-ms-flex: 0 0 50%;-webkit-box-flex: 0;flex: 0 0 50%;max-width: 50%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-7{-ms-flex: 0 0 58.3333333333%;-webkit-box-flex: 0;flex: 0 0 58.3333333333%;max-width: 58.3333333333%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-8{-ms-flex: 0 0 66.6666666667%;-webkit-box-flex: 0;flex: 0 0 66.6666666667%;max-width: 66.6666666667%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-9{-ms-flex: 0 0 75%;-webkit-box-flex: 0;flex: 0 0 75%;max-width: 75%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-10{-ms-flex: 0 0 83.3333333333%;-webkit-box-flex: 0;flex: 0 0 83.3333333333%;max-width: 83.3333333333%;padding-right: 1rem;padding-left: 1rem;}.mbr-col-lg-12{-ms-flex: 0 0 100%;-webkit-box-flex: 0;flex: 0 0 100%;max-width: 100%;padding-right: 1rem;padding-left: 1rem;}}@media (min-width: 992px){.lg-pb{padding-bottom: 3rem;}}@media (max-width: 991px){.md-pb{padding-bottom: 2rem;}}.mbr-pt-1,.mbr-py-1{padding-top: 0.5rem;}.mbr-pb-1,.mbr-py-1{padding-bottom: 0.5rem;}.mbr-px-1{padding-left: 0.5rem;padding-right: 0.5rem;}.mbr-p-1{padding: 0.5rem;}.mbr-pt-2,.mbr-py-2{padding-top: 1rem;}.mbr-pb-2,.mbr-py-2{padding-bottom: 1rem;}.mbr-px-2{padding-left: 1rem;padding-right: 1rem;}.mbr-p-2{padding: 1rem;}.mbr-pt-3,.mbr-py-3{padding-top: 1.5rem;}.mbr-pb-3,.mbr-py-3{padding-bottom: 1.5rem;}.mbr-px-3{padding-left: 1.5rem;padding-right: 1.5rem;}.mbr-p-3{padding: 1.5rem;}.mbr-pt-4,.mbr-py-4{padding-top: 2rem;}.mbr-pb-4,.mbr-py-4{padding-bottom: 2rem;}.mbr-px-4{padding-left: 2rem;padding-right: 2rem;}.mbr-p-4{padding: 2rem;}.mbr-pt-5,.mbr-py-5{padding-top: 60px;}.mbr-pb-5,.mbr-py-5{padding-bottom: 60px;}.mbr-px-5{padding-left: 60px;padding-right: 60px;}.mbr-p-5{padding: 60px;}@media (max-width: 991px){.mbr-p-3,.mbr-p-4,.mbr-p-5{padding: 1rem;}.mbr-px-4,.mbr-px-5{padding-left: 1rem;padding-right: 1rem;}.mbr-py-4,.mbr-py-5{padding-top: 1rem;padding-bottom: 1rem;}}.mbr-ml-auto{margin-left: auto;}.mbr-mr-auto{margin-right: auto;}.mbr-m-auto{margin: auto;}#scrollToTopMarker{position: absolute;width: 0px;height: 0px;top: 300px;}#scrollToTopButton{background: rgba(0,0,0,0.1);display: block;position: fixed;text-align: center;z-index: 5000;width: 45px;height: 45px;cursor: pointer;bottom: 10px;right: 10px;padding: 10px;padding-top: 20px;border: none;border-radius: 50%;transition: color .3s,background-color .3s,opacity .3s;}#scrollToTopButton a:after{content: '';display: inline-block;box-sizing: content-box;border-top: 3px solid;border-right: 3px solid;height: 8px;width: 8px;transition: all 0.3s;transform: rotate(-45deg);}.is-builder #scrollToTopButton{right: 30px;}.btn-sm.btn-white-outline:hover{color: #fff;background-color: transparent;}.mbr-section-title,.mbr-text{letter-spacing: 0;}.mbr-section-subtitle{letter-spacing: 2px;}
+body{font-family: DM Sans;}blockquote{border-color: #0067da;}div[submit-success]{background: #66a4e3;}div[submit-error]{background: #fea2a7;}.display-1{font-family: 'DM Sans',sans-serif;font-size: 4.375rem;line-height: 1;}.display-2{font-family: 'DM Sans',sans-serif;font-size: 2.8rem;line-height: 1.2;}.display-4{font-family: 'DM Sans',sans-serif;font-size: 0.81rem;line-height: 1.7;}.display-5{font-family: 'DM Sans',sans-serif;font-size: 2.25rem;line-height: 1;}.display-6{font-family: 'DM Sans',sans-serif;font-size: 1.25rem;line-height: 1.7;}.display-7{font-family: 'DM Sans',sans-serif;font-size: 1rem;line-height: 1.7;}.mbr-section-subtitle,.mbr-section-title{line-height: 1;}.form-block input,.form-block textarea{font-family: 'DM Sans',sans-serif;font-size: 1rem;line-height: 1.7;}@media (max-width: 768px){.display-1{font-size: 3.5rem;font-size: calc( 2.18125rem + (4.375 - 2.18125) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (2.18125rem + (4.375 - 2.18125) * ((100vw - 20rem) / (48 - 20))));}.display-2{font-size: 2.24rem;font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));}.display-5{font-size: 1.8rem;font-size: calc( 1.4375rem + (2.25 - 1.4375) * ((100vw - 20rem) / (48 - 20)));line-height: calc( 1.4 * (1.4375rem + (2.25 - 1.4375) * ((100vw - 20rem) / (48 - 20))));}}.display-1 .mbr-iconfont-btn{font-size: 4.375rem;width: 4.375rem;}.display-2 .mbr-iconfont-btn{font-size: 2.8rem;width: 2.8rem;}.display-4 .mbr-iconfont-btn{font-size: 0.81rem;width: 0.81rem;}.display-5 .mbr-iconfont-btn{font-size: 2.25rem;width: 2.25rem;}.display-6 .mbr-iconfont-btn{font-size: 1.25rem;width: 1.25rem;}.display-7 .mbr-iconfont-btn{font-size: 1rem;width: 1rem;}.btn-secondary,.btn-secondary:active,.btn-secondary.active{background-color: #444444;border-color: #444444;color: #ffffff;}.btn-secondary:hover,.btn-secondary:focus,.btn-secondary.focus{background-color: transparent;border-color: #444444;color: #444444;}.btn-secondary.disabled,.btn-secondary:disabled{color: #ffffff;background-color: #444444;border-color: #444444;}.btn-info,.btn-info:active,.btn-info.active{background-color: #222222;border-color: #222222;color: #ffffff;}.btn-info:hover,.btn-info:focus,.btn-info.focus{background-color: transparent;border-color: #222222;color: #222222;}.btn-info.disabled,.btn-info:disabled{color: #ffffff;background-color: #222222;border-color: #222222;}.btn-success,.btn-success:active,.btn-success.active{background-color: #66a4e3;border-color: #66a4e3;color: #ffffff;}.btn-success:hover,.btn-success:focus,.btn-success.focus{background-color: transparent;border-color: #66a4e3;color: #66a4e3;}.btn-success.disabled,.btn-success:disabled{color: #ffffff;background-color: #66a4e3;border-color: #66a4e3;}.btn-warning,.btn-warning:active,.btn-warning.active{background-color: #122947;border-color: #122947;color: #ffffff;}.btn-warning:hover,.btn-warning:focus,.btn-warning.focus{background-color: transparent;border-color: #122947;color: #122947;}.btn-warning.disabled,.btn-warning:disabled{color: #ffffff;background-color: #122947;border-color: #122947;}.btn-danger,.btn-danger:active,.btn-danger.active{background-color: #fea2a7;border-color: #fea2a7;color: #ffffff;}.btn-danger:hover,.btn-danger:focus,.btn-danger.focus{background-color: transparent;border-color: #fea2a7;color: #fea2a7;}.btn-danger.disabled,.btn-danger:disabled{color: #ffffff;background-color: #fea2a7;border-color: #fea2a7;}.btn-primary,.btn-primary:active,.btn-primary.active{background-color: #0067da;border-color: #0067da;color: #ffffff;}.btn-primary:hover,.btn-primary:focus,.btn-primary.focus{background-color: transparent;border-color: #0067da;color: #0067da;}.btn-primary.disabled,.btn-primary:disabled{color: #ffffff;background-color: #0067da;border-color: #0067da;}.btn-black,.btn-black:active,.btn-black.active{background-color: #222222;border-color: #222222;color: #ffffff;}.btn-black:hover,.btn-black:focus,.btn-black.focus{background-color: transparent;border-color: #222222;color: #222222;}.btn-black.disabled,.btn-black:disabled{color: #ffffff;background-color: #222222;border-color: #222222;}.btn-white,.btn-white:active,.btn-white.active{background-color: #ffffff;border-color: #ffffff;color: #808080;}.btn-white:hover,.btn-white:focus,.btn-white.focus{background-color: transparent;border-color: #ffffff;color: #ffffff;}.btn-white.disabled,.btn-white:disabled{color: #808080;background-color: #ffffff;border-color: #ffffff;}.btn-primary-outline,.btn-primary-outline:active,.btn-primary-outline.active{background: none;border-color: #0067da;color: #0067da;}.btn-primary-outline:hover,.btn-primary-outline:focus,.btn-primary-outline.focus{color: #ffffff;background-color: #0067da;border-color: #0067da;}.btn-primary-outline.disabled,.btn-primary-outline:disabled{color: #ffffff;background-color: #0067da;border-color: #0067da;}.btn-secondary-outline,.btn-secondary-outline:active,.btn-secondary-outline.active{background: none;border-color: #444444;color: #444444;}.btn-secondary-outline:hover,.btn-secondary-outline:focus,.btn-secondary-outline.focus{color: #ffffff;background-color: #444444;border-color: #444444;}.btn-secondary-outline.disabled,.btn-secondary-outline:disabled{color: #ffffff;background-color: #444444;border-color: #444444;}.btn-info-outline,.btn-info-outline:active,.btn-info-outline.active{background: none;border-color: #222222;color: #222222;}.btn-info-outline:hover,.btn-info-outline:focus,.btn-info-outline.focus{color: #ffffff;background-color: #222222;border-color: #222222;}.btn-info-outline.disabled,.btn-info-outline:disabled{color: #ffffff;background-color: #222222;border-color: #222222;}.btn-success-outline,.btn-success-outline:active,.btn-success-outline.active{background: none;border-color: #66a4e3;color: #66a4e3;}.btn-success-outline:hover,.btn-success-outline:focus,.btn-success-outline.focus{color: #ffffff;background-color: #66a4e3;border-color: #66a4e3;}.btn-success-outline.disabled,.btn-success-outline:disabled{color: #ffffff;background-color: #66a4e3;border-color: #66a4e3;}.btn-warning-outline,.btn-warning-outline:active,.btn-warning-outline.active{background: none;border-color: #122947;color: #122947;}.btn-warning-outline:hover,.btn-warning-outline:focus,.btn-warning-outline.focus{color: #ffffff;background-color: #122947;border-color: #122947;}.btn-warning-outline.disabled,.btn-warning-outline:disabled{color: #ffffff;background-color: #122947;border-color: #122947;}.btn-danger-outline,.btn-danger-outline:active,.btn-danger-outline.active{background: none;border-color: #fea2a7;color: #fea2a7;}.btn-danger-outline:hover,.btn-danger-outline:focus,.btn-danger-outline.focus{color: #ffffff;background-color: #fea2a7;border-color: #fea2a7;}.btn-danger-outline.disabled,.btn-danger-outline:disabled{color: #ffffff;background-color: #fea2a7;border-color: #fea2a7;}.btn-black-outline,.btn-black-outline:active,.btn-black-outline.active{background: none;border-color: #222222;color: #222222;}.btn-black-outline:hover,.btn-black-outline:focus,.btn-black-outline.focus{color: #ffffff;background-color: #222222;border-color: #222222;}.btn-black-outline.disabled,.btn-black-outline:disabled{color: #ffffff;background-color: #222222;border-color: #222222;}.btn-white-outline,.btn-white-outline:active,.btn-white-outline.active{background: none;border-color: #ffffff;color: #ffffff;}.btn-white-outline:hover,.btn-white-outline:focus,.btn-white-outline.focus{color: #808080;background-color: #ffffff;border-color: #ffffff;}.btn-white-outline.disabled,.btn-white-outline:disabled{color: #808080;background-color: #ffffff;border-color: #ffffff;}.text-primary{color: #0067da;}.text-secondary{color: #444444;}.text-success{color: #66a4e3;}.text-info{color: #222222;}.text-warning{color: #122947;}.text-danger{color: #fea2a7;}.text-white{color: #ffffff;}.text-black{color: #222222;}a[class*="text-"],.amp-iconfont,.mbr-iconfont{transition: 0.2s ease-in-out;}.amp-iconfont{color: #0067da;}a.text-primary:hover,a.text-primary:focus{color: #001f41;}a.text-secondary:hover,a.text-secondary:focus{color: #000000;}a.text-success:hover,a.text-success:focus{color: #1b5895;}a.text-info:hover,a.text-info:focus{color: #000000;}a.text-warning:hover,a.text-warning:focus{color: #000000;}a.text-danger:hover,a.text-danger:focus{color: #fc0b18;}a.text-white:hover,a.text-white:focus{color: #e6e6e6;}a.text-black:hover,a.text-black:focus{color: #a2a2a2;}.field-input:hover{border-color: #0067da;}#scrollToTopMarker{display: none;}.mobirise-spinner em:nth-child(1){background: #0067da;}.mobirise-spinner em:nth-child(2){background: #fea2a7;}.mobirise-spinner em:nth-child(3){background: #66a4e3;}.cid-sYeGKbdrcz{padding: 0;}.cid-sYeGKbdrcz .mbr-overlay{background: #000000;opacity: 0.4;pointer-events: none;z-index: 1;}.cid-sYeGKbdrcz .slider-box{height: 100%;}.cid-sYeGKbdrcz amp-carousel{z-index: 1000;}.cid-sYeGKbdrcz .carousel-img{align-self: flex-start;position: relative;align-items: center;}.cid-sYeGKbdrcz .carousel-img .card-box{position: absolute;z-index: 5;top: 50%;transform: translateY(-50%);}.cid-sYeGKbdrcz .carousel,.cid-sYeGKbdrcz .carousel-img,.cid-sYeGKbdrcz .carousel-img amp-img,.cid-sYeGKbdrcz .carousel-img amp-img img{height: 37rem;width: 100%;}.cid-sYeGKbdrcz img{object-fit: cover;}.cid-sYeGKbdrcz .amp-carousel-button{width: 60px;height: 60px;background-color: #5294da;z-index: 10;}.cid-sYeGKbdrcz .amp-carousel-button:after{border-color: #ffffff;width: 12px;height: 12px;}.cid-sYeGKbdrcz .amp-carousel-button .amp-carousel-button-next:after{left: calc(50% - 12px/4);}.cid-sYeGKbdrcz .amp-carousel-button .amp-carousel-button-prev:after{left: calc(50% + 12px/4);}@media (max-width: 767px){.cid-sYeGKbdrcz .amp-carousel-button{display: none;}}@media (min-width: 768px){.cid-sYeGKbdrcz .card-box{padding-left: 30px;padding-right: 30px;}}@media (min-width: 992px){.cid-sYeGKbdrcz .card-box{padding-left: 60px;padding-right: 60px;}}@media (min-width: 1200px){.cid-sYeGKbdrcz .card-box{padding-left: 105px;padding-right: 105px;}}.cid-sYeGKbdrcz .mbr-section-btn{padding-top: 45px;}.cid-sXSrEYQVlb{padding-top: 75px;padding-bottom: 75px;background-color: #ffffff;}.cid-sXSrEYQVlb .title{margin-bottom: 2rem;}.cid-sXSrEYQVlb .card{text-align: left;margin-bottom: 3rem;}@media (max-width: 600px){.cid-sXSrEYQVlb .card{padding: 0;}}.cid-sXSrEYQVlb .mbr-text{margin: 0;padding-top: 0;padding-bottom: 1rem;}.cid-sXSrEYQVlb H2{text-align: center;}.cid-sXTaqcSThD{padding-top: 5rem;padding-bottom: 5rem;background-image: url("assets/images/mbr-1920x1180.jpg");}.cid-sXTaqcSThD .mbr-overlay{background-color: #444444;opacity: 0.6;}@media (max-width: 768px){.cid-sXTaqcSThD .title-wrap{padding-bottom: 2rem;}}.cid-sXTaqcSThD .display-4{font-size: 1.13rem;}.cid-sXTaqcSThD .mbr-section-title{text-align: center;color: #ffffff;}.cid-sXTaqcSThD .mbr-subtitle{text-align: left;color: #ffffff;}.cid-sXTaqcSThD .mbr-text{color: #ffffff;}.cid-sXTbmYbTTP{background-color: #ffffff;padding-top: 30px;padding-bottom: 0px;}@media (max-width: 767px){.cid-sXTbmYbTTP .img-col{width: 100%;}}.cid-sXTcEbZHsT{padding-top: 0rem;padding-bottom: 3rem;background-color: #ffffff;}@media (max-width: 767px){.cid-sXTcEbZHsT .mbr-text2{text-align: left;}.cid-sXTcEbZHsT .mbr-text3{text-align: left;}}.cid-sXTcEbZHsT .mbr-text2{line-height: 1.8;}.cid-sXTcEbZHsT .mbr-text3{line-height: 1.8;}@media (max-width: 992px){.cid-sXTcEbZHsT .container{max-width: 100%;}}.cid-sXTdo55ACA{padding-top: 75px;padding-bottom: 30px;background-color: #ffffff;}.cid-sXTdo55ACA .title-col{margin-bottom: 2rem;}.cid-sXTdo55ACA .card-wrapper{background: #f2f7ff;padding: 2rem;border-radius: 10px;}@media (max-width: 767px){.cid-sXTdo55ACA .card-wrapper{padding: 2rem 1rem;}}.cid-sXTdo55ACA .mbr-text,.cid-sXTdo55ACA .mbr-section-btn{text-align: center;}.cid-sXTdo55ACA .title DIV{text-align: center;}.cid-sXTdo55ACA .title{text-align: center;}.cid-sXTdo55ACA .main-title DIV{text-align: center;}.cid-sXTdo55ACA .main-text{text-align: center;}.cid-sXSsthYJjh{padding-top: 15px;padding-bottom: 60px;background-color: #ffffff;}.cid-sXSsthYJjh .image-block,.cid-sXSsthYJjh .mbr-temp{max-height: 47rem;}.cid-sXSsthYJjh .mbr-section-title{color: #222222;}.cid-sXYnyNSm0S{padding-top: 60px;padding-bottom: 0px;background-color: #ffffff;}.cid-sXYnyNSm0S .mbr-section-subtitle{font-style: italic;color: gray;}.cid-sXYnyNSm0S H1{text-align: center;}.cid-sXYj2lwd4d{padding-top: 50px;padding-bottom: 50px;background-color: #ffffff;}.cid-sXYj2lwd4d .mbr-row{padding: 0 20%;margin: 0;}.cid-sXYj2lwd4d .mbr-section-subtitle{margin-bottom: 5px;color: #0067da;}.cid-sXYj2lwd4d .mbr-text{margin-bottom: 40px;margin-top: 20px;line-height: 1.5em;}.cid-sXYj2lwd4d .image__block{padding: 0;}@media (max-width: 992px){.cid-sXYj2lwd4d .mbr-row{padding: 0 20px;}}.cid-sYaAzIS1Su{padding-top: 75px;padding-bottom: 75px;background-color: #ffffff;}.cid-sYaAzIS1Su .card{padding: 0;flex-direction: column;}.cid-sYaAzIS1Su h2,.cid-sYaAzIS1Su amp-img{padding-bottom: 1rem;}.cid-sYaAzIS1Su .card-box{width: 100%;margin: auto;}.cid-sYaAzIS1Su .card-box p{margin: 0;}.cid-sYaAzIS1Su .card-wrapper{margin-bottom: 2rem;}.cid-sYaAzIS1Su .icon-row{flex-direction: column;margin: 0;}.cid-sYaAzIS1Su .icon-wrapper{display: flex;justify-content: center;}.cid-sYaAzIS1Su .icon-wrapper .icon{display: flex;flex-direction: row;padding: 2rem;margin-right: 2rem;border-radius: 50%;background: #f2f7ff;}.cid-sYaAzIS1Su .icon-wrapper .icon .iconfont-wrapper{display: flex;justify-content: center;width: 3.5rem;height: 3.5rem;}.cid-sYaAzIS1Su .icon-wrapper .icon .iconfont-wrapper .amp-iconfont{color: #003188;font-size: 3.5rem;}@media (max-width: 767px){.cid-sYaAzIS1Su .card-wrapper{display: block;}.cid-sYaAzIS1Su .icon-wrapper .icon{margin-right: 0rem;margin-bottom: 1.5rem;}}.cid-sYaAzIS1Su .title{text-align: center;}.cid-sYairsza8Q{padding-top: 5rem;padding-bottom: 5rem;background-color: #ffffff;}.cid-sYairsza8Q .card-wrapper{position: relative;z-index: 1;}@media (max-width: 991px){.cid-sYairsza8Q .card-wrapper{flex-wrap: wrap;}}.cid-sYairsza8Q .card-wrapper:after{content: "";position: absolute;left: 0;right: 0;top: 0;bottom: 0;background-color: #efefef;opacity: 1;z-index: -1;}.cid-sYairsza8Q .card-box{width: 100%;}.cid-sXZ23xxEYA{padding-top: 90px;padding-bottom: 105px;background-color: #ffffff;}.cid-sXZ23xxEYA table{border-top: 1px solid lightgray;width: 100%;border-collapse: collapse;min-width: 500px;}.cid-sXZ23xxEYA td,.cid-sXZ23xxEYA tr,.cid-sXZ23xxEYA th{border-bottom: 1px solid lightgray;}.cid-sXZ23xxEYA p{padding: 15px;margin: 0px;text-align: left;}.cid-sXZ23xxEYA .scroll{overflow-x: auto;}.cid-sXZ23xxEYA .wrapscroll{width: 100%;}.cid-sXZ23xxEYA .main-subtitle{color: #8c8c8c;font-style: italic;margin-bottom: 2rem;}
+[class*="-iconfont"]{display: inline-flex;}</style>
+ 
+  <script async  src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+  <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
+  <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+  <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+  
+  
+  
+
+</head>
+<body>
+  
+  <section class="header6 slider cid-sYeGKbdrcz" id="header6-s">
+    
+    <div class="container-fluid">
+        <div class="slider-box" data-autoplay="true" data-delay="3000"><amp-carousel class="carousel" height="9" width="16" layout="responsive" type="slides" loop="" autoplay="" delay="3000"><div class="carousel-img mobirise-loader mbr-flex mbr-jc-c">
+                    <div class="mbr-overlay"></div>
+                    <amp-img src="assets/images/p7160079-2714x2036.jpg" height="9" width="11.997053045186641" layout="responsive" alt="image">
+                        <div placeholder="" class="placeholder">
+                                <div class="mobirise-spinner">
+                                    <em></em>
+                                    <em></em>
+                                    <em></em>
+                                </div></div>
+                        
+                    </amp-img>
+                    <div class="card-box container">
+                        
+                        <h1 class="mbr-section-title mbr-fonts-style mbr-bold mbr-white mbr-pb-1 display-5">継続的な災害状況調査のためのAI,オンラインワーカ，現地ワーカの連携プラットフォーム実証実験&nbsp;</h1>
+                        <p class="mbr-text mbr-fonts-style mbr-white display-6">〜スケーラブルでサステナブルなサイバーフィジカルタスクは実現可能か？〜</p>
+                        
+                    </div>    
+                </div><div class="carousel-img mobirise-loader mbr-flex mbr-jc-c">
+                    <div class="mbr-overlay"></div>
+                    <amp-img src="assets/images/p7160095-1920x1080.jpg" height="9" width="16" layout="responsive" alt="image">
+                        <div placeholder="" class="placeholder">
+                                <div class="mobirise-spinner">
+                                    <em></em>
+                                    <em></em>
+                                    <em></em>
+                                </div></div>
+                        
+                    </amp-img>
+                    <div class="card-box container">
+                        
+                        <h1 class="mbr-section-title mbr-fonts-style mbr-bold mbr-white mbr-pb-1 display-5">継続的な災害状況調査のためのAI,オンラインワーカ，現地ワーカの連携プラットフォーム実証実験&nbsp;</h1>
+                        <p class="mbr-text mbr-fonts-style mbr-white display-6">〜スケーラブルでサステナブルなサイバーフィジカルタスクは実現可能か？〜</p>
+                        
+                    </div>    
+                </div></amp-carousel>
+            
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section text1 cid-sXSrEYQVlb" id="text1-3">
+    
+    
+    <div class="container">
+        <div class="mbr-col-lg-12">
+            <h2 class="title mbr-fonts-style mbr-bold display-2">
+            はじめに</h2>
+            <div class="mbr-row justify-content-center">
+                <div class="card mbr-col-lg-12">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        令和4年3月1日（火）に，「筑波大・富山大・京大等によるCREST CyborgCrowdプロジェクト」が，継続的な災害状況調査のためのAI，オンラインワーカ，現地ワーカの連携のための実証実験を共同で実施しました．<br><br>2019年10月に実施した「世界初の国際サイバー防災訓練」では西日本豪雨災害の経験を踏まえ，わが国を中心に世界が有する知識や技術を最大限に活用し，いかに迅速に被災状況（浸水域）を把握できるかについての実証実験を実施しましたが，その成果を踏まえ，より詳細な浸水状況の把握，航空写真や衛星写真の入手を待たない状況把握，刻々と状況が変わる浸水状況の継続的な監視，等を目的として，サイバーワールドにおけるオンラインタスクだけではなく，現地ワーカによるフィジカルタスクも含めて，より困難な「AI，オンラインワーカ，現地ワーカの総力結集」を，オンデマンド，かつサステナブルな形で実現するための基礎技術の確立を目指すものです．<br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="title3 cid-sXTaqcSThD" id="title3-9">
+    
+    <!--Block parameters controls (Blue "Gear" panel) -->
+    <div class="mbr-overlay"></div>
+    <div class="container">
+        <div class="title mbr-pb-5">
+            <h3 class="mbr-section-title mbr-fonts-style mbr-bold section-title display-2">実験概要</h3>
+            <h4 class="mbr-subtitle mbr-fonts-style mbr-pt-2 section-subtitle display-7"><br>本実証実験では，2018年の西日本水害，2019年の台風19号による福島県水害のデータを実際に利用し，AI，オンラインの人間クラウドワーカ，現地タスクを行う人間ワーカが次のように連携した実験を行います．</h4>
+        </div>
+        <div class="mbr-row">
+            <div class="mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-12">
+                <p class="mbr-text mbr-pb-4 mbr-fonts-style display-7">(1)(2) まず，当時のツイッターの中から，これらの水害の現地状況が判定できる写真を選択するタスク，および，それらの写真の位置を推定するタスクをクラウドソーシングプラットフォームCrowd4Uによって発行します．</p>
+                <p class="mbr-text mbr-pb-4 mbr-fonts-style display-7">(3) この作業は，オンラインクラウドワーカおよびクラウドワーカによって開発されたAIワーカが実施します．<br><br>(4)Flood Damage Estimation AIが，その時点で入手された写真から水害の程度を推定し，さらに必要な写真について，撮影のための追加のタスクを発行します．&nbsp;</p>
+                <p class="mbr-text mbr-pb-4 mbr-fonts-style display-7">(5) 写真撮影のための追加タスクは，オンラインでは作業できない「フィールドタスク」となるため，ワーカを見つけることが一般には困難になります．本実証実験ではより多くのワーカにタスクに興味を持ってもらうための手法を導入し，タスクの実施可能性を向上させます．<br><br>(6) (7)これらのプロセスにより，Flood Damage Estimation mapの最新の状態が入手され，災害対策本部などに届けられます．&nbsp;</p>
+                <p>
+            </p></div>
+        </div>
+    </div>
+</section>
+
+<section class="image1 cid-sXTbmYbTTP" id="images01-a">
+
+    
+
+    <div class="container">
+        <div class="mbr-row mbr-jc-c">
+            <div class="mbr-col-lg-12 mbr-col-md-12 img-col mbr-m-auto mbr-col-sm-12">
+                <div class="img-wrapper">
+                    <amp-img src="assets/images/220220-2216x1108.jpeg" alt="image" width="1107.996467961165" height="531.797" layout="responsive" class="mobirise-loader mbr-m-auto align-center">
+                        <div placeholder="" class="placeholder">
+                                <div class="mobirise-spinner">
+                                    <em></em>
+                                    <em></em>
+                                    <em></em>
+                                </div></div>
+                        
+                    </amp-img>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="Content2 cid-sXTcEbZHsT" id="content3-b">
+    
+    
+    <div class="container">
+        <div class="mbr-row">
+            <div class="mbr-col-sm-12 mbr-col-md-12 mbr-m-auto mbr-col-lg-12">
+                <div class="content">
+                    <p class="mbr-text2 align-left mbr-regular mbr-pt-5 mbr-fonts-style display-7">災害状況把握という全体のゴールを対象に，(1)オンラインで作業を行う不特定多数の群衆(オンライン人間ワーカ)，(2)これまた群衆によって開発されたブラックボックスAI(オンラインAIワーカ)，(3)現地でフィールド作業を行うの3種類の全く異なるワーカをその場でリクルートし，その場でタスクを最適に割り当てて効率よく作業を進めるという問題にチャレンジしています． </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content5 mbr-section cid-sXTdo55ACA" id="content05-c">
+
+    
+    
+    <div class="container">
+        <div class="mbr-row mbr-jc-c">
+            
+                  <div class="mbr-col-lg-12 title-col mbr-col-md-12 mbr-col-sm-12">
+            <h2 class="main-title mbr-fonts-style align-left mbr-bold display-2">
+<div>利用データ<br></div></h2>
+             <p class="main-text align-left mbr-regular mbr-fonts-style display-7"><br>今回の実証実験では，下記のTweetデータを利用しました． </p>
+                      
+            </div>
+            
+            <div class="card md-pb mbr-col-sm-12 mbr-col-md-6">
+                <div class="card-wrapper">
+                     
+                    <div class="card-box">
+                        <h4 class="title mbr-fonts-style align-left mbr-bold display-5">〇西日本豪雨（真備町）</h4>
+                        <p class="mbr-text mbr-fonts-style align-left display-7"><br><strong>2018/7/7朝に堤防決壊</strong>　　<br>・範囲：倉敷市全体が入る範囲 <br>・期間：2018/7/6～2018/7/13　<br></p>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card md-pb mbr-col-sm-12 mbr-col-md-6 last-child">
+                   <div class="card-wrapper">
+                     
+                    <div class="card-box">
+                        <h4 class="title mbr-fonts-style align-left mbr-bold display-5">
+<div>〇台風１９号（郡山市）</div></h4>
+                        <p class="mbr-text mbr-fonts-style align-left display-7"><br><strong>2019/10/12に本土上陸</strong><br>・範囲：郡山市全体が入る範囲  <br>・期間：2019/10/11～2019/10/18 <strong><br></strong></p>
+                        
+                    </div>
+                </div>
+            </div>
+
+            
+
+            
+            
+            
+            
+        </div>
+    </div>
+</section>
+
+<section class="content5 cid-sXSsthYJjh" id="content5-6">
+          
+    
+    
+    <div class="container">
+        <div class="mbr-row main-row mbr-justify-content-center">
+            <div class="mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-6">
+                <div class="image-block mbr-mb-20">
+                    <amp-img class="mobirise-loader" src="assets/images/-2022-02-19-21.47.42-922x920.png" layout="responsive" width="537.9950173913044" height="536.828" alt="2018年西日本大水害">
+                        <div placeholder="" class="placeholder">
+                                <div class="mobirise-spinner">
+                                    <em></em>
+                                    <em></em>
+                                    <em></em>
+                                </div></div>
+                        
+                    </amp-img>
+                </div>
+                <h4 class="mbr-section-title mbr-fonts-style align-left mbr-mb-30 display-6">
+                        <br>2018年西日本大水害　(<a href="https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%9030%E5%B9%B47%E6%9C%88%E8%B1%AA%E9%9B%A8" target="_blank">Wikipedia</a> より)
+                <br><br></h4>
+            </div>
+            <div class="mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-6">
+                <div class="image-block mbr-mb-20">
+                    <amp-img class="mobirise-loader" src="assets/images/-2022-02-19-21.49.28-958x888.png" layout="responsive" width="537.9989909909909" height="498.688" alt="2019年台風19号">
+                        <div placeholder="" class="placeholder">
+                                <div class="mobirise-spinner">
+                                    <em></em>
+                                    <em></em>
+                                    <em></em>
+                                </div></div>
+                        
+                    </amp-img>
+                </div>
+                <h4 class="mbr-section-title mbr-fonts-style align-left mbr-mb-30 display-6"><br>2019年台風19号　(<a href="https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C%E5%85%83%E5%B9%B4%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%8F%B0%E9%A2%A8" target="_blank">Wikipedia</a>より)
+                </h4>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section content2 cid-sXYnyNSm0S" id="content2-f">
+
+    
+
+    <div class="container">
+        <h1 class="align-center mbr-fonts-style mbr-bold display-2">実験機関</h1>
+        
+
+    </div>
+</section>
+
+<section class="mbr-section text1 cid-sXYj2lwd4d" id="text1-d">
+    
+
+<div class="container">
+    <div class="mbr-row align-center">
+        <div class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12"> 
+        <h2 class="mbr-section-subtitle mbr-regular mbr-fonts-style display-6"><strong>JST-CREST CyborgCrowdプロジェクト</strong></h2>
+        </div>
+            <div class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
+                <p class="mbr-text mbr-fonts-style mbr-regular display-6">筑波大学，富山大学，京都大学等多くの大学，<br>支援組織から構成されています．<br><br>本実証実験は，主としてJST-CREST「人間と調和した創造的協働を実現する知的情報処理システムの構築」領域（研究統括：萩田 紀博）の助成を受けて実施いたします．&nbsp;</p>   
+            </div>
+        
+        <div class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
+                    <div class="image__block mbr-col-sm-12 mbr-m-auto mbr-col-md-3">
+                <amp-img src="assets/images/jst-crest-cyborgcrowd-logo-316x69.png" alt="image" height="34.0312" width="158.14498823529414" layout="responsive" class="mobirise-loader">
+                        <div placeholder="" class="placeholder">
+                                <div class="mobirise-spinner">
+                                    <em></em>
+                                    <em></em>
+                                    <em></em>
+                                </div></div>
+                        
+                    </amp-img>
+                </div>
+            </div>
+        </div>
+    
+    </div>
+
+</section>
+
+<section class="features6 mbr-section cid-sYaAzIS1Su" id="features06-n">
+
+    
+    
+    <div class="container">
+        <div class="mbr-row mbr-jc-c">
+            
+                  <div class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
+            <h2 class="title mbr-fonts-style align-center mbr-bold display-2">利用タスクについて&nbsp;</h2>
+            
+            </div> 
+        </div>
+            
+           <div class="mbr-row">
+               
+               
+               <div class="mbr-col-lg-6 mbr-col-md-12 md-pb mbr-col-sm-12">
+               <amp-img src="assets/images/-2022-02-22-21.18.46-1076x588.png" layout="responsive" height="404" width="726.2214532871972" alt="" class="mobirise-loader">
+                            <div placeholder="" class="placeholder">
+                                <div class="mobirise-spinner">
+                                    <em></em>
+                                    <em></em>
+                                    <em></em>
+                                </div></div>
+                            
+                        </amp-img>
+               </div>
+            
+                  <div class="mbr-col-lg-6 mbr-col-md-12 mbr-col-sm-12">
+               
+             
+        
+        <div class="mbr-row icon-row">
+            
+            <div class="card mbr-flex">
+                <div class="card-wrapper mbr-flex">
+                     
+                    <div class="card-box">
+                        <h4 class="title mbr-fonts-style align-left mbr-bold display-5">&nbsp;1</h4>
+                        <p class="mbr-text mbr-fonts-style align-left display-7">ツイートと写真を見て，被災地の様子を表す写真であるかどうかを判定するタスク (オンライン人間ワーカ，AIワーカが実施) </p>
+                     
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card mbr-flex">
+                   <div class="card-wrapper mbr-flex">
+                     
+                   <div class="card-box">
+                        <h4 class="title mbr-fonts-style align-left mbr-bold display-5">2</h4>
+                        <p class="mbr-text mbr-fonts-style align-left display-7">写真について，その写真が行った場所を推定するタスク (オンライン人間ワーカが実施)<br>- 写真に写っている情報と現地の地図情報をつきあわせて場所を推定するタスク<br>- 推定結果の確認タスク (画像参照)&nbsp;</p>
+                     
+                    </div>
+                </div>
+            </div>
+
+             <div class="card mbr-flex">
+                  <div class="card-wrapper mbr-flex">
+                     
+                  <div class="card-box">
+                        <h4 class="title mbr-fonts-style align-left mbr-bold display-5">3</h4>
+                        <p class="mbr-text mbr-fonts-style align-left display-7">写真追加のためのフィールドタスク（人間ワーカが実施）．  </p>
+                     
+                    </div>
+                </div>
+            </div>
+
+        
+            
+              </div>
+                    
+                      </div>
+            
+        </div>
+    </div>
+</section>
+
+<section class="features12 cid-sYairsza8Q" id="features13-k">
+    
+
+    
+    <div class="container">
+        <div class="title mbr-pb-4 align-center">
+            <h3 class="mbr-section-title mbr-bold mbr-fonts-style display-2">本実験に関連する研究発表</h3>
+            <h4 class="mbr-section-subtitle mbr-fonts-style mbr-pt-2 display-6">(予備実験に利用した技術を含む)&nbsp;</h4>
+        </div>
+        <div class="mbr-row mbr-jc-c">
+            <div class="card mbr-col-sm-12 mbr-col-md-8 mbr-col-lg-4 md-pb">
+                <div class="card-wrapper mbr-flex mbr-column mbr-p-4">
+                    <div class="card-img mbr-pb-3">
+                        <div class="image-text mbr-fonts-style display-1">01</div>
+                    </div>
+                    <div class="card-box">
+                        
+                        
+                        <p class="card-text mbr-fonts-style mbr-pt-2 display-7">Seungun Kim, Masaki Matsubara, and Atsuyuki Morishima:<br>Analysis of Hand-drawn Maps of Places in Natural Disaster Pictures, IEEE HMData 2020, Dec. 2020.</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="card mbr-col-sm-12 mbr-col-md-8 mbr-col-lg-4 md-pb">
+                <div class="card-wrapper mbr-flex mbr-column mbr-p-4">
+                    <div class="card-img mbr-pb-3">
+                        <div class="image-text mbr-fonts-style display-1">02</div>
+                    </div>
+                    <div class="card-box">
+                        
+                        
+                        <p class="card-text mbr-fonts-style mbr-pt-2 display-7">Masaki Kobayashi, Kei Wakabayashi, Atsuyuki Morishima, <br>゛Human+AI Crowd Task Assignment Considering Result Quality Requirements", The ninth AAAI Conference on Human Computation and Crowdsourcing (HCOMP2021), Vol.9, pp.97-107, November 14–18, 2021, </p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="card mbr-col-sm-12 mbr-col-md-8 mbr-col-lg-4 last-child">
+                <div class="card-wrapper mbr-flex mbr-column mbr-p-4">
+                    <div class="card-img mbr-pb-3">
+                        <div class="image-text mbr-fonts-style display-1">03</div>
+                    </div>
+                    <div class="card-box">
+                        
+                        
+                        <p class="card-text mbr-fonts-style mbr-pt-2 display-7">田中絵璃菜，伊藤 寛祥，松原 正樹，森嶋厚行．一貫性の原理に基づくフィジカルクラウドソーシングの効果的なタスク分割・依頼方法， DEIM Forum 2022, March 2022. </p>
+                        
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+<section class="table1 cid-sXZ23xxEYA" id="table1-g">
+
+    
+
+    <div class="container">
+        <div class="mbr-row mbr-justify-content-center">
+            <div class="mbr-col-md-12 mbr-col-lg-12 mbr-col-sm-12">
+                <h2 class="mbr-fonts-style main-title mbr-black align-center mbr-bold display-2"> MIND プロジェクトメンバー</h2>
+                <h3 class="mbr-fonts-style main-subtitle mbr-black align-center display-7">(2022.2.1現在)(*本防災訓練システムを実装)&nbsp;</h3>
+                <div class="wrapscroll">
+                    <div class="scroll">
+                        <table class="table mbr-text mbr-fonts-style" cellspacing="0" width="100%">
+                            <thead>
+                                <tr>
+                                    
+
+                                    
+                                    
+                                    
+
+                                    
+                                <th>
+                                        <p class="mbr-text tabletitle mbr-fonts-style display-7">名前</p>
+                                    </th><th>
+                                        <p class="mbr-text tabletitle mbr-fonts-style display-7">所属</p>
+                                    </th><th>
+                                        <p class="mbr-text tabletitle mbr-fonts-style display-7">研究領域</p>
+                                    </th></tr>
+                            </thead>
+                            <tbody>
+                                
+                                
+                                
+                                
+                                
+                            <tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">*小林正樹 </p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">筑波大学大学院博士後期課程 </p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">クラウドソーシングとAI </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">*Yixin Zhang </p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">京都大学大学院博士後期課程 </p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">SNSと機械学習</p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">*金 承彦 </p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">波大学大学院博士前期期課程 </p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">クラウドソーシングによる写真位置情報推定 </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">田中絵璃菜 </p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">筑波大学情報学群 </p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">フィジカルタスクリクルートメント </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">井ノ口宗成</p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">富山大学<br></p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">自然災害対応とIT<br> </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">田島敬史</p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">京都大学<br></p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">データ工学<br> </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">松原正樹</p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">筑波大学<br></p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">認知科学，ヒューマンマシンインタラクション<br> </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">北原格</p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">筑波大学<br></p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">コンピュータビジョン<br> </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">宍戸英彦</p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">筑波大学<br></p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">コンピュータビジョン<br> </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">田村圭子</p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">新潟大学<br></p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">自然災害対応<br> </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">鳥屋剛毅</p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">秋田大学<br></p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">コンピュータビジョン<br> </p>
+                                    </td></tr><tr>
+                                    
+                                    
+                                    
+                                    
+
+                                    
+                                <td>
+                                        <p class="mbr-text mbr-fonts-style display-7">森嶋厚行</p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">筑波大学<br></p>
+                                    </td><td>
+                                        <p class="mbr-text mbr-fonts-style display-7">データ工学・クラウドソーシングプラットフォーム<br> </p>
+                                    </td></tr></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+  
+  
+
+</body>
+</html>

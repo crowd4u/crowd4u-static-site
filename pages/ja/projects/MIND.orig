@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='ja'>
+  <head>
+    <base href='//crowd4u.org/ja/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta content='MINDプロジェクト: 自然災害時のマイクロボランティア' name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='no-cache' http-equiv='Pragma' />
+    <meta content='no-store' http-equiv='Cache-Control' />
+    <meta content='no-cache' http-equiv='Cache-Control' />
+    <meta content='-1' http-equiv='Expires' />
+    <title>MINDプロジェクト: 自然災害時のマイクロボランティア - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/projects/MIND' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/projects/MIND' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/projects/MIND' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/projects/MIND' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/projects/MIND' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/projects/MIND' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/projects/MIND' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/projects/MIND' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/projects/MIND' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/projects/MIND' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/projects/MIND' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/projects/MIND' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ko/projects/MIND' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/projects/MIND' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/projects/MIND' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/projects/MIND' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/projects/MIND' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/projects/MIND' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/projects/MIND' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/projects/MIND' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/projects/MIND' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/projects/MIND' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_header.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_table.css' rel='stylesheet' type='text/css' />
+    <!-- Fontawesome -->
+    <link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <script src='/js/jquery.js'></script>
+    <script src='/js/bootstrap-modal.js'></script>
+    <script src='/js/scrollsmooth.js'></script>
+    <script src='/js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='project_logo' href=''>
+          <img align='right' alt='Crowd4U' height='20' src='/img/c4u_logo.png' />
+          <span style='color: white; font-size: 0.8em; margin-right: 1em;'>powered by:</span>
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/projects/MIND'>Arabic</option>
+            <option value='/bn/projects/MIND'>Bengali</option>
+            <option value='/bg/projects/MIND'>Bulgarian</option>
+            <option value='/zh/projects/MIND'>Chinese</option>
+            <option value='/en/projects/MIND'>English</option>
+            <option value='/fi/projects/MIND'>Finnish</option>
+            <option value='/fr/projects/MIND'>French</option>
+            <option value='/de/projects/MIND'>German</option>
+            <option value='/el/projects/MIND'>Greek</option>
+            <option value='/hi/projects/MIND'>Hindi</option>
+            <option value='/id/projects/MIND'>Indonesian</option>
+            <option value='/it/projects/MIND'>Italian</option>
+            <option selected='selected' value='/ja/projects/MIND'>Japanese</option>
+            <option value='/ko/projects/MIND'>Korean</option>
+            <option value='/nl/projects/MIND'>Nederlands</option>
+            <option value='/fa/projects/MIND'>Persian</option>
+            <option value='/pt/projects/MIND'>Portuguese</option>
+            <option value='/ru/projects/MIND'>Russian</option>
+            <option value='/es/projects/MIND'>Spanish</option>
+            <option value='/th/projects/MIND'>Thai</option>
+            <option value='/tr/projects/MIND'>Trukish</option>
+            <option value='/vi/projects/MIND'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        * 現時点で翻訳が無い場合には英語で表示します
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <h1>MINDプロジェクト：自然災害時のマイクロボランティア</h1>
+                                                          <p>MIND (MIcrovolunteering In Natural Disasters) プロジェクトでは，自然災害が生じたときに迅速にマイクロボランティア・クラウドソーシングによる支援活動を行うための研究を推進しています．</p>
+                                                          
+                                                          <h2>2018年西日本大規模水害の状況把握タスク</h2>
+                                                          
+                                                          <a href="http://crowd4u.org/projects/mind-20180710-west-japan-great-flood">2018年西日本大規模水害の状況把握タスク</h2>にご協力御願いいたします．
+                                                          
+                                                          
+                                                          <h2>新潟県燕市防災訓練タスク</h2>
+                                                          <div id="popSwitch"><div>
+                                                          <div>
+                                                              <script src="https://oahu.slis.tsukuba.ac.jp/js/disaster/init-pop.js"></script>
+                                                              <script type="text/javascript" src="//crowd4u.org/script/task_loader.js?requester=1092&length=10"></script>
+                                                          
+                                                          
+                                                              <a class="microtask button buttonBlue sizeL group179 repeat" href="javascript:void(0)">被災状況判定タスクを行なう</a>
+                                                          
+                                                          </div>
+                                                          <h2> 熊本地震の屋内被害発見タスク</h2>
+                                                          
+                                                          <!-- ここから追記-->
+                                                          
+                                                              <h3>目的</h3>
+                                                                災害の発生時，いち早く被災箇所とその規模を特定し，適切な支援・救助を行う．<br>
+                                                                本研究では災害発生時にTwitterにあげられた画像データを利用し，<br>
+                                                                タスクにより大量のデータから被災情報に関係するデータの迅速な獲得を図る．
+                                                              <h3>タスク内容</h3>
+                                                                災害の発生時にTwitterにあげられた画像がランダムに1枚表示されます．<br>
+                                                          	<img src="https://s3-ap-northeast-1.amazonaws.com/projects.crowd4u.org/s1820697/task_imgdata/1866_0.jpg" width="360" height="480"><br>
+                                                                画像の状況として最も適切な選択肢を選んでください．<br>
+                                                                タスクは下のボタンから行うことができます．
+                                                           
+                                                          <!-- ここまで追記-->
+                                                          
+                                                          <div>
+                                                              <div style="padding:10px;"></div>
+                                                              <a class="microtask button buttonBlue sizeL group174 repeat" href="javascript:void(0)">屋内被害発見タスクを行なう</a>
+                                                          
+                                                          <!-- <a class="microtask repeat" href="//crowd4u.org"><img src="//crowd4u.org/img/crowd4u_banner364x93.png"></a>-->
+                                                          <!-- <a class="microtask button buttonBlue sizeL group134 repeat-prefetch" href="javascript:void(0);">Perform a task</a>-->
+                                                          </div>
+                                                          
+                                                           
+                                                          <h2>全国初の総力型サイバー・フィジカル防災訓練</h2>
+                                                          
+                                                          <div>
+                                                          平成30年7月1日（日）9時より，全国初の総力型「サイバー・フィジカル防災訓練」を，「新潟県 燕市」「筑波大・富山大・京大等によるCREST CyborgCrowdプロジェクト」が共同で実施します．当日は，ドローンによる上空からの情報収集，住民参画型での地上からの報告を連携させ，AIによる情報処理，クラウドソーシングによる被災地外の市民による状況把握支援など，市民とAIの総力を結集した迅速な災害状況把握の実施訓練を行ないます．将来的には，これらの技術を活用し生存率が極端に下がる「72時間の壁」を突破することを目指します．これまでも，災害時のICTの活用は注目を集め，各所で技術開発が進められていますが，これらの統合と実運用に向けて解決すべき課題が未だ山積しています．防災訓練を通じて日常化することで初めて，現場力を持った役立つツールとなり，安全・安心な社会への貢献が期待できます．新潟県 燕市はそれを行う全国初の自治体となります．
+                                                          </div>
+                                                          
+                                                          <img width="500" src="/img/projects/mind/20180608_tsubame_bousai.png" >
+                                                          
+                                                          
+                                                          <h3>● 当日の見所 (雨天時には内容が異なることがあります)
+                                                          <ul>
+                                                          <li>1.	発災時のドローン発進と柳山地区の調査(図中(a))
+                                                          <li>2.	避難所での住民による被災地状況報告とその結果の大型ディスプレイ地図の表示(b)
+                                                          <li>3.	ドローン撮影結果に基づくクラウドソーシングタスクの作成と，被災地以外の市民による協力(c) (ネット動画による現地中継)
+                                                          <li>4.	ドローンの画像を元にAIが作成した3Dマップによる災害対応(d)
+                                                          <li>5.	把握された被災情報(地図)に基づく細部偵察のための意思決定(e)
+                                                          </ul>
+                                                          
+                                                          <h3>1.	訓練の狙い
+                                                          <ul>
+                                                          <li>効果的な災害対応を実現するためには「いま、どこで何が発生しているか」を共通して理解するための「状況認識の統一」が欠かせません。過去の災害では、被害状況の把握に時間を要し、災害対応に関する意思決定が困難であったケースもあります。燕市では、最新研究である「CyborgCrowdプロジェクト」が開発中の「Crowd4U」というシステムを利用し，人々とAI（人工知能）が協調し課題解決を行う技術を用いた災害対応（サイバーとフィジカルをつなぎ合わせた新しい災害対応）を試行します。
+                                                          特に、災害対応における状況把握には、不透明な被災状況に対して大量の情報処理を迅速に行う必要があります。人力による被災状況の収集と、収集された状況の整理が求められる一方で、人的資源の不足・時間的切迫性が課題となっています。これに対し「クラウドソーシング」と「AI」を連携させて活用し，「世界最速の状況認識の統一」の実現を目指します．しかし「どの部分を人が行ない，どの部分をAIが分担するとベストか」については明らかではありません。本訓練を通して、その可能性・有用性を追求することが狙いです。また，これらの技術は，単に研究開発するだけではなく，日常的に利用可能な状況にしておくことが重要です．今回は，ドローンと避難住民による情報に焦点を当て，これらの日常化に向けた第一歩とします．
+                                                          </ul>
+                                                          <h3>2.	訓練概要</h3>
+                                                          <ul>
+                                                          <li>　7月1日（日）の小池地区において、直下型地震災害を想定した避難訓練を実施します。避難訓練の中で、被災者役である住民参画型で「被災状況の把握」を進めます。被災想定地域に、被害を表すマーク（赤く示した○や△）を事前に配置し、そのマークを発見した住民に、専用サイトにおいて場所と被害内容を報告いただきます。これは地上からの被災状況把握を想定します。一方で、上空からの被災状況把握として、ドローン（小型無人航空機）を飛行させ、画像や映像を収集し、クラウドソーシングを活用した人力処理や機械処理等を活用し、被害発生箇所の特定を迅速に行います。これらで得られた結果は、避難所において被災者役である住民が閲覧可能とするとともに、災害対策本部となる市運営側にも提供し、意思決定の迅速化を図ります。また、避難が完了した住民においては、避難所で「被害状況把握にかかる被災箇所の特定」に関する作業を体験いただき、状況認識の統一の重要性を理解いただきます。
+                                                          </ul>
+                                                          
+                                                          <h3>3.	参画機関
+                                                          <ul>
+                                                          <li>・研究機関：筑波大学、京都大学、富山大学、（国研）防災科学技術研究所
+                                                          <li>・民間企業：ヤフー(株)、グローバル・サーベイ(株)
+                                                          </ul>
+                                                          <h3>4.	主催
+                                                          <ul>
+                                                          <li>① 新潟県 燕市
+                                                          <li>② 筑波大学・富山大学・京都大学 CREST CyborgCrowdプロジェクト
+                                                          </ul>
+                                                          
+                                                          <h3>補足</h3>
+                                                          本実証実験は、主としてJST-CREST「人間と調和した創造的協働を実現する知的情報処理システムの構築」領域（研究統括：萩田 紀博）の助成を受けて実施いたします。
+                                                          
+                                                          
+                                                          
+                                                          <h2>MINDプロジェクト メンバ (2018.6.28)(*は今回の防災訓練システム実装者)</h2>
+                                                          
+                                                          <ul>
+                                                          <li>井ノ口宗成 (富山大学) 専門：自然災害対応とIT
+                                                          <li>Flavia Fulco(富山大学) 専門：自然災害復興と文化
+                                                          <li>北原格 (筑波大学) 専門：コンピュータビジョン
+                                                          <li>宍戸英彦(筑波大学) 専門：コンピュータビジョン
+                                                          <li>森嶋厚行(筑波大学)　専門：クラウドソーシング・ヒューマンコンピュテーションシステム
+                                                          <li>松原正樹(筑波大学)　専門：認知科学，ヒューマンマシンインタラクション
+                                                          <li>*鳥屋剛毅(筑波大学大学院博士後期課程)  コンピュータビジョンに研究に従事
+                                                          <li>*小林洸陽(筑波大学大学院博士前期課程)  コンピュータビジョンの研究に従事
+                                                          <li>*三上智也(筑波大学情報学群) クラウドソーシングのタスク結果品質改善の研究に従事
+                                                          <li>田島敬史(京都大学)　専門：データベースシステム，データ工学
+                                                          </ul>
+                                                          <br/>
+                                                          今回のシステム開発に当たっては上記の他に，堀川聡(筑波大学)およびCrowd4U開発チームの協力を得ています．
+                                                          
+                                                          
+                                                          
+                                                          <h2>過去の貢献者</h2>
+                                                          <ul>
+                                                          <li>柚木 玲士（筑波大学） 
+                                                          <li>丹治寛佳（筑波大学） 
+                                                          <li>櫻井恵美（筑波大学） 
+                                                          <li>安部圭介 (筑波大学)
+                                                          <li>中村優太（筑波大学）
+                                                          </ul>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u_jp' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

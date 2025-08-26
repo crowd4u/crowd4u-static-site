@@ -1,0 +1,804 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='ja'>
+  <head>
+    <base href='/ja/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <!-- Required meta tags -->
+    <meta charset='utf-8' />
+    <meta content='width=device-width, initial-scale=1, shrink-to-fit=no' name='viewport' />
+    <title>- about - / Crowd4U - クラウドフォーユー: 非営利・公益・学術目的のクラウドソーシング・マイクロボランティアプラットフォーム</title>
+    <!-- Favicon -->
+    <link href='/images/favicon.ico' rel='shortcut icon' type='image/icon' />
+    <!-- Font Awesome -->
+    <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' rel='stylesheet' />
+    <!-- Bootstrap CSS -->
+    <link crossorigin='anonymous' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css' integrity='sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB' rel='stylesheet' />
+    <!-- Slick slider -->
+    <link href='/css/slick.css' rel='stylesheet' />
+    <!-- Gallery Lightbox -->
+    <link href='/css/magnific-popup.css' rel='stylesheet' />
+    <!-- Skills Circle CSS -->
+    <link href='https://unpkg.com/circlebars@1.0.3/dist/circle.css' rel='stylesheet' type='text/css' />
+    <!-- Main Style -->
+    <link href='/css/style.css' rel='stylesheet' />
+    <link href='/css/c4u.css' rel='stylesheet' />
+    <!-- Fonts -->
+    <!-- Google Fonts Raleway -->
+    <link href='https://fonts.googleapis.com/css?family=Raleway:300,400,400i,500,500i,600,700' rel='stylesheet' />
+    <!-- Google Fonts Open sans -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800' rel='stylesheet' />
+    <title>- about - / Crowd4U - クラウドフォーユー: 非営利・公益・学術目的のクラウドソーシング・マイクロボランティアプラットフォーム - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/about' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/about' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/about' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/about' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/about' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/about' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/about' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/about' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/about' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/about' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/about' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/about' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ko/about' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/about' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/about' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/about' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/about' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/about' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/about' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/about' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/about' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/about' hreflang='x-default' rel='alternate' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- START SCROLL TOP BUTTON -->
+    <a class='scrollToTop' href='#'>
+      <i class='fa fa-angle-up'></i>
+    </a>
+    <!-- END SCROLL TOP BUTTON -->
+    <!-- Start Header -->
+    <header id='mu-hero'>
+      <div class='container'>
+        <nav class='navbar navbar-expand-lg navbar-light mu-navbar'>
+          <a class='navbar-brand mu-logo' href='index.html'>
+            <img alt='logo' src='/images/logo_820x180@2x.png' />
+            <span>みんなで繋ぐ、マイクロボランティア</span>
+          </a>
+          <button aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation' class='navbar-toggler' data-target='#navbarSupportedContent' data-toggle='collapse' type='button'>
+            <span class='fa fa-bars'></span>
+          </button>
+          <div class='collapse navbar-collapse' id='navbarSupportedContent'>
+            <ul class='navbar-nav mr-auto mu-navbar-nav'>
+              <li class='nav-item'>
+                <a class='' href='home'>マイページ</a>
+              </li>
+              <li class='nav-item'>
+                <a class='active' href='about'>Crowd4Uについて</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='projects'>プロジェクト</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='contributors'>貢献者リスト</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='developers'>開発者リスト</a>
+              </li>
+              <li class='nav-item'>
+                <a class='mu-btn_s' href='login'>ログイン / 新規登録</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- End Header -->
+    <script src='/js/processing.js' type='text/javascript'></script>
+                                                    <section id='mu-whatis'>
+                                                      <div class='clearfix'></div>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <!-- Display Act Number -->
+                                                            <div id='counter'>
+                                                              <p class='count_num' id='actNumber'></p>
+                                                              <hr />
+                                                              <p class='count_txt'>
+                                                                Crowd4Uでこれまで行われた総タスク数
+                                                              </p>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <h1 style='text-align: center;'>Crowd4Uとはなんでしょうか？ <a style="font-size:14px; vertical-align: text-bottom;" href="/keywords">（クラウドソージング等の用語説明はこちら）</a></h1>
+                                                          </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <img alt='おおきなタスクをちいさくわけてみんなでかいけつ' class='d-block img img-fluid mx-auto rounded' src='/img/crowds_img.ja.png' />
+                                                          </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            Crowd4Uは、非営利のマイクロボランティア・クラウドソーシングプラットフォームです。
+                                                                          公共と学術のために利用されます。マイクロタスクと呼ばれるごく短時間で作業可能な仕事が多数登録されており、それを皆で分担して作業します。Crowd4Uは次の4つの役割があります。
+                                                            <ul class='list-group'>
+                                                              <li class='list-group-item'>ボランティア貢献者の方々にとっては、 <a href="#1" class="scroll">「世の中を良くする誰か」になるための、最も簡単で楽しい方法を提供します。</a></li>
+                                                              <li class='list-group-item'>研究者の方々にとっては、 <a href="#2" class="scroll">クラウドソーシングの科学を発展させるための実験設備を提供します。</a></li>
+                                                              <li class='list-group-item'>世の中を良くするための公共・学術の問題をお持ちの方々にとっては、Crowd4Uは  <a href="#3" class="scroll">次世代のクラウドソーシングプラットフォームを提供します。</a></li>
+                                                              <li class='list-group-item'>全ての方々にとって、Crowd4Uは  <a href="#4" class="scroll">緊急時のクラウドソーシング・インフラを提供します。</a></li>
+                                                            </ul>
+                                                            <a href="#6" class="scroll">Crowd4U開発の貢献者リスト</a>と、<a href="#5" class="scroll">貢献者の方向けFAQ</a>があります。
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-offerforhuman'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='1'>
+                                                              <h2>「世の中を良くする人」になるための最も簡単で楽しい方法を提供します。</h2>
+                                                              <img alt='' class='d-block img-responsive mx-auto rounded' src='/img/s_mainimg20080830_notext.jpg' />
+                                                              <br />
+                                                              <div class='nav'>
+                                                                Crowd4Uには、あなたの助けを必要としている、ワクワクするプロジェクトが登録されています。是非仲間になって、次のような人になって下さい！
+                                                                <ol class='list-inline'>
+                                                                  <li class='list-inline-item'><a href="/projects#p13">災害時の活動を助ける人</a></li>
+                                                                  <li class='list-inline-item'><a href="/projects#p5">人々を健康にする人</a></li>
+                                                                  <li class='list-inline-item'><a href="/projects#p2">書誌検索の精度を向上させる人</a></li>
+                                                                  <li class='list-inline-item'><a href="/projects#p1">レシピ検索をより便利にする人</a></li>
+                                                                </ol>
+                                                                <p>
+                                                                  まずはCrowd4Uでアカウントを作り(ハンドル名OKです)、ログインして下さい。それによって、あなたの活動を我々が正しく認識し、感謝することができます。具体的には次のような事が可能になります。
+                                                                  <br />
+                                                                  (1) <a href="/projects">プロジェクトの貢献者</a>としてお名前が掲載されます。
+                                                                  <br />
+                                                                  (2) 登録されたスキル(例：言語)に応じたタスクを行う事ができます。
+                                                                  <br />
+                                                                  (3) プロジェクトの中間報告や最終報告等をお送りいたします。
+                                                                  <br />
+                                                                </p>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-offerforscience'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='2'>
+                                                              <h2>クラウドソーシングの科学を発展させるための実験設備を提供します。</h2>
+                                                              <div class='nav'>
+                                                                Crowd4Uの内部はブラックボックスではありませんので、研究者はプラットフォームレベルで実装が必要な実験を行うことができます。現在、Crowd4Uを利用して行われている研究トピックの例としては次のようなものがあります。
+                                                                <ul class='list-group'>
+                                                                  <li class='list-group-item'>
+                                                                    クラウドソーシングの抽象化と言語：Crowd4Uは<a href="/cylog">CyLog</a>と呼ばれる、人と計算機の知の融合を記述するために設計されたDatalog風の言語を実行することができます。<a href="/cylog">CyLog</a>は簡潔な言語です。例えば、CrowdHealthプロジェクトのためのコードはたった2行のルールで記述されています(これ以外に、スキーマ記述とHTMLで記載されたタスクテンプレートが必要です)：
+                                                                    <br />
+                                                                    <code id='cylog-example'>HealthRelated(tid, result)/open[_all] &lt;- Tweet(tid, text);
+                                                                    <br />
+                                                                    !Task1(_open_fact_id, tid, text) &lt;- ?HealthRelated(_fact_id:_open_fact_id, tid ), Tweet(tid, text);</code>
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    複雑なクラウドソーシング - 異なる種類のタスクを組み合わせて大きな問題を解決する(例：5つのタスクを組み合わせて竜巻の経路推定を行う。他のタスクの文章を動的に翻訳する別タスクや、他の人のタスク結果を利用する協調タスクを用意する)
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    タスク割り当ての際の効果的なタスク順序の決定
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    ワーカリクルーティングの戦略とインセンティブ構造：Crowd4Uは数多くのワーカリクルーティング戦略とインセンティブ構造を実装しています。その中には、歩きながらタスクができるシステムや、<a href="https://play.google.com/store/apps/details?id=org.crowd4u.lockscreen">Androidスマートフォンのためのスクリーンアンロックシステム</a>も含まれています。また、明治大学中村聡史先生開発による<a href="http://nkmr.io/music_game/">音楽ゲームでマイクロタスクを行うシステム</a>もあります。
+                                                                    <br />
+                                                                    <iframe allowfullscreen='true' frameborder='0' height='320' src='//www.youtube.com/embed/QrOcYxQovHg' width='95%'></iframe>
+                                                                    <a href='https://play.google.com/store/apps/details?id=org.crowd4u.lockscreen'>
+                                                                      <img alt='スマートフォンのためのスクリーンロック・システム' height='320' src='/img/smapho_unlock2_ja.jpg' title='スマートフォンのためのスクリーンロック・システム' />
+                                                                    </a>
+                                                                    <a href='http://nkmr.io/music_game/'>
+                                                                      <img alt='音楽ゲームでマイクロタスクを行うシステム' height='320' src='/img/music_game.png' style='margin-left: 10px; border: 1px #aaa solid;' title='音楽ゲームでマイクロタスクを行うシステム' />
+                                                                    </a>
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    データ品質
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    ワーカ選択
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    迅速な開発の支援
+                                                                  </li>
+                                                                </ul>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-offerforstudy'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='3'>
+                                                              <h2>公共・学術の問題解決のための、次世代クラウドソーシングプラットフォームを提供します。</h2>
+                                                              <div class='nav'>
+                                                                Crowd4Uは公共・学術の問題解決のための非営利のクラウドソーシングプラットフォームです。
+                                                                <br />
+                                                                Crowd4Uで行うクラウドソーシングプロジェクトは、他のクラウドソーシングプラットフォームでは提供していない、先進的な機能を利用可能です。
+                                                                <br />
+                                                                
+                                                                <br />
+                                                                例えば、下記のプロジェクトでは、それぞれ次のような先進機能を利用しています。
+                                                                <br />
+                                                                <dl class='header4'>
+                                                                  <dt>自然災害時の建物の被災状況把握のためのタスク</dt>
+                                                                  <dd>タスクに現れる文章を動的に翻訳するためのタスクを用意</dd><dd>ワーカリクルートのためのスクリーンロック・システム</dd>
+                                                                  <dt>CrowdHealthプロジェクトにおけるツイートアノテーションタスク</dt>
+                                                                  <dd>タスクに現れる文章を動的に翻訳するためのタスクを用意</dd><dd>ワーカリクルートのためのスクリーンロック・システム</dd>
+                                                                  <dt>竜巻経路推定のタスク</dt>
+                                                                  <dd>異なる5種類のタスクを組み合わせて大きな仕事を行う技術</dd>
+                                                                  <dt>Crowd4U翻訳タスク</dt>
+                                                                  <dd>他のボランティアの結果を考慮した協調的マイクロタスクを利用</dd>
+                                                                  <dt>書誌情報クリーニングのためのタスク</dt>
+                                                                  <dd>タスクの順序を制御し、ボランティアが飽きないように調整する。</dd><dd>「自信のあるなし」による品質管理 (九州大学櫻井先生のご指導による)</dd>
+                                                                  <dt>オノマトペプロジェクトのタスク</dt>
+                                                                  <dd>日常空間でのヒューマンコンピュテーションを行うタスクオンザフロアシステム。(歩きながらのマイクロタスク処理を実現)</dd>
+                                                                </dl>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-offerforemergence'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='4'>
+                                                              <h2>緊急時のクラウドソーシング・インフラを提供します。</h2>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                        <div class='row'>
+                                                          <div class='col-md-4'>
+                                                            <img alt='(photo: wipha_oct_13_2013_0125Z.jpg from Wikimedia commons)' class='rounded mx-auto d-block' height='320' src='/img/Wipha_Oct_13_2013_0125Z.jpg' title='(photo: wipha_oct_13_2013_0125Z.jpg from Wikimedia commons)' />
+                                                          </div>
+                                                          <div class='col-md-8'>
+                                                            Crowd4Uチームは、世界のどこかで問題を抱えた人を皆で助けることが可能なように、地球規模のネットワークを順次構築しています。被災建物を発見するプロジェクトはその第一ステップです。皆さんのタスクの結果は、災害時に利用可能な、効率的で効果的なクラウドソーシング戦略を研究するために使われています。このために、次の二つのご協力をお願いします。
+                                                            <ul class='list-group'>
+                                                              <li class='list-group-item'><a href="/manuals/banner">皆さんのWebサイトに、Crowd4Uバナーやスクリプトを設置し</a>、Crowd4Uネットワークを構築することにご協力下さい。設置したスクリプトを通じて行われたボランティアは記録され、我々は設置にご協力いただいたプロジェクトアソシエイトの皆様に、Crowd4Uサイトで謝辞を申し上げます。</li>
+                                                              <li class='list-group-item'>ログインして、翻訳タスクにご協力下さい。その結果、より多くの言語でタスクを行う事ができるようになります。</li>
+                                                            </ul>
+                                                            <br />
+                                                            (photo: wipha_oct_13_2013_0125Z.jpg from Wikimedia commons)
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='history'>
+                                                      <div class='container'>
+                                                        <div class='col'>
+                                                          <div class='row'>
+                                                            <h2>歴史年表</h2>
+                                                          </div>
+                                                          <div class='row'>
+                                                            <table class='table'>
+                                                              <tbody></tbody>
+                                                              <tr>
+                                                                <th>2009年11月</th>
+                                                                <th>初版CyLog処理系(メモリ版)の実装 (Crowd4UのプロトタイプChimera)</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2011年11月</th>
+                                                                <th>Crowd4U公開．第二版CyLog処理系(MySQL-based MycroCyLog)を利用</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2012年02月</th>
+                                                                <th>情報収集タスク実験、結合演算タスク実験等実施</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2012年05月</th>
+                                                                <th>竜巻経路推定プロジェクト発足</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2012年08月</th>
+                                                                <th>L-Crowd(図書館×クラウドソーシング)プロジェクト発足</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2012年09月</th>
+                                                                <th>オノマトペロリタスク開始</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2012年10月</th>
+                                                                <th>大学間ネットワーク構築開始、書誌誤同定判定タスク開始</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2012年11月</th>
+                                                                <th>竜巻経路推定タスク実験開始</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2013年09月</th>
+                                                                <th>Crowd4U専用端末設置(3カ国)</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2013年09月</th>
+                                                                <th>Task-on-the-Floor (ToF)システム設置開始</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2013年12月</th>
+                                                                <th>新型クラウドソーシングエンジンに移行</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2016年02月</th>
+                                                                <th>クラウドソーシングによるDEWS2016のプログラム作成を実施</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2016年02月</th>
+                                                                <th>福島県双葉町ディジタルアーカイブのためのタスクを配布開始</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2016年08月</th>
+                                                                <th>国立国会図書館デジタルコレクションImage Wall 公開</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2017年02月</th>
+                                                                <th>クラウドソーシングによるDEWS2017のプログラム作成を実施</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2017年09月</th>
+                                                                <th>AIワーカがタスクに参加するためのAPIを公開(世界初)</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2017年11月</th>
+                                                                <th>つくば市役所による市民意見収集の仕組みとしてCrowd4Uを利用開始</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2017年12月</th>
+                                                                <th>LODEM(マンガメタデータ)プロジェクトのタスクの配布を開始</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2018年02月</th>
+                                                                <th>クラウドソーシングによるDEWS2018のプログラム作成を実施</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2018年06月</th>
+                                                                <th>クラウドソーシングによるVLDB2018のプログラム作成を実施</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>2018年07月</th>
+                                                                <th>Crowd4Uを利用して燕市のサイバーフィジカル防災訓練を実施</th>
+                                                              </tr>
+                                                            </table>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-contribute'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='6'>
+                                                              <h2>Crowd4U開発の貢献者</h2>
+                                                              <div class='nav'>
+                                                                <h3></h3>
+                                                                <p></p>
+                                                                <h3>Specialist Contributors (設計・運用アドバイザおよびプロジェクトリーダ) (2016年4月5日現在)</h3>
+                                                                <p></p>
+                                                                <br />
+                                                                <div class='namelist'>
+                                                                  <table class='table'>
+                                                                    <tbody>
+                                                                      <tr></tr>
+                                                                      <th>天笠俊之（筑波大学）</th>
+                                                                      <th>Amer-Yahia, Sihem (Laboratoire d'Informatique de Grenoble)</th>
+                                                                      <tr></tr>
+                                                                      <th>荒牧英治（京都大学）</th>
+                                                                      <th>荒瀬由紀（大阪大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>有村博紀（北海道大学）</th>
+                                                                      <th>有次正義（熊本大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>馬場雪乃（国立情報学研究所）</th>
+                                                                      <th>Basu Roy, Senjuti (University of Washington Tacoma)</th>
+                                                                      <tr></tr>
+                                                                      <th>Cudré-Mauroux, Philippe (University of Fribourg)</th>
+                                                                      <th>古瀬一隆（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>原隆浩（大阪大学）</th>
+                                                                      <th>原田隆史（同志社大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>土方嘉徳（大阪大学）</th>
+                                                                      <th>池田光雪（千葉大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>池内淳（筑波大学）</th>
+                                                                      <th>井ノ口宗成（新潟大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>井上創造（九州工業大学）</th>
+                                                                      <th>Ipeirotis, Panos (New York University)</th>
+                                                                      <tr></tr>
+                                                                      <th>石川佳治（名古屋大学）</th>
+                                                                      <th>石田栄美（九州大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>逸村裕（筑波大学）</th>
+                                                                      <th>鹿島久嗣（京都大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>河合由起子（京都産業大学）</th>
+                                                                      <th>川島英之（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>川島隆徳（国立国会図書館/東京工業大学）</th>
+                                                                      <th>北原格（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>清木康（慶應義塾大学）</th>
+                                                                      <th>前田亮（立命館大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>松原繁夫（京都大学）</th>
+                                                                      <th>松村敦（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>宮森恒（京都産業大学）</th>
+                                                                      <th>永森光晴（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>永崎研宣 (人文情報学研究所)</th>
+                                                                      <th>中島伸介（京都産業大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>中村聡史（明治大学）</th>
+                                                                      <th>Neven, Frank (Hasselt University)</th>
+                                                                      <tr></tr>
+                                                                      <th>大向一輝（国立情報学研究所）</th>
+                                                                      <th>大島 裕明（京都大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>小山聡（北海道大学）</th>
+                                                                      <th>阪口哲男（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>坂本真樹（電気通信大学）</th>
+                                                                      <th>櫻井祐子（九州大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>佐藤翔（同志社大学）</th>
+                                                                      <th>白石優旗（筑波技術大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>白川真澄（大阪大学）</th>
+                                                                      <th>杉本重雄（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>角谷和俊（兵庫県立大学）</th>
+                                                                      <th>鈴木伸崇（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>田島敬史（京都大学）</th>
+                                                                      <th>高久雅生（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>玉城将（慶應義塾大学)</th>
+                                                                      <th>谷口祥一（慶応義塾大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>寺田努（神戸大学）</th>
+                                                                      <th>手塚太郎（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>辻慶太（筑波大学）</th>
+                                                                      <th>宇陀則彦（筑波大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>牛尼剛聡（九州大学）</th>
+                                                                      <th>Wuwongse, Vilas (Thammasat University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Zadorozhny, Vladimir (University of Pittsburgh)</th>
+                                                                      <th>張 建偉（筑波技術大学）</th>
+                                                                      <tr></tr>
+                                                                      <th>筑波大学 情報学群 知識情報・図書館学類</th>
+                                                                      <th>筑波大学附属図書館</th>
+                                                                      <tr></tr>
+                                                                    </tbody>
+                                                                  </table>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <h3>開発運用</h3>
+                                                          </div>
+                                                        </div>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div class='namelist'>
+                                                              <table class='table'>
+                                                                <tbody>
+                                                                  <tr></tr>
+                                                                  <th>森嶋厚行</th>
+                                                                  <th>阪口哲男</th>
+                                                                  <tr></tr>
+                                                                  <th>渡辺知恵美</th>
+                                                                  <th>橋本 大空（）</th>
+                                                                  <tr></tr>
+                                                                  <th>林 真史（AIワーカAPI）</th>
+                                                                  <th>岩本英一 (Task on the Floorシステム)</th>
+                                                                  <tr></tr>
+                                                                  <th>小林正樹（Crowd4U基盤）</th>
+                                                                  <th>水澤 健（Crowd4U Webサイト）</th>
+                                                                  <tr></tr>
+                                                                  <th>堀川 聡（）</th>
+                                                                  <th>松田 悠平（）</th>
+                                                                  <tr></tr>
+                                                                  <th>鈴木 裕亮（プラン切り替え）</th>
+                                                                  <th>Wijerathna, Nadeesha（）</th>
+                                                                  <tr></tr>
+                                                                  <th>樽本衣代（開発補佐）</th>
+                                                                </tbody>
+                                                              </table>
+                                                              <br />
+                                                              <p>過去の関係者</p>
+                                                              <div class='namelist_wide'>
+                                                                <table class='table'>
+                                                                  <tbody>
+                                                                    <tr></tr>
+                                                                    <th>熊井克仁 (2016/4-2018/3) Crowd4U基盤</th>
+                                                                    <th>佐々木優 (2016/4-2018/3) Crowd4U基盤</th>
+                                                                    <tr></tr>
+                                                                    <th>鈴木陸也 (2016/4-2018/3) Crowd4U基盤</th>
+                                                                    <th>中村優太 (2016/4-2018/3) Crowd4U基盤</th>
+                                                                    <tr></tr>
+                                                                    <th>米良俊輝 (2016/4-2018/3) Crowd4U基盤/CyLog処理系</th>
+                                                                    <th>大矢優子 (2017/10-2018/3) グラフィックデザイン</th>
+                                                                    <tr></tr>
+                                                                    <th>山森明子 (2016/8-2017/11) グラフィックデザイン</th>
+                                                                    <th>太田千尋 (2015/4-2017/3) Crowd4U基盤/Task on the Floorシステム</th>
+                                                                    <tr></tr>
+                                                                    <th>根本千代之介 (2015/4-2017/3) Crowd4U基盤/CyLog処理系</th>
+                                                                    <th>林亮太 (2015/4-2017/3) Crowd4U基盤/Crowd4U端末</th>
+                                                                    <tr></tr>
+                                                                    <th>岑村春香 (2016/2-2016/6) グラフィックデザイン</th>
+                                                                    <th>櫻井恵美 (2014/4-2016/3) Crowd4U基盤/CyLog設計・処理系</th>
+                                                                    <tr></tr>
+                                                                    <th>平木理恵 (2014/4-2016/3) Crowd4U基盤/Crowd4U端末</th>
+                                                                    <th>川端彬子 (2014/4-2016/3) グラフィックデザイン</th>
+                                                                    <tr></tr>
+                                                                    <th>福角駿 (2012/4-2015/3) Crowd4U基盤/MicroCrapid</th>
+                                                                    <th>権守健嗣 (2013/4-2015/3) Crowd4U基盤/CyLog設計・処理系/Crapid</th>
+                                                                    <tr></tr>
+                                                                    <th>丹治寛佳 (2013/4-2015/3) Crowd4U基盤/Crowd4U端末</th>
+                                                                    <th>品川有輝 (2014/4-2015/3) 開発補佐/Task on the Floorシステム</th>
+                                                                    <tr></tr>
+                                                                    <th>青木秀人(2011/4-2014/3) Crowd4U基盤</th>
+                                                                    <th>樋口知通 (2013/4-2014/3) 開発補佐</th>
+                                                                    <tr></tr>
+                                                                    <th>大串智美（2013/7-2014/2）グラフィックデザイン</th>
+                                                                    <th>三津石智巳（2009/12-2013/3）Crowd4U基盤/Human-powered Joinの効率化</th>
+                                                                    <tr></tr>
+                                                                    <th>品川徳秀（2011/4-2013/3）CyLog設計・処理系</th>
+                                                                    <th>宮田愛（2011/4-2013/3）Crowd4Uロゴデザイン等</th>
+                                                                    <tr></tr>
+                                                                    <th>阿部徹也（2010/11-2012/1）開発補佐</th>
+                                                                    <th>望月祥司（2010/4-2011/3）CyLog処理系</th>
+                                                                    <tr></tr>
+                                                                    <th>安永ゆい（2010/4-2011/3）GWAPの開発</th>
+                                                                    <th>山口佳祐（2010/4-2011/3）予測市場実験</th>
+                                                                    <tr></tr>
+                                                                    <th>安西則晃（2009/4-2010/3）CyLog処理系</th>
+                                                                  </tbody>
+                                                                </table>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-ashiato'>
+                                                      <div class='container'>
+                                                        <div class='col'>
+                                                          <div class='row'>
+                                                            <div id='5'>
+                                                              <h2>よくある質問</h2>
+                                                              <dl class='faq'>
+                                                                <dt>Q: 所属別のマイクロボランティア活動数はどのように計算されていますか？</dt>
+                                                                <dd>A: アカウントをお持ちの方の所属は登録情報から求めます。アカウントをお持ちでない方の所属は、タスクを行ったWebサイトのURIから推測します。</dd>
+                                                                <dt>Q: 入力されたデータはどのように利用されますか？</dt>
+                                                                <dd>A: 入力されたデータは、非営利・公益・学術目的で利用します。その際、入力した人の名前がわからないようにした形で、研究論文や公益サービスなどで公開されることがあります。</dd>
+                                                                <dt>Q: ログインすると、どんな良いことがありますか？</dt>
+                                                                <dd>A: ログインすると、各問題解決の貢献者一覧ページに名前が掲載され、皆さんのご協力によって得られた成果を発表する論文などから、そのページが参照されます。また、今後は下記等を計画しています。是非ログインとTwitterのフォローをお願いします。<ul><li>得られた成果のレポート等をお送りします。</li><li>貢献するタスクの条件をある程度選択できるようにします（難易度、言語など）。</li></ul></dd>
+                                                                <dt>Q: 受講している授業がCrowd4Uに協力しているとの事ですが、協力することと成績に関係はありますか？</dt>
+                                                                <dd>A: いえ、Crowd4Uタスクにご協力いただくか否かと成績の間には関係はありません。</dd>
+                                                                <dt>Q: Crowd4Uは誰が運営していますか？</dt>
+                                                                <dd>A: 現在は、<a href="http://www.kc.tsukuba.ac.jp/~fusioncomp/index-j.html">FusionCOMP研究プロジェクト</a>が運用しています。開発運用に当たり、数多くの<a class="scroll" href="#6">計算機科学・情報学・応用領域研究者</a>にご協力いただいています。クラウドソーシングによる非営利・公益・学術活動を支えると共に、最先端クラウドソーシング技術開発のためのテストベッドとして本分野の発展に貢献することを目的としています。今後、運営主体組織に変更がある場合には、本サイト上およびTwitter等でご連絡します。</dd>
+                                                              </dl>
+                                                            </div>
+                                                            <div id='ashiato'>
+                                                              <h2>マイクロボランティアの足あと</h2>
+                                                              <p class='message'>協力者のみなさん、ありがとうございます。</p>
+                                                              <p class='message'>みなさんの少しずつのご協力が、大きな問題の解決につながっています。</p>
+                                                              <div>
+                                                                <canvas data-processing-sources='/data/map_c4u_js.pde' height='700' id='mapc4ujs' style='image-rendering: -webkit-optimize-contrast !important;' tabindex='0' width='700'></canvas>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+    <!-- Start footer -->
+    <footer id='mu-footer'>
+      <div class='mu-footer-top'>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <img alt='logo' class='mu-footer-logo' src='/images/410x90WH@2x.png' />
+                <p>Crowd4Uは、みんなで繋ぐ、クラウドボランティア/大学ラボ発の新形態ボランティアです。</p>
+                <div class='mu-social-media'>
+                  <a href='https://www.facebook.com/crowd4U/'>
+                    <i class='fa fa-facebook'></i>
+                  </a>
+                  <a class='mu-twitter' href='https://twitter.com/crowd4u_jp'>
+                    <i class='fa fa-twitter'></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>サイトマップ</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='about'>Crowd4Uについて</a>
+                  </li>
+                  <li>
+                    <a href='projects'>プロジェクト</a>
+                  </li>
+                  <li>
+                    <a href='contributors'>貢献者リスト</a>
+                  </li>
+                  <li>
+                    <a href='projects/ranking'>ランキング</a>
+                  </li>
+                  <li>
+                    <a href='#'>プレスリリース</a>
+                  </li>
+                  <li>
+                    <a href='login'>ログイン / 新規登録</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>会員専用ページ</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='home'>マイページ</a>
+                  </li>
+                  <li>
+                    <a href='certificate'>証明書発行</a>
+                  </li>
+                  <li>
+                    <a href='home/set#screen_unlock'>ロックススクリーンアプリ</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3 id='contact'>お問い合わせ</h3>
+                <ul class='list-unstyled'>
+                  <li class='media'>
+                    <div class='media-body'>
+                      <p>よろしければフィードバックやコメントなどをお寄せください。</p>
+                      <p>メール：crowd4u#crowd4u.com (#を@に変えてください) もしくはtwitter（@crowd4u）でお待ちしています。</p>
+                    </div>
+                  </li>
+                </ul>
+                <h3>言語選択</h3>
+                <form>
+                  <p class='je'>
+                    <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+                      <option value=''>-- Language --</option>
+                      <option value='/ar/about'>Arabic</option>
+                      <option value='/bn/about'>Bengali</option>
+                      <option value='/bg/about'>Bulgarian</option>
+                      <option value='/zh/about'>Chinese</option>
+                      <option value='/en/about'>English</option>
+                      <option value='/fi/about'>Finnish</option>
+                      <option value='/fr/about'>French</option>
+                      <option value='/de/about'>German</option>
+                      <option value='/el/about'>Greek</option>
+                      <option value='/hi/about'>Hindi</option>
+                      <option value='/id/about'>Indonesian</option>
+                      <option value='/it/about'>Italian</option>
+                      <option selected='selected' value='/ja/about'>Japanese</option>
+                      <option value='/ko/about'>Korean</option>
+                      <option value='/nl/about'>Nederlands</option>
+                      <option value='/fa/about'>Persian</option>
+                      <option value='/pt/about'>Portuguese</option>
+                      <option value='/ru/about'>Russian</option>
+                      <option value='/es/about'>Spanish</option>
+                      <option value='/th/about'>Thai</option>
+                      <option value='/tr/about'>Trukish</option>
+                      <option value='/vi/about'>Vietnamese</option>
+                    </select>
+                  </p>
+                </form>
+                <p class='lang-annotation'>*現時点で翻訳が無い場合には英語で表示します</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- End footer -->
+    <!-- JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script crossorigin='anonymous' integrity='sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=' src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        window.jQuery || document.write('<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-3.3.1.min.js"><\/script>');
+      //]]>
+    </script>
+    <script crossorigin='anonymous' integrity='sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js'></script>
+    <script crossorigin='anonymous' integrity='sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T' src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js'></script>
+    <!-- Slick slider -->
+    <script src='/js/slick.min.js' type='text/javascript'></script>
+    <!-- Filterable Gallery js -->
+    <script src='/js/jquery.filterizr.min.js' type='text/javascript'></script>
+    <!-- Gallery Lightbox -->
+    <script src='/js/jquery.magnific-popup.min.js' type='text/javascript'></script>
+    <!-- Counter js -->
+    <!-- Ajax contact form -->
+    <script src='/js/app.js' type='text/javascript'></script>
+    <!-- get act number -->
+    <script src='/js/get_act_task_num.js' type='text/javascript'></script>
+    <!-- Custom js -->
+    <script src='/js/custom.js' type='text/javascript'></script>
+    <!-- About us Skills Circle progress -->
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src='//crowd4u.org/script/task_loader.js?requester=-2&amp;length=10' type='text/javascript'></script>
+    <!-- homeで必要なscript -->
+    <script src='/js/processing.js'></script>
+  </body>
+</html>
+<script type='text/javascript'>
+  //<![CDATA[
+    $(function(){
+      // #で始まるアンカーをクリックした場合に処理
+      $('a[href^="#"]').on('click',function() {
+          // スクロールの速度
+          var speed = 400; // ミリ秒
+    　　　 // 移動先を取得
+          var href= $(this).attr("href");
+          var target = $(href == "#" || href == "" ? 'html' : href);
+          // 移動先を数値で取得
+          var position = target.offset().top;
+          // スムーススクロール
+          $('body,html').animate({scrollTop:position}, speed, 'swing');
+          return false;
+      });
+    });
+  //]]>
+</script>

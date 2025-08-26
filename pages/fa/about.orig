@@ -1,0 +1,760 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='ja'>
+  <head>
+    <base href='/fa/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <!-- Required meta tags -->
+    <meta charset='utf-8' />
+    <meta content='width=device-width, initial-scale=1, shrink-to-fit=no' name='viewport' />
+    <title>- about - / Crowd4U: A Nonprofit "Open Crowd" platform for Microvolunteering and Crowdsourcing</title>
+    <!-- Favicon -->
+    <link href='/images/favicon.ico' rel='shortcut icon' type='image/icon' />
+    <!-- Font Awesome -->
+    <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' rel='stylesheet' />
+    <!-- Bootstrap CSS -->
+    <link crossorigin='anonymous' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css' integrity='sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB' rel='stylesheet' />
+    <!-- Slick slider -->
+    <link href='/css/slick.css' rel='stylesheet' />
+    <!-- Gallery Lightbox -->
+    <link href='/css/magnific-popup.css' rel='stylesheet' />
+    <!-- Skills Circle CSS -->
+    <link href='https://unpkg.com/circlebars@1.0.3/dist/circle.css' rel='stylesheet' type='text/css' />
+    <!-- Main Style -->
+    <link href='/css/style.css' rel='stylesheet' />
+    <link href='/css/c4u.css' rel='stylesheet' />
+    <!-- Fonts -->
+    <!-- Google Fonts Raleway -->
+    <link href='https://fonts.googleapis.com/css?family=Raleway:300,400,400i,500,500i,600,700' rel='stylesheet' />
+    <!-- Google Fonts Open sans -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800' rel='stylesheet' />
+    <title>- about - / Crowd4U: A Nonprofit "Open Crowd" platform for Microvolunteering and Crowdsourcing - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/about' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/about' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/about' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/about' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/about' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/about' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/about' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/about' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/about' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/about' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/about' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/about' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/about' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/about' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/about' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/pt/about' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/about' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/about' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/about' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/about' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/about' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/about' hreflang='x-default' rel='alternate' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- START SCROLL TOP BUTTON -->
+    <a class='scrollToTop' href='#'>
+      <i class='fa fa-angle-up'></i>
+    </a>
+    <!-- END SCROLL TOP BUTTON -->
+    <!-- Start Header -->
+    <header id='mu-hero'>
+      <div class='container'>
+        <nav class='navbar navbar-expand-lg navbar-light mu-navbar'>
+          <a class='navbar-brand mu-logo' href='index.html'>
+            <img alt='logo' src='/images/logo_820x180@2x.png' />
+            <span>Your micro-contributions can make a difference</span>
+          </a>
+          <button aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation' class='navbar-toggler' data-target='#navbarSupportedContent' data-toggle='collapse' type='button'>
+            <span class='fa fa-bars'></span>
+          </button>
+          <div class='collapse navbar-collapse' id='navbarSupportedContent'>
+            <ul class='navbar-nav mr-auto mu-navbar-nav'>
+              <li class='nav-item'>
+                <a class='' href='home'>MY PAGE</a>
+              </li>
+              <li class='nav-item'>
+                <a class='active' href='about'>About Crouwd4u</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='projects'>PROJECTS</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='contributors'>Contributers</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='developers'>Developers</a>
+              </li>
+              <li class='nav-item'>
+                <a class='mu-btn_s' href='login'>Login / Register</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- End Header -->
+    <script src='/js/processing.js' type='text/javascript'></script>
+                                                    <section id='mu-whatis'>
+                                                      <div class='clearfix'></div>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <!-- Display Act Number -->
+                                                            <div id='counter'>
+                                                              <p class='count_num' id='actNumber'></p>
+                                                              <hr />
+                                                              <p class='count_txt'>
+                                                                The number of performed tasks on Crowd4U
+                                                              </p>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <h1 style='text-align: center;'>What is Crowd4U?</h1>
+                                                          </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <img alt='The BIG task, if divided into small ones, can be solved by all of us.' class='d-block img img-fluid mx-auto rounded' src='/img/crowds_img.en.png' />
+                                                          </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            Crowd4U is a nonprofit open microvolunteering and crowdsourcing platform for academic and public purposes. It maintains a task pool to store a number of microtasks that can be performed in a short period of time. Each of many contributors performs a small number of tasks. Crowd4U was designed to play the following four roles:
+                                                            <ul class='list-group'>
+                                                              <li class='list-group-item'>For contributors, Crowd4U is <a href="#1" class="scroll">the easiest and fun way to be someone who makes the world better</a></li>
+                                                              <li class='list-group-item'>For researchers, Crowd4U is  <a href="#2" class="scroll">a facility for advancing the science of crowdsourcing</a></li>
+                                                              <li class='list-group-item'>For people who have problems, Crowd4U is  <a href="#3" class="scroll">a next generation platform for crowdsourcing projects for public and academic purposes</a></li>
+                                                              <li class='list-group-item'>For everyone, Crowd4U is  <a href="#4" class="scroll">an infrastructure for tasks in urgency in the world</a></li>
+                                                            </ul>
+                                                            This page has <a href="#6" class="scroll">a current list of people who contribute to the development of Crowd4U</a> and <a href="#5" class="scroll">FAQ for contributors</a>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-offerforhuman'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='1'>
+                                                              <h2>The Easiest and Fun Way to be Someone who Makes the World a Better place</h2>
+                                                              <img alt='' class='d-block img-responsive mx-auto rounded' src='/img/s_mainimg20080830_notext.jpg' />
+                                                              <br />
+                                                              <div class='nav'>
+                                                                We have wonderful projects that require your help.Let's join us and be:
+                                                                <ol class='list-inline'>
+                                                                  <li class='list-inline-item'><a href="/projects#p13">a person who helps rescue in disasters</a></li>
+                                                                  <li class='list-inline-item'><a href="/projects#p5">a person who keeps people healthy</a></li>
+                                                                  <li class='list-inline-item'><a href="/projects#p2">a person who improves the search of bibliographic records</a></li>
+                                                                  <li class='list-inline-item'><a href="/projects?lang=ja#p1">a person who makes recepe search more useful</a></li>
+                                                                </ol>
+                                                                <p>
+                                                                  Please login to Crowd4U (handles are allowed) so that we can correctly acknowledge your contributions.Then,(1) your names will be acknowledged as <a href="/projects">contributors to the projects</a>,(2) you can perform tasks that require special skills (e.g., languages),and (3) we will send you intermediate reports and the final results of the projects.
+                                                                  <br />
+                                                                </p>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-offerforscience'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='2'>
+                                                              <h2>A Facility for Advancing the Science of Crowdsourcing</h2>
+                                                              <div class='nav'>
+                                                                Since Crowd4U is not a blackbox, researchers can conduct experiments that require implementation at the platform level. The research topics that are currently addressed on Crowd4U include:
+                                                                <ul class='list-group'>
+                                                                  <li class='list-group-item'>
+                                                                    Abstraction and Languages for Crowdsourcing: Crowd4U can run codes written in <a href="/cylog">CyLog</a>, a Datalog-like language designed for describing cybernetic intelligence. <a href="/cylog">CyLog</a> allows concise descriptions. For example, the code for the tweet annotation project has only two rules (we also have schema definition and task template in HTML template):
+                                                                    <br />
+                                                                    <code id='cylog-example'>HealthRelated(tid, result)/open[_all] &lt;- Tweet(tid, text);
+                                                                    <br />
+                                                                    !Task1(_open_fact_id, tid, text) &lt;- ?HealthRelated(_fact_id:_open_fact_id, tid ), Tweet(tid, text);</code>
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    Complex Crowdsourcing that Combines Diffirent Kinds of Tasks to Achieve a Big Goal (e.g., dynamic translation of sentences in other set of tasks, and cooperative tasks that use the results of other tasks).
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    Effective Ordering of Tasks in the Task Assignment Process
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    Worker Recruitment Strategies and Incentive Structures: Crowd4U adopts many  worker recruitment strategies and incentive structures, including the task-on-the-floor system and <a href="https://play.google.com/store/apps/details?id=org.crowd4u.lockscreen">the lock screen application for android smartphones.</a>
+                                                                    <br />
+                                                                    <iframe allowfullscreen='true' frameborder='0' height='320' src='//www.youtube.com/embed/QrOcYxQovHg' width='95%'></iframe>
+                                                                    <a href='https://play.google.com/store/apps/details?id=org.crowd4u.lockscreen'>
+                                                                      <img alt='lock screen application for android smartphone' height='320' src='/img/smapho_unlock2_en.jpg' title='lock screen application for android smartphone' />
+                                                                    </a>
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    Data Quality
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    Worker Selection
+                                                                  </li>
+                                                                  <li class='list-group-item'>
+                                                                    Rapid Development
+                                                                  </li>
+                                                                </ul>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-offerforstudy'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='3'>
+                                                              <h2>A Next Generation Platform for Crowdsourcing Projects for Public and Academic Purposes</h2>
+                                                              <div class='nav'>
+                                                                Crowd4U is a nonprofit open platform for crowdsourcing projects for public and academic purposes. The projects running on Crowd4U can use the implemented advanced functions that the other existing platforms do not provide. For example, the following projects are using some advanced functions.
+                                                                <br />
+                                                                <dl class='header4'>
+                                                                  <dt>Tasks for Identifying Damage of Buildings in Natural Disasters</dt>
+                                                                  <dd>Dynamic translation tasks to translate sentences in other sets of tasks.</dd><dd>The lock screen application for worker recruitment.</dd>
+                                                                  <dt>Tasks for Annotating Tweets</dt>
+                                                                  <dd>Dynamic translation tasks to translate sentences in other sets of tasks.</dd><dd>The lock screen application for worker recruitment.</dd>
+                                                                  <dt>Tasks for Identifying Paths of Tornados</dt>
+                                                                  <dd>Five different tasks with complex data flow combined to achieve a big goal</dd>
+                                                                  <dt>Crowd4U trasnlation</dt>
+                                                                  <dd>Cooperative tasks that use the results given by other contributors.</dd>
+                                                                  <dt>Tasks for Cleaning Bibliographic Records</dt>
+                                                                  <dd>Ordering in the task assignment for preventing similar tasks from appearing continuously.</dd><dd>Improving data quality using the confidence questions.</dd>
+                                                                  <dt>Tasks for Onomatopoeia Project</dt>
+                                                                  <dd>The task-on-the-floor system to obtain contributors in living spaces.</dd>
+                                                                </dl>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-offerforemergence'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='4'>
+                                                              <h2>An Infrastructure for Tasks in Urgency in the World</h2>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                        <div class='row'>
+                                                          <div class='col-md-4'>
+                                                            <img alt='(photo: wipha_oct_13_2013_0125Z.jpg from Wikimedia commons)' class='rounded mx-auto d-block' height='320' src='/img/Wipha_Oct_13_2013_0125Z.jpg' title='(photo: wipha_oct_13_2013_0125Z.jpg from Wikimedia commons)' />
+                                                          </div>
+                                                          <div class='col-md-8'>
+                                                            Crowd4U team is constructing an earth-scale network so that we can use it to help people anywhere in the world. The project for identifying damage builidings is the first step: the tasks are used to develop efficient and effective crowdsourcing strategies to be used in real-world disasters. You can help us in two ways:
+                                                            <ul class='list-group'>
+                                                              <li class='list-group-item'>Please help us construct such a network by <a href="/manuals/banner">placing banners and scripts in your web sites</a>.You will be acknowledged as a project associate for a project if you connect your script to the tasks of the project.</li>
+                                                              <li class='list-group-item'>Please perform translation tasks so that people who speak different languages can perform tasks.</li>
+                                                            </ul>
+                                                            <br />
+                                                            (photo: wipha_oct_13_2013_0125Z.jpg from Wikimedia commons)
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='history'>
+                                                      <div class='container'>
+                                                        <div class='col'>
+                                                          <div class='row'>
+                                                            <h2>History (to be updated)</h2>
+                                                          </div>
+                                                          <div class='row'>
+                                                            <table class='table'>
+                                                              <tbody></tbody>
+                                                              <tr>
+                                                                <th>Nov. 2009:</th>
+                                                                <th> The first CyLog processor (Memory-based CyLog) was implemented in Chimera, a prototype of Crowd4U.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Nov. 2011:</th>
+                                                                <th> Crowd4U was published with the second CyLog processor (MySQL-based MicroCyLog).</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Oct. 2012:</th>
+                                                                <th> Started distributing tasks from the L-Crowd (Library Crowdsourcing) Project.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Nov. 2012:</th>
+                                                                <th> Started distributing tasks for Identifying a tornado path with photos.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Sep. 2013:</th>
+                                                                <th> The first Task-on-the-Floor (ToF) system was deployed to four universities.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Dec. 2013:</th>
+                                                                <th> The third CyLog processor (CyLog 2013) was installed to Crowd4U.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Feb. 2016:</th>
+                                                                <th> Made a first draft of the session program of DEWS 2016 with microtasks to help PC chairs.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Feb. 2016:</th>
+                                                                <th> Started distributing tasks for the digital archive of Futaba-town that suffered serious damage in Japan's 2011 earthquake.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Aug. 2016:</th>
+                                                                <th> National Diet Library Digital Collection Image Wall Service was published with the task results.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Feb. 2017:</th>
+                                                                <th> Made a first draft of the session program of DEWS 2017 with microtasks to help PC chairs.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Sep. 2017:</th>
+                                                                <th> The world's first API for AI workers to perform registered tasks was released.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Nov. 2017:</th>
+                                                                <th> Tsukuba-city started collecting citizen opinions with Crowd4U.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Dec. 2017:</th>
+                                                                <th> Started distributing tasks from the LODEM(Linked Open Data for Enhancing Manga) project.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Feb. 2018:</th>
+                                                                <th> Made a first draft of the session program of DEWS 2018 with microtasks to help PC chairs.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Jun. 2018:</th>
+                                                                <th> Made a first draft of the session program of VLDB 2018 with microtasks to help PC chairs.</th>
+                                                              </tr>
+                                                              <tr>
+                                                                <th>Jul. 2018:</th>
+                                                                <th> Tsubame-city conducted a cyber-physical natural disaster drill with citizens, drones, and Crowd4U.</th>
+                                                              </tr>
+                                                            </table>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-contribute'>
+                                                      <div class='container'>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div id='6'>
+                                                              <h2>People who contribute to the development of Crowd4U</h2>
+                                                              <div class='nav'>
+                                                                <h3>International Board</h3>
+                                                                <p>We would like to have an international advisory board in the near future. Discussion needed.</p>
+                                                                <h3>Specialist Contributors (Design and Operation Advisors and Project Leaders)(As of September 29, 2015)</h3>
+                                                                <p>Crowd4U is an all-academic and open platform. We are looking for specialist contributors who will have an influence on the design and operation of Crowd4U. We believe that diversity is important and welcome specialists in different fields and countries.</p>
+                                                                <br />
+                                                                <div class='namelist'>
+                                                                  <table class='table'>
+                                                                    <tbody>
+                                                                      <tr></tr>
+                                                                      <th>Amagasa, Toshiyuki (University of Tsukuba)</th>
+                                                                      <th>Amer-Yahia, Sihem (Laboratoire d'Informatique de Grenoble)</th>
+                                                                      <tr></tr>
+                                                                      <th>Aramaki, Eiji (Kyoto University)</th>
+                                                                      <th>Arase, Yuki (Osaka University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Arimura, Hiroki (Hokkaido University)</th>
+                                                                      <th>Aritsugi, Masayoshi (Kumamoto University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Baba, Yukino (NII)</th>
+                                                                      <th>Basu Roy, Senjuti (University of Washington Tacoma)</th>
+                                                                      <tr></tr>
+                                                                      <th>Cudré-Mauroux, Philippe (University of Fribourg)</th>
+                                                                      <th>Furuse, Kazutaka (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Hara, Takahiro (Osaka University)</th>
+                                                                      <th>Harada, Takashi (Doshisha University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Hijikata, Yoshinori (Osaka University)</th>
+                                                                      <th>Ikeda, Kosetsu (Chiba University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Ikeuchi, Atsushi (University of Tsukuba)</th>
+                                                                      <th>Inoguchi, Munenari (Niigata University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Inoue, Souzou (Kyushu Institute of Technology)</th>
+                                                                      <th>Ipeirotis, Panos (New York University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Ishikawa, Yoshiharu (Nagoya University)</th>
+                                                                      <th>Ishita, Emi (Kyushu University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Itsumura, Hiroshi (University of Tsukuba)</th>
+                                                                      <th>Kashima, Hisashi (Kyoto University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Kawai, Yukiko (Kyoto Sangyo University)</th>
+                                                                      <th>Kawashima, Hideyuki (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Kawashima, Takanori (National Diet Library)</th>
+                                                                      <th>Kitahara, Itaru (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Kiyoki, Yasushi (Keio University)</th>
+                                                                      <th>Maeda, Akira (Ritsumeikan University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Matsubara, Shigeo (Kyoto University)</th>
+                                                                      <th>Matsumura, Atsushi (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Miyamori, Hisashi (Kyoto Sangyo University)</th>
+                                                                      <th>Nagamori, Mitsuharu (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Nagasaki, Kiyonori (International Institute for Digital Humanities)</th>
+                                                                      <th>Nakajima, Shinsuke (Kyoto Sangyo University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Nakamura, Satoshi (Meiji University)</th>
+                                                                      <th>Neven, Frank (Hasselt University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Ohmukai, Ikki (NII)</th>
+                                                                      <th>Ohshima, Hiroaki (Kyoto University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Oyama, Satoshi (Hokkaido University)</th>
+                                                                      <th>Sakaguchi, Tetsuo (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Sakamoto, Maki (University of Electro-Communications)</th>
+                                                                      <th>Sakurai, Yuko (Kyushu University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Sato, Sho (Doshisha Univerisity)</th>
+                                                                      <th>Shiraishi, Yuuki (Tsukuba University of Technology)</th>
+                                                                      <tr></tr>
+                                                                      <th>Shirakawa, Masumi (Osaka University)</th>
+                                                                      <th>Sugimoto, Shigeo (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Sumiya, Kazutoshi (University of Hyogo)</th>
+                                                                      <th>Suzuki, Nobutaka (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Tajima, Keishi (Kyoto University)</th>
+                                                                      <th>Takaku, Masao (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Tamaki, Sho (Keio University)</th>
+                                                                      <th>Taniguchi, Shoichi (Keio University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Terada, Tsutomu (Kobe University)</th>
+                                                                      <th>Tezuka, Taro (University of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Tsuji, Keita (University of Tsukuba)</th>
+                                                                      <th>Uda, Norihiko (Unviersity of Tsukuba)</th>
+                                                                      <tr></tr>
+                                                                      <th>Ushiama, Taketoshi (Kyushu University)</th>
+                                                                      <th>Wuwongse, Vilas (Thammasat University)</th>
+                                                                      <tr></tr>
+                                                                      <th>Zadorozhny, Vladimir (University of Pittsburgh)</th>
+                                                                      <th>Zhang, Jianwei (Tsukuba University of Technology)</th>
+                                                                      <tr></tr>
+                                                                      <th>Collge of Knowldege and Library Sciences, School of Informatics, University of Tsukuba</th>
+                                                                      <th>University of Tsukuba Library</th>
+                                                                      <tr></tr>
+                                                                    </tbody>
+                                                                  </table>
+                                                                </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <h3>Development and Operations</h3>
+                                                          </div>
+                                                        </div>
+                                                        <div class='row'>
+                                                          <div class='col'>
+                                                            <div class='namelist'>
+                                                              <table class='table'>
+                                                                <tbody>
+                                                                  <tr></tr>
+                                                                  <th>Morishima, Atsuyuki</th>
+                                                                  <th>Sakaguchi, Tetsuo</th>
+                                                                  <tr></tr>
+                                                                  <th>Watanabe, Chiemi</th>
+                                                                  <th>Hashimoto, Hirotaka ()</th>
+                                                                  <tr></tr>
+                                                                  <th>Hayashi, Masafumi (AI Worker API)</th>
+                                                                  <th>Iwamoto, Eiichi (Task on the Floor System)</th>
+                                                                  <tr></tr>
+                                                                  <th>Kobayashi, Masaki (Crowd4U Engine)</th>
+                                                                  <th>Mizusawa, Ken (Crowd4U Web site)</th>
+                                                                  <tr></tr>
+                                                                  <th>Horikawa, Satoshi ()</th>
+                                                                  <th>Matsuda, Yuhei (Crowd4U Engine)</th>
+                                                                  <tr></tr>
+                                                                  <th>Suzuki, Yusuke (Crowd4U Engine)</th>
+                                                                  <th>Wijerathna, Nadeesha ()</th>
+                                                                  <tr></tr>
+                                                                  <th>Tarumoto, Kinuyo (Development Assistant)</th>
+                                                                </tbody>
+                                                              </table>
+                                                              <br />
+                                                              <p>Past Members</p>
+                                                              <div class='namelist_wide'>
+                                                                <table class='table'>
+                                                                  <tbody>
+                                                                    <tr></tr>
+                                                                    <th>Kumai, Katsumi (2016/4-2018/3) Crowd4U Engine</th>
+                                                                    <th>Sasaki, Yuu (2016/4-2018/3) Crowd4U Engine</th>
+                                                                    <tr></tr>
+                                                                    <th>Suzuki, Rikuya (2016/4-2018/3) Crowd4U Engine</th>
+                                                                    <th>Nakamura, Yuta (2016/4-2018/3) Crowd4U Engine</th>
+                                                                    <tr></tr>
+                                                                    <th>Mera, Toshiki (2016/4-2018/3) Crowd4U Engine/Development of CyLog Processor</th>
+                                                                    <th>Yuko, Oya (2017/10-2018/3) Graphic Design</th>
+                                                                    <tr></tr>
+                                                                    <th>Yamamori, Meiko (2016/8-2017/11) Graphic Design</th>
+                                                                    <th>Ota, Chihiro (2015/4-2017/3) Crowd4U Engine/Task on the Floor System</th>
+                                                                    <tr></tr>
+                                                                    <th>Nemoto, Chiyonosuke (2015/4-2017/3) Crowd4U Engine/Development of CyLog Processor</th>
+                                                                    <th>Hayashi, Ryota (2015/4-2017/3) Crowd4U Engine/Crowd4U Terminal</th>
+                                                                    <tr></tr>
+                                                                    <th>Minemura, Haruka (2016/2-2016/6) Graphic Design</th>
+                                                                    <th>Sakurai, Emi (2014/4-2016/3) Crowd4U Engine/Design of CyLog and its processor</th>
+                                                                    <tr></tr>
+                                                                    <th>Hiraki, Rie (2014/4-2016/3) Crowd4U Engine/Crowd4U Terminal</th>
+                                                                    <th>Kawabata, Akiko (2014/4-2016/3) Graphic Design</th>
+                                                                    <tr></tr>
+                                                                    <th>Fukusumi, Shun (2012/4-2015/3) Crowd4U Engine/MicroCrapid</th>
+                                                                    <th>Gonnokami, Kenji (2013/4-2015/3) Crowd4U Engine/Design of CyLog and its processor/Crapid</th>
+                                                                    <tr></tr>
+                                                                    <th>Tanji, Hiroyoshi (2013/4-2015/3) Crowd4U Engine/Crowd4U Terminal</th>
+                                                                    <th>Shinagawa, Yuuki (2014/4-2015/3) Development Assistant/Task on the Floor System</th>
+                                                                    <tr></tr>
+                                                                    <th>Aoki, Hideto (2011/4-2014/3) Crowd4U Engine</th>
+                                                                    <th>Higuchi, Tomomichi (2013/4-2014/3) Development Assistant</th>
+                                                                    <tr></tr>
+                                                                    <th>Ogushi, Tomomi (2013/7-2014/2) Graphic Design</th>
+                                                                    <th>Mitsuishi, Tomomi (2009/12-2013/3) Crowd4U Engine</th>
+                                                                    <tr></tr>
+                                                                    <th>Shinagawa, Norihide (2011/4-2013/3) Design of CyLog and its processor</th>
+                                                                    <th>Miyata, Ai (2011/4-2013/3) Logotype of Crowd4U</th>
+                                                                    <tr></tr>
+                                                                    <th>Abe, Tetsuya (2010/11-2012/1) Development Support</th>
+                                                                    <th>Mochizuki, Shoji (2010/4-2011/3) Development of CyLog Processor</th>
+                                                                    <tr></tr>
+                                                                    <th>Yasunaga, Yui (2010/4-2011/3) Development of GWAPs</th>
+                                                                    <th>Yamaguchi, Keisuke (2010/4-2011/3) Experiments on a Prediction Market for Information Credibienty</th>
+                                                                    <tr></tr>
+                                                                    <th>Anzai, Noriaki (2009/4-2010/3) Development of CyLog Processor</th>
+                                                                  </tbody>
+                                                                </table>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+                                                    <br />
+                                                    <section id='mu-ashiato'>
+                                                      <div class='container'>
+                                                        <div class='col'>
+                                                          <div class='row'>
+                                                            <div id='5'>
+                                                              <h2>FAQ for contributors</h2>
+                                                              <dl class='faq'>
+                                                                <dt>Q: How does Crowd4U count the number of performed tasks per each affiliation?</dt>
+                                                                <dd>A: If the contributor has a Crowd4U account, we use her affiliation information. If not, we infer her affiliation using URI of the Web page that provided the task.</dd>
+                                                                <dt>Q: How will the entered data be used?</dt>
+                                                                <dd>A: We use the entered data for nonprofit open, public, and academic purposes. The data may be published in research papers and public services after we remove information that might identify contributors.</dd>
+                                                                <dt>Q: What are the advantages of logging in?</dt>
+                                                                <dd>A: If you log in to Crowd4U, your name will appear in the list of contributors. Publications that utilize the results of microtasks refer to the page. In addition, we plan to do the following: We will send you reports on the project you contributed to. You will be able to specify conditions to choose tasks (e.g., languages, difficuly).</dd>
+                                                                <dt>Q: Crowd4U scripts are embedded in the Web site of a cource of my university. Is there any relationship between performing tasks and grades?</dt>
+                                                                <dd>A: No, performing microtasks does not affect your grade.</dd>
+                                                                <dt>Q: Who operates Crowd4U?</dt>
+                                                                <dd>A: At present, <a href="http://www.kc.tsukuba.ac.jp/~fusioncomp/index.html">the FusionCOMP project</a> operates Crowd4U. The development and operation of Crowd4U are supported by <a class="scroll" href="#6">many researchers in computer science, informatics, and application domains</a>. Crowd4U also serves as a testbed for developping advanced crowdsourcing technologies. If we change the operator, we will inform you through this site or by Twitter.</dd>
+                                                              </dl>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </section>
+    <!-- Start footer -->
+    <footer id='mu-footer'>
+      <div class='mu-footer-top'>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <img alt='logo' class='mu-footer-logo' src='/images/410x90WH@2x.png' />
+                <p>A non-profit microvolunteering and crowdsourcing platform for academic and public purposes.</p>
+                <div class='mu-social-media'>
+                  <a href='https://www.facebook.com/crowd4U/'>
+                    <i class='fa fa-facebook'></i>
+                  </a>
+                  <a class='mu-twitter' href='https://twitter.com/crowd4u_jp'>
+                    <i class='fa fa-twitter'></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>SITE MAP</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='about'>About Us</a>
+                  </li>
+                  <li>
+                    <a href='projects'>Projects</a>
+                  </li>
+                  <li>
+                    <a href='contributors'>Contributers</a>
+                  </li>
+                  <li>
+                    <a href='projects/ranking'>Ranking</a>
+                  </li>
+                  <li>
+                    <a href='#'>Press release</a>
+                  </li>
+                  <li>
+                    <a href='login'>Login / Signup</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>For Menbers Only</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='home'>My Page</a>
+                  </li>
+                  <li>
+                    <a href='certificate'>Obtain a Certificate</a>
+                  </li>
+                  <li>
+                    <a href='home/set#screen_unlock'>Set tasks to the lock screen app</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3 id='contact'>Contact Us</h3>
+                <ul class='list-unstyled'>
+                  <li class='media'>
+                    <div class='media-body'>
+                      <p>We need your feedback, bug reports, and any comments.</p>
+                      <p>Contact us using crowd4u#crowd4u.com (replace # with @) or @crowd4u.</p>
+                    </div>
+                  </li>
+                </ul>
+                <h3>Language</h3>
+                <form>
+                  <p class='je'>
+                    <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+                      <option value=''>-- Language --</option>
+                      <option value='/ar/about'>Arabic</option>
+                      <option value='/bn/about'>Bengali</option>
+                      <option value='/bg/about'>Bulgarian</option>
+                      <option value='/zh/about'>Chinese</option>
+                      <option value='/en/about'>English</option>
+                      <option value='/fi/about'>Finnish</option>
+                      <option value='/fr/about'>French</option>
+                      <option value='/de/about'>German</option>
+                      <option value='/el/about'>Greek</option>
+                      <option value='/hi/about'>Hindi</option>
+                      <option value='/id/about'>Indonesian</option>
+                      <option value='/it/about'>Italian</option>
+                      <option value='/ja/about'>Japanese</option>
+                      <option value='/ko/about'>Korean</option>
+                      <option value='/nl/about'>Nederlands</option>
+                      <option selected='selected' value='/fa/about'>Persian</option>
+                      <option value='/pt/about'>Portuguese</option>
+                      <option value='/ru/about'>Russian</option>
+                      <option value='/es/about'>Spanish</option>
+                      <option value='/th/about'>Thai</option>
+                      <option value='/tr/about'>Trukish</option>
+                      <option value='/vi/about'>Vietnamese</option>
+                    </select>
+                  </p>
+                </form>
+                <p class='lang-annotation'>* If there is no translation at the moment, it will be displayed in English</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- End footer -->
+    <!-- JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script crossorigin='anonymous' integrity='sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=' src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        window.jQuery || document.write('<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-3.3.1.min.js"><\/script>');
+      //]]>
+    </script>
+    <script crossorigin='anonymous' integrity='sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js'></script>
+    <script crossorigin='anonymous' integrity='sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T' src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js'></script>
+    <!-- Slick slider -->
+    <script src='/js/slick.min.js' type='text/javascript'></script>
+    <!-- Filterable Gallery js -->
+    <script src='/js/jquery.filterizr.min.js' type='text/javascript'></script>
+    <!-- Gallery Lightbox -->
+    <script src='/js/jquery.magnific-popup.min.js' type='text/javascript'></script>
+    <!-- Counter js -->
+    <!-- Ajax contact form -->
+    <script src='/js/app.js' type='text/javascript'></script>
+    <!-- get act number -->
+    <script src='/js/get_act_task_num.js' type='text/javascript'></script>
+    <!-- Custom js -->
+    <script src='/js/custom.js' type='text/javascript'></script>
+    <!-- About us Skills Circle progress -->
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src='//crowd4u.org/script/task_loader.js?requester=-2&amp;length=10' type='text/javascript'></script>
+    <!-- homeで必要なscript -->
+    <script src='/js/processing.js'></script>
+  </body>
+</html>
+<script type='text/javascript'>
+  //<![CDATA[
+    $(function(){
+      // #で始まるアンカーをクリックした場合に処理
+      $('a[href^="#"]').on('click',function() {
+          // スクロールの速度
+          var speed = 400; // ミリ秒
+    　　　 // 移動先を取得
+          var href= $(this).attr("href");
+          var target = $(href == "#" || href == "" ? 'html' : href);
+          // 移動先を数値で取得
+          var position = target.offset().top;
+          // スムーススクロール
+          $('body,html').animate({scrollTop:position}, speed, 'swing');
+          return false;
+      });
+    });
+  //]]>
+</script>

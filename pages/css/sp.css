@@ -1,0 +1,148 @@
+ashiSp p{
+  background: #a4c9c9;
+ width: 306px;
+  margin: 0 auto;
+  height: 80px;
+  line-height: 80px;
+  color: #fff;
+  font-weight: bold;
+  display: none;
+}
+
+@media screen and (max-width: 900px){
+    body{
+	width: 100%;
+    }
+    #wrapper{
+	width: 100% !important;
+	padding: 15px;
+	box-sizing: border-box;
+    }
+    #header_cont{
+	width: 100%;
+    }
+    #lang_bar{
+	width: 100%;
+	margin: 2em auto;
+    }
+    #lang_bar_comment{
+	width: 100%;
+	margin: 2em 0;
+    }
+    #index_img{
+	width: 100% !important;
+    }
+    #index_img .box{
+	float: none;
+	margin: 0 auto;
+	width: 100%;
+    }
+    #index_img .box img{
+	width: 100%;
+	height: auto;
+    }
+    #topcontrol{
+	display: none;
+    }
+    #counter{
+	width: 100%;
+    }
+    #counter hr{
+	width: 98%;
+	margin: 30px auto;
+    }
+    #perform nav li{
+	display: block;
+	margin: auto;
+    }
+    .ashi{
+	display: none;
+    }
+    .ashiSp p{
+	display: block;
+    }
+    #op_menu:after{
+	content: "▽";
+    }
+    #op_menu.active:after{
+	content: "△";
+    }
+    .menu_items{
+	display: none;
+    }
+    #projects{
+	width: 100%;
+    }
+
+    #about img{
+	width: 100%;
+	margin: 0;
+    }
+    .right{
+	width: 100%;
+    }
+    .namelist{
+	width: 100%;
+    }
+    .faq dd{
+	width: 100%;
+	margin: 10px 0;
+    }
+    .hundred{
+	width: 100%;
+    }
+    .user_sidebar{
+	width: 100%;
+	box-sizing: border-box;
+	margin-bottom: 3em;
+    }
+    .follow_message{
+	padding: 0 !important;
+	margin: 0 !important;
+    }
+    .user_main{
+	width: 100%;
+    }
+    .taskinfo ul li .voln_name{
+	width: 100%;
+	padding: 10px 0;
+    }
+    .taskinfo ul li .info{
+	text-align: left;
+    }
+    img.max_width{
+	width: 100%;
+    }
+    .nav{
+	overflow: hidden;
+    }
+    .proj{
+	width: 100%;
+    }
+    .proj_img{
+	margin: 0;
+    }
+    .proj_member, .proj_img img, .underline, .sub_member{
+	width: 100%;
+    }
+    .contributors_map img{
+	width: 100% !important;
+	height: auto !important;
+    }
+    .contributors_map + p{
+	margin-left: auto !important;
+    }
+    .table_list table{
+	font-size: 0.5em;
+    }
+}
+@media screen and (max-width: 600px){
+    #idx_nav{
+	width: 100%;
+    }
+}
+@media screen and (max-width: 432px){
+    .box img{
+	width: 100%;
+    }
+}

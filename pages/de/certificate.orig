@@ -1,0 +1,493 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='ja'>
+  <head>
+    <base href='/de/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <!-- Required meta tags -->
+    <meta charset='utf-8' />
+    <meta content='width=device-width, initial-scale=1, shrink-to-fit=no' name='viewport' />
+    <title>Obtain a Certificate</title>
+    <!-- Favicon -->
+    <link href='/images/favicon.ico' rel='shortcut icon' type='image/icon' />
+    <!-- Font Awesome -->
+    <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' rel='stylesheet' />
+    <!-- Bootstrap CSS -->
+    <link crossorigin='anonymous' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css' integrity='sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB' rel='stylesheet' />
+    <!-- Slick slider -->
+    <link href='/css/slick.css' rel='stylesheet' />
+    <!-- Gallery Lightbox -->
+    <link href='/css/magnific-popup.css' rel='stylesheet' />
+    <!-- Skills Circle CSS -->
+    <link href='https://unpkg.com/circlebars@1.0.3/dist/circle.css' rel='stylesheet' type='text/css' />
+    <!-- Main Style -->
+    <link href='/css/style.css' rel='stylesheet' />
+    <link href='/css/c4u.css' rel='stylesheet' />
+    <!-- Fonts -->
+    <!-- Google Fonts Raleway -->
+    <link href='https://fonts.googleapis.com/css?family=Raleway:300,400,400i,500,500i,600,700' rel='stylesheet' />
+    <!-- Google Fonts Open sans -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800' rel='stylesheet' />
+    <title>Obtain a Certificate - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/certificate' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/certificate' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/certificate' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/certificate' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/certificate' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/certificate' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/certificate' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/el/certificate' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/certificate' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/certificate' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/certificate' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/certificate' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/certificate' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/certificate' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/certificate' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/certificate' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/certificate' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/certificate' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/certificate' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/certificate' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/certificate' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/certificate' hreflang='x-default' rel='alternate' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- START SCROLL TOP BUTTON -->
+    <a class='scrollToTop' href='#'>
+      <i class='fa fa-angle-up'></i>
+    </a>
+    <!-- END SCROLL TOP BUTTON -->
+    <!-- Start Header -->
+    <header id='mu-hero'>
+      <div class='container'>
+        <nav class='navbar navbar-expand-lg navbar-light mu-navbar'>
+          <a class='navbar-brand mu-logo' href='index.html'>
+            <img alt='logo' src='/images/logo_820x180@2x.png' />
+            <span>Your micro-contributions can make a difference</span>
+          </a>
+          <button aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation' class='navbar-toggler' data-target='#navbarSupportedContent' data-toggle='collapse' type='button'>
+            <span class='fa fa-bars'></span>
+          </button>
+          <div class='collapse navbar-collapse' id='navbarSupportedContent'>
+            <ul class='navbar-nav mr-auto mu-navbar-nav'>
+              <li class='nav-item'>
+                <a class='' href='home'>MY PAGE</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='about'>About Crouwd4u</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='projects'>PROJECTS</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='contributors'>Contributers</a>
+              </li>
+              <li class='nav-item'>
+                <a class='' href='developers'>Developers</a>
+              </li>
+              <li class='nav-item'>
+                <a class='mu-btn_s' href='login'>Login / Register</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- End Header -->
+    <script src='/js/get_timezone.js'></script>
+                                                    <div class='clearfix'></div>
+                                                    <div class='container'>
+                                                      <div class='row'>
+                                                        <div class='col-md-10 offset-md-1'>
+                                                          <h1 class='pt-5'>Obtain a Certificate</h1>
+                                                        </div>
+                                                      </div>
+                                                      <div class='row'>
+                                                        <div class='col-md-10 offset-md-1'>
+                                                          <p></p>
+                                                          <p>Note 1: The name that appears in your certificate is "". If you want to change it, click <a href="/users/-1/edit">here</a> to update your name.</p>
+                                                          <p>Note 2: Currently we assume that you spent 10 seconds to complete each task.</p>
+                                                          <p>Note 3: To save the shown certificate, please  use the "download" function of your Web browser.</p>
+                                                          <p>Note 4: The certificate is generated for the tasks you performed while  logging-in.</p>
+                                                          <br />
+                                                          <form action='/certificate/print' method='post' name='cert_form'>
+                                                            <h3>1. Choose Project:</h3>
+                                                            <select name='primary_tasks_group_id' style='margin-left: 20px;'>
+                                                              <option selected='true' style='text-align: center;' value='-1'>-----   select project   -----</option>
+                                                              <option value='2'>lcrowd</option>
+                                                              <option value='29'>Fukushima-Futaba Archive of Japan's 2011 Disasters Project</option>
+                                                              <option value='52'>Hondigi</option>
+                                                              <option value='73'>handwriting</option>
+                                                              <option value='133'>Future of Library Catalogue Project</option>
+                                                              <option value='140'>The LODEM project</option>
+                                                              <option value='145'>DEIM2018_Bidding</option>
+                                                              <option value='187'>KANSEI project</option>
+                                                              <option value='193'>TOKYO2020</option>
+                                                              <option style='text-align: center;' value='-1'>--------------------------------------</option>
+                                                              <option value='0'>all projects</option>
+                                                            </select>
+                                                            <br />
+                                                            <h3 style='float:left; margin-top: 10px;'>2. Specify the Period:</h3>
+                                                            <div style='clear:both;'></div>
+                                                            <span style='margin-left:20px;'>From: Year</span>
+                                                            <select name='start_year'>
+                                                              <option selected='selected' value='2012'>2012</option>
+                                                              <option value='2013'>2013</option>
+                                                              <option value='2014'>2014</option>
+                                                              <option value='2015'>2015</option>
+                                                              <option value='2016'>2016</option>
+                                                              <option value='2017'>2017</option>
+                                                              <option value='2018'>2018</option>
+                                                              <option value='2019'>2019</option>
+                                                              <option value='2020'>2020</option>
+                                                            </select>
+                                                            <span style='margin-left:10px;'>Month</span>
+                                                            <select name='start_month'>
+                                                              <option value='1'>1</option>
+                                                              <option value='2'>2</option>
+                                                              <option value='3'>3</option>
+                                                              <option value='4'>4</option>
+                                                              <option value='5'>5</option>
+                                                              <option value='6'>6</option>
+                                                              <option value='7'>7</option>
+                                                              <option value='8'>8</option>
+                                                              <option value='9'>9</option>
+                                                              <option selected='selected' value='10'>10</option>
+                                                              <option value='11'>11</option>
+                                                              <option value='12'>12</option>
+                                                            </select>
+                                                            <span style='margin-left:10px;'>Day</span>
+                                                            <select name='start_day'>
+                                                              <option value='1'>1</option>
+                                                              <option value='2'>2</option>
+                                                              <option value='3'>3</option>
+                                                              <option value='4'>4</option>
+                                                              <option value='5'>5</option>
+                                                              <option value='6'>6</option>
+                                                              <option value='7'>7</option>
+                                                              <option value='8'>8</option>
+                                                              <option value='9'>9</option>
+                                                              <option value='10'>10</option>
+                                                              <option value='11'>11</option>
+                                                              <option value='12'>12</option>
+                                                              <option value='13'>13</option>
+                                                              <option value='14'>14</option>
+                                                              <option value='15'>15</option>
+                                                              <option value='16'>16</option>
+                                                              <option value='17'>17</option>
+                                                              <option selected='selected' value='18'>18</option>
+                                                              <option value='19'>19</option>
+                                                              <option value='20'>20</option>
+                                                              <option value='21'>21</option>
+                                                              <option value='22'>22</option>
+                                                              <option value='23'>23</option>
+                                                              <option value='24'>24</option>
+                                                              <option value='25'>25</option>
+                                                              <option value='26'>26</option>
+                                                              <option value='27'>27</option>
+                                                              <option value='28'>28</option>
+                                                              <option value='29'>29</option>
+                                                              <option value='30'>30</option>
+                                                              <option value='31'>31</option>
+                                                            </select>
+                                                            <br />
+                                                            <span style='margin-left:20px;'>To:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Year</span>
+                                                            <select name='end_year'>
+                                                              <option value='2012'>2012</option>
+                                                              <option value='2013'>2013</option>
+                                                              <option value='2014'>2014</option>
+                                                              <option value='2015'>2015</option>
+                                                              <option value='2016'>2016</option>
+                                                              <option value='2017'>2017</option>
+                                                              <option value='2018'>2018</option>
+                                                              <option value='2019'>2019</option>
+                                                              <option value='2020'>2020</option>
+                                                            </select>
+                                                            <span style='margin-left:10px;'>Month</span>
+                                                            <select name='end_month'>
+                                                              <option value='1'>1</option>
+                                                              <option value='2'>2</option>
+                                                              <option value='3'>3</option>
+                                                              <option value='4'>4</option>
+                                                              <option value='5'>5</option>
+                                                              <option value='6'>6</option>
+                                                              <option value='7'>7</option>
+                                                              <option selected='selected' value='8'>8</option>
+                                                              <option value='9'>9</option>
+                                                              <option value='10'>10</option>
+                                                              <option value='11'>11</option>
+                                                              <option value='12'>12</option>
+                                                            </select>
+                                                            <span style='margin-left:10px;'>Day</span>
+                                                            <select name='end_day'>
+                                                              <option value='1'>1</option>
+                                                              <option value='2'>2</option>
+                                                              <option value='3'>3</option>
+                                                              <option value='4'>4</option>
+                                                              <option value='5'>5</option>
+                                                              <option value='6'>6</option>
+                                                              <option value='7'>7</option>
+                                                              <option value='8'>8</option>
+                                                              <option value='9'>9</option>
+                                                              <option value='10'>10</option>
+                                                              <option value='11'>11</option>
+                                                              <option value='12'>12</option>
+                                                              <option value='13'>13</option>
+                                                              <option value='14'>14</option>
+                                                              <option value='15'>15</option>
+                                                              <option value='16'>16</option>
+                                                              <option value='17'>17</option>
+                                                              <option value='18'>18</option>
+                                                              <option value='19'>19</option>
+                                                              <option value='20'>20</option>
+                                                              <option value='21'>21</option>
+                                                              <option value='22'>22</option>
+                                                              <option value='23'>23</option>
+                                                              <option value='24'>24</option>
+                                                              <option value='25'>25</option>
+                                                              <option selected='selected' value='26'>26</option>
+                                                              <option value='27'>27</option>
+                                                              <option value='28'>28</option>
+                                                              <option value='29'>29</option>
+                                                              <option value='30'>30</option>
+                                                              <option value='31'>31</option>
+                                                            </select>
+                                                            <br />
+                                                            <span style='margin-left:20px;'>UTC Time Zone <a href="https://en.wikipedia.org/wiki/Time_zone#List_of_UTC_offsets">( What is this? )</a> :</span>
+                                                            <p style='margin-left:20px;'></p>
+                                                            <select name='offset_hour' style='width: 800px; margin-left:30px;'>
+                                                              <option style='text-align: left;' value=''>Time-offset | Example locations</option>
+                                                              <option value='-12.0'>UTC−12:00 | Baker Island, Howland Island (both uninhabited)</option>
+                                                              <option value='-11.0'>UTC−11:00 | American Samoa, Niue</option>
+                                                              <option value='-10.0'>UTC−10:00 | United States (Hawaii)</option>
+                                                              <option value='-9.5'>UTC−09:30 | Marquesas Islands</option>
+                                                              <option value='-9.0'>UTC−09:00 | Gambier Islands</option>
+                                                              <option value='-8.0'>UTC−08:00</option>
+                                                              <option value='-7.0'>UTC−07:00 | Canada (northeastern British Columbia),Mexico (Sonora), United States (Arizona)</option>
+                                                              <option value='-6.0'>UTC−06:00 | Canada (almost all of Saskatchewan), Costa Rica, El Salvador, Ecuador (Galápagos Islands), Guatemala, Honduras, Mexico (most),Nicaragua,</option>
+                                                              <option value='-5.0'>UTC−05:00 | Brazil (Acre), Colombia, Cuba, Ecuador(continental), Jamaica, Panama, Peru</option>
+                                                              <option value='-4.5'>UTC−04:30 | Venezuela</option>
+                                                              <option value='-4.0'>UTC−04:00 | Bolivia, Brazil (Amazonas, Rondônia, Roraima),Dominican Republic, Puerto Rico, Barbados,Trinidad and Tobago</option>
+                                                              <option value='-3.5'>UTC−03:30</option>
+                                                              <option value='-3.0'>UTC−03:00 | Argentina, Brazil (Bahia, Ceará, Maranhão,Pará, Pernambuco), Chile (continental),[9]Paraguay</option>
+                                                              <option value='-2.0'>UTC−02:00 | Brazil (Fernando de Noronha), South Georgia and the South Sandwich Islands</option>
+                                                              <option value='-1.0'>UTC−01:00 | Cape Verde</option>
+                                                              <option value='0.0'>UTC±00:00 | Ivory Coast, Ghana, Iceland, Senegal, Saint Helena, Mali</option>
+                                                              <option value='1.0'>UTC+01:00 | Algeria, Angola, Benin, Cameroon, Gabon,Niger, Nigeria, Democratic Republic of the Congo (west), Tunisia</option>
+                                                              <option value='2.0'>UTC+02:00 | Burundi, Egypt, Jordan, Malawi, Mozambique,Russia (Kaliningrad Oblast), Rwanda, South Africa, Swaziland, Zambia, Zimbabwe</option>
+                                                              <option value='3.0'>UTC+03:00 | Belarus, Djibouti, Eritrea, Ethiopia, Iraq, Kenya,Madagascar, Russia (European), Saudi Arabia,Somalia, South Sudan, Sudan, Tanzania,Uganda, Yemen</option>
+                                                              <option value='3.5'>UTC+03:30</option>
+                                                              <option value='4.0'>UTC+04:00 | Armenia, Georgia, Mauritius, Oman,Seychelles, United Arab Emirates</option>
+                                                              <option value='4.5'>UTC+04:30 | Afghanistan</option>
+                                                              <option value='5.0'>UTC+05:00 | Kazakhstan (west), Maldives, Pakistan,Uzbekistan</option>
+                                                              <option value='5.5'>UTC+05:30 | India, Sri Lanka</option>
+                                                              <option value='5.75'>UTC+05:45 | Nepal</option>
+                                                              <option value='6.0'>UTC+06:00 | Kazakhstan (most), Bangladesh, Bhutan,Russia (Ural: Sverdlovsk Oblast, Chelyabinsk Oblast)</option>
+                                                              <option value='6.5'>UTC+06:30 | Cocos Islands, Myanmar</option>
+                                                              <option value='7.0'>UTC+07:00 | Western Indonesia, Russia (Novosibirsk Oblast), Thailand, Vietnam, Cambodia, Laos</option>
+                                                              <option value='8.0'>UTC+08:00 | Hong Kong, Central Indonesia, China, Russia (Krasnoyarsk Krai), Malaysia, Philippines,Singapore, Taiwan, Australia (Western Australia), (Eucla) official, Macau, Brunei</option>
+                                                              <option value='8.5'>UTC+08:30 | North Korea[10]</option>
+                                                              <option value='8.75'>UTC+08:45 | Australia (Eucla) unofficial</option>
+                                                              <option value='9.0'>UTC+09:00 | Eastern Indonesia, East Timor, Russia (Irkutsk Oblast), Japan, South Korea</option>
+                                                              <option value='9.5'>UTC+09:30 | Australia (Northern Territory)</option>
+                                                              <option value='10.0'>UTC+10:00 | Russia (Zabaykalsky Krai), Papua New Guinea,Australia (Queensland)</option>
+                                                              <option value='10.5'>UTC+10:30</option>
+                                                              <option value='11.0'>UTC+11:00 | New Caledonia, Russia (Primorsky Krai),Solomon Islands, Vanuatu</option>
+                                                              <option value='11.5'>UTC+11:30 | Norfolk Island</option>
+                                                              <option value='12.0'>UTC+12:00 | Kiribati (Gilbert Islands), Fiji, Russia (Kamchatka Krai)</option>
+                                                              <option value='12.75'>UTC+12:45</option>
+                                                              <option value='13.0'>UTC+13:00 | Kiribati (Phoenix Islands), Tonga, Tokelau</option>
+                                                              <option value='14.0'>UTC+14:00 | Kiribati (Line Islands)</option>
+                                                            </select>
+                                                            <br />
+                                                            <h3 style='float:left; margin-top: 10px;'>3. Obtain a Certificate</h3>
+                                                            <div style='clear:both;'></div>
+                                                            <input class='btn btn-primary' name='certificateOpen' onClick='location.href(&#39;/certificate/print&#39;,&#39;&#39;,&#39;scrollbars=yes,width=1000,height=707,&#39;);' style='font-size: 14px; margin-top:0px; margin-left:20px;' type='submit' value='Obtain a Certificate' />
+                                                          </form>
+                                                          <hr />
+                                                        </div>
+                                                      </div>
+                                                    </div>
+    <!-- Start footer -->
+    <footer id='mu-footer'>
+      <div class='mu-footer-top'>
+        <div class='container'>
+          <div class='row'>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <img alt='logo' class='mu-footer-logo' src='/images/410x90WH@2x.png' />
+                <p>A non-profit microvolunteering and crowdsourcing platform for academic and public purposes.</p>
+                <div class='mu-social-media'>
+                  <a href='https://www.facebook.com/crowd4U/'>
+                    <i class='fa fa-facebook'></i>
+                  </a>
+                  <a class='mu-twitter' href='https://twitter.com/crowd4u_jp'>
+                    <i class='fa fa-twitter'></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>SITE MAP</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='about'>About Us</a>
+                  </li>
+                  <li>
+                    <a href='projects'>Projects</a>
+                  </li>
+                  <li>
+                    <a href='contributors'>Contributers</a>
+                  </li>
+                  <li>
+                    <a href='projects/ranking'>Ranking</a>
+                  </li>
+                  <li>
+                    <a href='#'>Press release</a>
+                  </li>
+                  <li>
+                    <a href='login'>Login / Signup</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3>For Menbers Only</h3>
+                <ul class='mu-useful-links'>
+                  <li>
+                    <a href='home'>My Page</a>
+                  </li>
+                  <li>
+                    <a href='certificate'>Obtain a Certificate</a>
+                  </li>
+                  <li>
+                    <a href='home/set#screen_unlock'>Set tasks to the lock screen app</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class='col-md-3'>
+              <div class='mu-single-footer'>
+                <h3 id='contact'>Contact Us</h3>
+                <ul class='list-unstyled'>
+                  <li class='media'>
+                    <div class='media-body'>
+                      <p>We need your feedback, bug reports, and any comments.</p>
+                      <p>Contact us using crowd4u#crowd4u.com (replace # with @) or @crowd4u.</p>
+                    </div>
+                  </li>
+                </ul>
+                <h3>Language</h3>
+                <form>
+                  <p class='je'>
+                    <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+                      <option value=''>-- Language --</option>
+                      <option value='/ar/certificate'>Arabic</option>
+                      <option value='/bn/certificate'>Bengali</option>
+                      <option value='/bg/certificate'>Bulgarian</option>
+                      <option value='/zh/certificate'>Chinese</option>
+                      <option value='/en/certificate'>English</option>
+                      <option value='/fi/certificate'>Finnish</option>
+                      <option value='/fr/certificate'>French</option>
+                      <option selected='selected' value='/de/certificate'>German</option>
+                      <option value='/el/certificate'>Greek</option>
+                      <option value='/hi/certificate'>Hindi</option>
+                      <option value='/id/certificate'>Indonesian</option>
+                      <option value='/it/certificate'>Italian</option>
+                      <option value='/ja/certificate'>Japanese</option>
+                      <option value='/ko/certificate'>Korean</option>
+                      <option value='/nl/certificate'>Nederlands</option>
+                      <option value='/fa/certificate'>Persian</option>
+                      <option value='/pt/certificate'>Portuguese</option>
+                      <option value='/ru/certificate'>Russian</option>
+                      <option value='/es/certificate'>Spanish</option>
+                      <option value='/th/certificate'>Thai</option>
+                      <option value='/tr/certificate'>Trukish</option>
+                      <option value='/vi/certificate'>Vietnamese</option>
+                    </select>
+                  </p>
+                </form>
+                <p class='lang-annotation'>* If there is no translation at the moment, it will be displayed in English</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- End footer -->
+    <!-- JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script crossorigin='anonymous' integrity='sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=' src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        window.jQuery || document.write('<script src="<?php echo get_template_directory_uri(); ?>/js/jquery-3.3.1.min.js"><\/script>');
+      //]]>
+    </script>
+    <script crossorigin='anonymous' integrity='sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js'></script>
+    <script crossorigin='anonymous' integrity='sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T' src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js'></script>
+    <!-- Slick slider -->
+    <script src='/js/slick.min.js' type='text/javascript'></script>
+    <!-- Filterable Gallery js -->
+    <script src='/js/jquery.filterizr.min.js' type='text/javascript'></script>
+    <!-- Gallery Lightbox -->
+    <script src='/js/jquery.magnific-popup.min.js' type='text/javascript'></script>
+    <!-- Counter js -->
+    <!-- Ajax contact form -->
+    <script src='/js/app.js' type='text/javascript'></script>
+    <!-- get act number -->
+    <script src='/js/get_act_task_num.js' type='text/javascript'></script>
+    <!-- Custom js -->
+    <script src='/js/custom.js' type='text/javascript'></script>
+    <!-- About us Skills Circle progress -->
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src='//crowd4u.org/script/task_loader.js?requester=-2&amp;length=10' type='text/javascript'></script>
+    <!-- homeで必要なscript -->
+    <script src='/js/processing.js'></script>
+  </body>
+</html>
+<script type='text/javascript'>
+  //<![CDATA[
+    $(function(){
+      // #で始まるアンカーをクリックした場合に処理
+      $('a[href^="#"]').on('click',function() {
+          // スクロールの速度
+          var speed = 400; // ミリ秒
+    　　　 // 移動先を取得
+          var href= $(this).attr("href");
+          var target = $(href == "#" || href == "" ? 'html' : href);
+          // 移動先を数値で取得
+          var position = target.offset().top;
+          // スムーススクロール
+          $('body,html').animate({scrollTop:position}, speed, 'swing');
+          return false;
+      });
+    });
+  //]]>
+</script>

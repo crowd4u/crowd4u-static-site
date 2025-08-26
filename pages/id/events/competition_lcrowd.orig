@@ -1,0 +1,310 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='id'>
+  <head>
+    <base href='//crowd4u.org/id/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <title>Crowd4U</title>
+    <link href='https://crowd4u.org/ar/events/competition_lcrowd' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/events/competition_lcrowd' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/events/competition_lcrowd' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/events/competition_lcrowd' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/events/competition_lcrowd' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/events/competition_lcrowd' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/events/competition_lcrowd' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/events/competition_lcrowd' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/events/competition_lcrowd' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/events/competition_lcrowd' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/it/events/competition_lcrowd' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/events/competition_lcrowd' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/events/competition_lcrowd' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/events/competition_lcrowd' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/events/competition_lcrowd' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/events/competition_lcrowd' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/events/competition_lcrowd' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/events/competition_lcrowd' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/events/competition_lcrowd' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/events/competition_lcrowd' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/events/competition_lcrowd' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/events/competition_lcrowd' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <script src='/js/jquery.js'></script>
+    <script src='/js/bootstrap-modal.js'></script>
+    <script src='/js/scrollsmooth.js'></script>
+    <script src='/js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='logo' href=''>
+          <img alt='Crowd4U' height='40' src='/img/c4u_logo.png' />
+        </a>
+        <nav id='idx_nav'>
+          <ul>
+            <li>
+              <a class='' href='about'>
+                <img alt='About' src='/img/icon3w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='projects'>
+                <img alt='Projects' src='/img/icon7w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='contributors'>
+                <img alt='Contributors' src='/img/icon1w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='login'>
+                <img alt='Login / Sign up' src='/img/icon5w.png' />
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <a class='logo' href='https://play.google.com/store/apps/details?id=org.crowd4u.lockscreen' target='_blank'>
+          <img alt='Google Play' height='40' src='/img/google_play1.png' style='margin-left: 15px; margin-top: -5px;' />
+          <br />
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/events/competition_lcrowd'>Arabic</option>
+            <option value='/bn/events/competition_lcrowd'>Bengali</option>
+            <option value='/bg/events/competition_lcrowd'>Bulgarian</option>
+            <option value='/zh/events/competition_lcrowd'>Chinese</option>
+            <option value='/en/events/competition_lcrowd'>English</option>
+            <option value='/fi/events/competition_lcrowd'>Finnish</option>
+            <option value='/fr/events/competition_lcrowd'>French</option>
+            <option value='/de/events/competition_lcrowd'>German</option>
+            <option value='/el/events/competition_lcrowd'>Greek</option>
+            <option value='/hi/events/competition_lcrowd'>Hindi</option>
+            <option selected='selected' value='/id/events/competition_lcrowd'>Indonesian</option>
+            <option value='/it/events/competition_lcrowd'>Italian</option>
+            <option value='/ja/events/competition_lcrowd'>Japanese</option>
+            <option value='/ko/events/competition_lcrowd'>Korean</option>
+            <option value='/nl/events/competition_lcrowd'>Nederlands</option>
+            <option value='/fa/events/competition_lcrowd'>Persian</option>
+            <option value='/pt/events/competition_lcrowd'>Portuguese</option>
+            <option value='/ru/events/competition_lcrowd'>Russian</option>
+            <option value='/es/events/competition_lcrowd'>Spanish</option>
+            <option value='/th/events/competition_lcrowd'>Thai</option>
+            <option value='/tr/events/competition_lcrowd'>Trukish</option>
+            <option value='/vi/events/competition_lcrowd'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        *
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <script src='https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js'></script>
+                                                          <style type='text/css'>
+                                                            /*<![CDATA[*/
+                                                              li.L0, li.L1, li.L2, li.L3,
+                                                              li.L5, li.L6, li.L7, li.L8 {
+                                                                list-style-type: decimal !important;
+                                                              }
+                                                            /*]]>*/
+                                                          </style>
+                                                          <h1>図書館クラウドソーシングプロジェクトL-CrowdにおけるAIワーカの公募について</h1>
+                                                          <!-- <h1>図書館クラウドソーシングプロジェクトL-CrowdにおけるAIワーカの公募と，AIワーカコンペティションについて</h1> -->
+                                                          <h2>概要</h2>
+                                                          <p>
+                                                            <a href='/projects/lcrowd#unicat'>図書館クラウドソーシングプロジェクトL-Crowd</a>
+                                                            では，京都府総合目録の作成支援タスクを行っていただく
+                                                            <a href='/events/ai_open_call'>AIワーカ</a>
+                                                            のボランティアを募集いたします．
+                                                            <!-- また，よりよいAIワーカを作成するためのコンペティションを開催いたします． -->
+                                                            ここでは，その参加方法について説明いたします．
+                                                            なお近日中に，よりよいAIワーカ作成のためのコンペティションを開催いたします．詳細は後日アナウンスいたします．
+                                                          </p>
+                                                          <h2>目次</h2>
+                                                          <ol style='padding-left:20px'>
+                                                            <li>京都府総合目録プロジェクトにおけるワーカの作業内容</li>
+                                                            <li>AIワーカの一般的な参加手順</li>
+                                                            <li>京都府総合目録プロジェクト固有の内容(本プロジェクトのAIワーカの作成をされる方はここまでご覧ください)</li>
+                                                            <!-- <li>コンペティションの開催について (コンペに参加される方はここまでご覧ください)</li> -->
+                                                          </ol>
+                                                          <h2>1.京都府域総合目録プロジェクトにおけるワーカの作業内容</h2>
+                                                          <p>二つの書誌(図書に関する情報)を比較し，これらが同じ本か違う本かを判断します</p>
+                                                          <p></p>
+                                                          <p>次のボタンを押すと，実際のタスクを試す事ができます</p>
+                                                          <!-- ここにボタンをおいてください -->
+                                                          <p>
+                                                            <a class='microtask button buttonBlue sizeL group134 repeat-prefetch' href='javascript:void(0);'>タスクを行う</a>
+                                                          </p>
+                                                          <script src='/script/task_loader.js?requester=-2' type='text/javascript'></script>
+                                                          <h2>2. AIワーカの一般的な参加手順</h2>
+                                                          <p>本プロジェクトでは，上記の作業をボランティアで行っていただけるAIワーカを公募いたします．AIワーカが行う作業は，上記1.で人間が行う作業と同じです．</p>
+                                                          <p>次の手順で行ってください</p>
+                                                          <ol style='padding-left:20px'>
+                                                            <li>
+                                                              Crowd4Uにアカウントを作成してください．AIワーカとして申請する場合には，名前（ハンドルネーム可）の入力をお願い致します．
+                                                            </li>
+                                                            <li>
+                                                              アカウントを作成する際に，「AIワーカとして登録を申請する」と書いているチェックボックスをチェックしてください．このときにはチェックせず，後で申請することも可能です．申請が承認されるとメールが届きます．承認メールが届くまでに1週間ほどかかる場合があります．
+                                                            </li>
+                                                            <li><a href='/events/ai_worker_api'>ワーカのAPIガイド</a>をご覧ください．PythonライブラリのAPIラッパー関数を利用してAIワーカを構築します．ただし，後述するように，京都府総合目録プロジェクト専用のAIワーカを作成するためのテンプレートを用意しましたので，そちらを利用すると簡単にAIワーカを作成できます．
+                                                            </li>
+                                                            <li>
+                                                              AIワーカを公募しているプロジェクト一覧と，AIワーカとクラウドソーシングプロジェクトが通信を開始するためのAPIを呼び出すときに必要なパラメータなどの情報は，AIワーカの登録完了メールと共にお送りします．
+                                                              <!-- <li> Pythonライブラリのサンプルコードを用意しているので，それを利用すると簡単にAIワーカを作成できます． -->
+                                                            </li>
+                                                            <li>
+                                                              APIを利用してAIワーカがタスクをリクエストするとタスクの情報を受け取ることができますが，全てのタスクを行なう必要はありません．自信があるタスクだけを行ない，自信がないタスクは行なう必要はありません．その場合は，タスクをスキップしてください(やり方は次に示します)
+                                                            </li>
+                                                          </ol>
+                                                          <h2>3. 京都府総合目録プロジェクトにおけるタスク固有の内容</h2>
+                                                          <ol style='padding-left:20px'>
+                                                            <li>
+                                                              本プロジェクトのAIワーカを実装する際には，タスクの取得数を最大3000にしてください(回答せずにスキップしたタスクの数も含みます)．
+                                                            </li>
+                                                            <li>
+                                                              本プロジェクトに関しては，(3a)直接APIやPython APIラッパーを利用してAIワーカを作成する
+                                                              方法，に加えて，(3b)それを行なわず，簡単に本プロジェクトのAIワーカを利用するためのPythonコードテンプレートを用意しました．
+                                                              後者のほうが簡単です．それぞれの説明を下記で行ないます．
+                                                            </li>
+                                                          </ol>
+                                                          <h3>3a. PythonのAPIラッパーを利用して，一から作る場合</h3>
+                                                          <br />
+                                                          AIワーカには次の作業をさせてください．
+                                                          <ol style='padding-left:20px'>
+                                                            <li>
+                                                              まず，このプロジェクトとAIワーカが通信を開始するためのAPI(もしくは関数)を呼び出してください．そのプロジェクトとやりとりするオブジェクト(c4uprojectクラス)が返ります．
+                                                            </li>
+                                                            <li>
+                                                              次に，そのオブジェクトにタスクをリクエストするメソッドを呼びだしてください．タスクを表すオブジェクト(c4utaskクラス)が返ります．タスクがない場合にはnilが返ります．
+                                                            </li>
+                                                            <li>
+                                                              c4uprojectクラスのオブジェクトの結果を返すメソッド(postanswerメソッド)を呼んでください．その際，次の3つのいずれかで回答してください．
+                                                              <ul>
+                                                                <li>
+                                                                  二つの書誌が同じ場合にはis_sameを"TRUE"にし，is_skippedパラメータを"FALSE"にして送信ください．
+                                                                </li>
+                                                                <li>
+                                                                  二つの書誌が違う場合には，is_sameを"FALSE"にし，is_skippedパラメータを"FALSE"にして送信してください．
+                                                                </li>
+                                                                <li>
+                                                                  タスク結果に自信がないなどの場合は，タスクをスキップしてください．具体的には，is_skippedパラメータを"TRUE"にして送信してください (このとき，is_sameはnilにしてください
+                                                                </li>
+                                                              </ul>
+                                                            </li>
+                                                            <li>
+                                                              APIやPython APIラッパーライブラリの詳細は，<a href='/events/ai_worker_api'>ワーカのAPIガイド</a>をご覧ください．
+                                                            </li>
+                                                          </ol>
+                                                          <h3>3b. 京都府総合目録プロジェクトのAIワーカテンプレートを利用する場合</h3>
+                                                          <br />
+                                                          京都府総合目録プロジェクトのAIワーカには，専用のテンプレートを用意しました．
+                                                          具体的には，WorkerBaseインターフェースをオーバーライドすることで簡単に実装することができます．
+                                                          オーバーライドするメソッドはtrainメソッド，outputメソッドの２つです．
+                                                          <h3>シンプルなAIワーカの開発</h3>
+                                                          <p>
+                                                            ここでは，シンプルなAIワーカの開発例を紹介します．
+                                                            シンプルなAIワーカは，受け取った2つの書誌情報の本のタイトルが同じなら，同じ書誌とみなし，
+                                                            そうでないなら違う書誌とみなします．
+                                                            以下がシンプルなAIワーカの実装になります．
+                                                          </p>
+                                                          <pre class='prettyprint linenums' style='margin-left:20px'><code># -*- coding: utf-8 -*-&#x000A;from workers.worker_base import WorkerBase&#x000A;&#x000A;class AlgorithmWorker(WorkerBase):&#x000A;&#x000A;    def train(self, book1, book2, result):&#x000A;        pass&#x000A;&#x000A;    def output(self, book1, book2):&#x000A;        answer = False&#x000A;        if book1["title"] == book2["title"]:&#x000A;            answer = True&#x000A;        return answer</code></pre>
+                                                          <h3>trainメソッド</h3>
+                                                          <ul>
+                                                            <li>
+                                                              目的：trainメソッドに渡される書誌情報から学習モデルを作成します．※シンプルなAIワーカでは利用してません
+                                                            </li>
+                                                            <li>
+                                                              引数：書誌情報オブジェクト1, 書誌情報オブジェクト2, 結果情報オブジェクト
+                                                            </li>
+                                                            <li>
+                                                              返り値：なし
+                                                            </li>
+                                                          </ul>
+                                                          <p>
+                                                            書誌情報オブジェクトは辞書型で，以下の形で渡されます．
+                                                          </p>
+                                                          <pre class='prettyprint linenums' style='margin-left:20px'><code>{&#x000A;  "bib_id": "",&#x000A;  "title": "",&#x000A;  "volume": "",&#x000A;  "responsibility": "",&#x000A;  "publisher_name": "",&#x000A;  "issued": "",&#x000A;  "isbn": "",&#x000A;  "origin_name": "",&#x000A;  "origin_id": "",&#x000A;  "origin_url": "",&#x000A;}</code></pre>
+                                                          <p>
+                                                            結果情報は実際にクラウドソーシングに参加したワーカが答えた解答データです．
+                                                            結果情報オブジェクトは辞書型です．is_same, is_skipped　それぞれBool値が入ります．
+                                                          </p>
+                                                          <ul>
+                                                            <li>
+                                                              is_same: Trueなら2つの書誌は同じとユーザが答えたことを意味します
+                                                            </li>
+                                                            <li>
+                                                              is_skipped: Trueならユーザは書誌が同じかどうかわからなかったということを意味します
+                                                            </li>
+                                                            <li>
+                                                              なお，is_same，is_skippedの両方がNoneであるとき，2つの書誌は異なることを意味します．
+                                                            </li>
+                                                          </ul>
+                                                          <br />
+                                                          <p>
+                                                            例えば以下のような値が入っています．以下の場合は2つの書誌が同じである，とユーザが解答したことを意味します．
+                                                          </p>
+                                                          <pre class='prettyprint linenums' style='margin-left:20px'><code>{&#x000A;  "is_same": True,&#x000A;  "is_skipped": None&#x000A;}</code></pre>
+                                                          <h3>outputメソッド</h3>
+                                                          <ul>
+                                                            <li>
+                                                              目的：渡される2つの書誌情報が，同じものか否かBoolで解答します
+                                                            </li>
+                                                            <li>
+                                                              引数：書誌情報オブジェクト1, 書誌情報オブジェクト2
+                                                            </li>
+                                                            <li>
+                                                              返り値：Bool
+                                                            </li>
+                                                          </ul>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

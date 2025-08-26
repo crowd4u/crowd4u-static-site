@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /view/
+
+Sitemap:https://crowd4u.org/sitemap.xml

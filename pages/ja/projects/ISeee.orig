@@ -1,0 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='ja'>
+  <head>
+    <base href='//crowd4u.org/ja/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta content='ISeee Project: オープンな，誰もが誰かの助けになる情報保障　メインページ' name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='no-cache' http-equiv='Pragma' />
+    <meta content='no-store' http-equiv='Cache-Control' />
+    <meta content='no-cache' http-equiv='Cache-Control' />
+    <meta content='-1' http-equiv='Expires' />
+    <title>ISeee Project: オープンな，誰もが誰かの助けになる情報保障　メインページ - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/projects/ISeee' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/projects/ISeee' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/projects/ISeee' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/projects/ISeee' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/projects/ISeee' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/projects/ISeee' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/projects/ISeee' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/projects/ISeee' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/projects/ISeee' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/projects/ISeee' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/projects/ISeee' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/projects/ISeee' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ko/projects/ISeee' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/projects/ISeee' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/projects/ISeee' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/projects/ISeee' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/projects/ISeee' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/projects/ISeee' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/projects/ISeee' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/projects/ISeee' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/projects/ISeee' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/projects/ISeee' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_header.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_table.css' rel='stylesheet' type='text/css' />
+    <!-- Fontawesome -->
+    <link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <script src='/js/jquery.js'></script>
+    <script src='/js/bootstrap-modal.js'></script>
+    <script src='/js/scrollsmooth.js'></script>
+    <script src='/js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='project_logo' href=''>
+          <img align='right' alt='Crowd4U' height='20' src='/img/c4u_logo.png' />
+          <span style='color: white; font-size: 0.8em; margin-right: 1em;'>powered by:</span>
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/projects/ISeee'>Arabic</option>
+            <option value='/bn/projects/ISeee'>Bengali</option>
+            <option value='/bg/projects/ISeee'>Bulgarian</option>
+            <option value='/zh/projects/ISeee'>Chinese</option>
+            <option value='/en/projects/ISeee'>English</option>
+            <option value='/fi/projects/ISeee'>Finnish</option>
+            <option value='/fr/projects/ISeee'>French</option>
+            <option value='/de/projects/ISeee'>German</option>
+            <option value='/el/projects/ISeee'>Greek</option>
+            <option value='/hi/projects/ISeee'>Hindi</option>
+            <option value='/id/projects/ISeee'>Indonesian</option>
+            <option value='/it/projects/ISeee'>Italian</option>
+            <option selected='selected' value='/ja/projects/ISeee'>Japanese</option>
+            <option value='/ko/projects/ISeee'>Korean</option>
+            <option value='/nl/projects/ISeee'>Nederlands</option>
+            <option value='/fa/projects/ISeee'>Persian</option>
+            <option value='/pt/projects/ISeee'>Portuguese</option>
+            <option value='/ru/projects/ISeee'>Russian</option>
+            <option value='/es/projects/ISeee'>Spanish</option>
+            <option value='/th/projects/ISeee'>Thai</option>
+            <option value='/tr/projects/ISeee'>Trukish</option>
+            <option value='/vi/projects/ISeee'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        * 現時点で翻訳が無い場合には英語で表示します
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <h1>ISeeeプロジェクト：オープンな，誰もが誰かの助けになる情報保障</h1>
+                                                          
+                                                          <img src="/img/collaborators/iseee_animalslide.jpg" width="80%"
+                                                          style="margin: 0 auto;display: block;" alt="What is ISeee Project?">
+                                                          
+                                                          <h2>ISeeeプロジェクトとは</h2>
+                                                          
+                                                          <p>ISeeeプロジェクトは， Information Support of Everyone, by Everyone, for Everyoneの略であり，</p>
+                                                          <ul>
+                                                          <li>- of Everyone (オープンな)
+                                                          <li>- by Everyone (誰もが助ける側になり)
+                                                          <li>- for Everyone (誰もが助けられる側になる)
+                                                          <li>- Information Support (情報保障)
+                                                          <br>
+                                                          を意味しています．
+                                                          </ul>
+                                                          
+                                                          <br>
+                                                          
+                                                          <p>
+                                                          情報保障とは，特定の伝達手段による情報の獲得に支障がある人々に，代替手段を用いて情報の獲得を支援することです．
+                                                          ISeeeプロジェクトでは，情報保障領域にクラウドソーシング技術を応用し，健常者も障害者も関係なく，各人の得意なことを活かして，全ての人が情報を受け取ることができる，すなわち「わかった！」状態になることを目標とします．
+                                                          これにより，助ける人・助けられる人の区別なく誰もが誰かを助け，支えあい情報を得ることができる社会を目指します．
+                                                          </p>
+                                                          
+                                                          <br>
+                                                          
+                                                          <p>
+                                                          第一歩として，クラウドソーシングに基づく聴覚障害者による文字情報保障の仕組みの開発を行い，2017年度までに各研究会等での実利用を目指します．
+                                                          具体的には，複数の手話がわかる人の連携によって手話情報を文字情報に変換し，手話のわからない人への情報保障を実現します．
+                                                          また，構築したサービスはオープンにして，誰でも利用できるようにします．
+                                                          </p>
+                                                          
+                                                          <img src="/img/collaborators/iseee_slide.png" width="80%" style="margin: 0
+                                                          auto;display: block;" alt="ISeeeプロジェクトとは">
+                                                          
+                                                          <h2> 関係者</h2>
+                                                          <ul>
+                                                          <li> 平賀 瑠美（筑波技術大学）
+                                                          <li> 白石 優旗（筑波技術大学）
+                                                          <li> 張 建偉（岩手大学）
+                                                          <li> 若月 大輔（筑波技術大学）
+                                                          <li> 塩野目 剛亮（帝京大学）
+                                                          <li> 鈴木 拓弥 (筑波技術大学)
+                                                          <li> Ying Zhong (University of Tsukuba)
+                                                          <li> 松原 正樹（筑波大学）
+                                                          <li> 森嶋 厚行（筑波大学）
+                                                          <li> 小林 真（筑波技術大学）
+                                                          <li> 福永 克己（筑波技術大学）
+                                                          <li> 宮城 愛美（筑波技術大学）
+                                                          <li> 渡辺知恵美 (筑波技術大学，筑波大学)
+                                                          </ul>
+                                                          
+                                                          <h2> 過去の関係者</h2>
+                                                          <ul>
+                                                          <li> 橋本 大空（筑波大学大学院, 2016-2018年度）
+                                                          <li> 熊井 克仁（筑波大学大学院，2015-2017年度）
+                                                          <li> 櫻井 恵美（筑波大学大学院，2014-2015年度）
+                                                          <li> 川端 彬子（筑波大学大学院，2014-2015年度）
+                                                          </ul>
+                                                          
+                                                          <h2>論文など</h2>
+                                                          <ol style="padding-left:20px;">
+                                                          <li>Rumi Hiraga, Daisuke Wakatsuki, Yuhki Shiraishi, Masayuki Inoue, Yuka Kogo, Yoshiki Fukunaga, Makoto Kobayashi, Manabi Miyagi, Takeaki Shionome, Jianwei Zhang, and Atsuyuki Morishima:
+                                                          First Evaluation of Information Support of everyone by everyone for everyone TimeLine (ISeeeTL) applied to Deaf and Hard of Hearing People Watching Sport. The 15th International Conference of the Association for the Advancement of Assistive Technology in Europe (AAATE 2019), pp.S135-S136, Bologna, Italy, Aug 27-30, 2019.
+                                                          <li>Ying Zhong, Masaki Matsubara, Makoto Kobayashi and Atsuyuki Morishima:
+                                                          Understandable Microtasks With No Visual Representation. WorkInProgress,The seventh AAAI Conference on Human Computation and Crowdsourcing (HCOMP2019), Skamania Lodge, WA, Oct 28–30, 2019.
+                                                          <li>Hirotaka Hashimoto, Masaki Matsubara, Yuhki Shiraishi, Daisuke Wakatsuki, Jianwei Zhang and Atsuyuki Morishima: A Task Assignment Method Considering Inclusiveness and Activity Degree. In Proceedings of The Second IEEE Workshop on Human-in-the-loop Methods and Human Machine Collaboration in BigData (IEEE HMData2018), pp. 3498-3503 , Seattle, WA, USA, 2018.
+                                                          <li>Ying Zhong, Masaki Matsubara, Atsuyuki Morishima. Identification of Important Images for Understanding Web Pages. In Proceedings of The Second IEEE Workshop on Human-in-the-loop Methods and Human Machine Collaboration in BigData (IEEE HMData2018), pp. 3567－3573, Seattle, USA, Dec 10 (Dec 10-13), 2018.
+                                                          <li>Daisuke Wakatsuki, Rumi Hiraga, Makoto Kobayashi, Yuhki Shiraishi, Takeaki Shionome, Jianwei Zhang, Yoshiki Fukunaga, Manabi Miyagi, Atsuyuki Morishima, "A Study on Information Support for Deaf and Hard-of-Hearing People Using Sports Game Timeline", The 2018 IEEE International Conference on Systems, Man, and Cybernetics(IEEE SMC2018), pp.2244-2249，Miyazaki, Japan, October 2018．</li>
+                                                          <li>塩野目剛亮，若月大輔，白石優旗，張建偉，森嶋厚行，平賀瑠美「クラウドソーシングによる字幕情報保障に関する基礎的検討（第3報） ―実況音声の発話内容分類とワーカの入力結果の分析―」第96回福祉情報工学研究会，2018年8月．</li>
+                                                          <li>Katsumi Kumai, Masaki Matsubara, Yuhki Shiraishi, Daisuke Wakatsuki, Jianwei Zhang, Takeaki Shionome, Hiroyuki Kitagawa and Atsuyuki Morishima, Skill-and-Stress-Aware Assignment of Crowd-Worker Groups to Task Streams, The sixth AAAI Conference on Human Computation and Crowdsourcing (HCOMP2018), pp.88-97, Zurich, Switzerland July 6 (July 5–8), 2018
+                                                          <li>小林真，平賀瑠美，若月大輔，福永克己，張建偉，塩野目剛亮，宮城愛美，森嶋厚行，白石優旗「スポーツ観戦時の視覚障害者に対する情報支援」電子情報通信学会2018年総合大会，2018年3月．
+                                                          <li>若月大輔，平賀瑠美，小林真，白石優旗，塩野目剛亮，張建偉，福永克己，宮城愛美，森嶋厚行「聴覚障害者のためのスポーツ観戦時の情報保障の基礎的検討」電子情報通信学会2018年総合大会，2018年3月．
+                                                          <li>平賀瑠美，若月大輔，小林真，白石優旗，塩野目剛亮，張建偉，福永克己，宮城愛美，森嶋厚行「ISeee: パラスポーツにおける情報保障」電子情報通信学会2018年総合大会，2018年3月．
+                                                          <li>若月大輔，平賀瑠美，小林真，白石優旗，塩野目剛亮，張建偉，福永克己，宮城愛美，森嶋厚行「スポーツ観戦に関するタイムラインを用いた聴覚障害者の情報保障の検討」情報処理学会第6回アクセシビリティ研究会，2018年3月．
+                                                          <li>橋本大空，松原正樹，白石優旗，張建偉，若月大輔，森嶋厚行「クラウドワーカの能力とインクルージョン性を考慮したタスク割当て手法」 第10回データ工学と情報マネジメントに関するフォーラム（DEIM2018），2018年3月．<strong style="font-weight: bold;">（学生プレゼンテーション賞受賞）</strong>
+                                                          <li>Takeaki Shionome, Hirotaka Hashimoto, Jianwei Zhang, Yuhki Shiraishi, Daisuke Wakatsuki, Yohei Seki, and Atsuyuki Morishima,“Complement of Incomplete Task Results for Real-time Crowdsourcing Interpretation”, Proc. 21th International Conference on Asian Language Processing (IALP 2017), pp.359-362, Singapore, December  2017.
+                                                          <li>Katsumi Kumai, Jianwei Zhang, Yuhki Shiraishi, Daisuke Wakatsuki, Hiroyuki Kitagawa, Atsuyuki Morishima, "Group Rotation Management in Real-Time Crowdsourcing", Proc. 19th International Conference on Information Integration and Web-based Applications & Services (iiWAS 2017) , pp.23-31, Salzburg, Austria, December 2017.
+                                                          <li>Yuhki Shiraishi, Jianwei Zhang, Daisuke Wakatsuki, Katsumi Kumai, and Atsuyuki Morishima, "Crowdsourced Real-Time Captioning of Sign Language by Deaf and Hard-of-Hearing People", International Journal of Pervasive Computing and Communications, Vol. 13, No. 1, pp.2-25, 2017.  <strong style="font-weight: bold;">(Highly Commended Award受賞 by Emerald Publishing)</strong>
+                                                          <li>塩野目剛亮，若月大輔，白石優旗，張建偉，森嶋厚行，平賀瑠美「クラウドソーシングによる字幕情報保障に関する基礎的検討（第2報） ―音声情報と入力・送出文との対応，および個人の入力行動分析―」第90回福祉情報工学研究会，2017年5月．
+                                                          <li>塩野目剛亮，若月大輔，白石優旗，張建偉，森嶋厚行，平賀瑠美「クラウドソーシングによる字幕情報保障に関する基礎的検討ーウェブベース遠隔文字通訳システムcaptiOnlineスマートフォン版の開発ー」情報処理学会第3回アクセシビリティ研究会，2017年3月．
+                                                          <li>若月大輔，張建偉，白石優旗，熊井克仁，森嶋厚行「クラウドソーシング型情報保障におけるタスク分割の基礎的検討」電子情報通信学会2017年総合大会，2017年3月．
+                                                          <li>橋本大空，白石優旗，張建偉，若月大輔，関洋平，森嶋厚行「通訳クラウドソーシングにおける不完全なタスク結果の統合手法」情報処理学会第79回全国大会，2017年3月．<strong style="font-weight: bold;">（学生プレゼンテーション賞受賞）</strong>
+                                                          <li>大村宗玄，張建偉，白石優旗，若月大輔，熊井克仁，森嶋厚行「クラウドソーシングを用いた文字情報保障の品質向上を図るワーカー割当て手法の提案」第8回教育工学研究会，2017年1月．
+                                                          <li>張建偉，白石優旗「クラウドソーシングに基づく聴覚障害者による文字情報保障システムの開発」筑波技術大学テクノレポート Vol.24, No.1, pp.117-118, 2016年12月．
+                                                          <li>Jianwei Zhang, Yuhki Shiraishi, Katsumi Kumai, and Atsuyuki Morishima, "Real-Time Captioning of Sign Language by Groups of Deaf and Hard-of-Hearing People", Proc. The 18th International Conference on Information Integration and Web-based Applications & Services (iiWAS 2016), pp.56-65, Singapore, November 2016.
+                                                          <li>Katsumi Kumai, Yuhki Shiraishi, Jianwei Zhang, Hiroyuki Kitagawa and Atsuyuki Morishima, "Group Rotation Type Crowdsourcing", The Fourth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2016), Work-in-Progress Poster, 3 pages, Austin, Texas, USA, November 2016.
+                                                          <li>塩野目剛亮，張建偉，白石優旗，平賀瑠美「クラウドソーシングによるパラリンピック競技実況の情報保障に関する一考察」2016年度人工知能学会全国大会（JSAI2016），2016年6月．
+                                                          <li>白石優旗，張建偉，熊井克仁，森嶋厚行「クラウドソーシングに基づく聴覚障害者によるリアルタイム文字情報保障手法の検討」第8回データ工学と情報マネジメントに関するフォーラム（DEIM2016），2016年3月．
+                                                          <li>熊井克仁，白石優旗，張建偉，森嶋厚行「グループローテーション型クラウドソーシングの制御手法の提案」第8回データ工学と情報マネジメントに関するフォーラム（DEIM2016），2016年3月．
+                                                          <li>張建偉，白石優旗「クラウドソーシングによる聴覚障害者の情報保障支援に関する研究」筑波技術大学テクノレポート，Vol.23, No.1, pp.167-168, 2015年12月．
+                                                          <li>張建偉，白石優旗，櫻井恵美，森嶋厚行「クラウドソーシングによる聴覚障害者の情報保障手法の検討」情報処理学会第77回全国大会，2015年3月．<strong style="font-weight: bold;">（大会優秀賞受賞）</strong>
+                                                          </ol>
+                                                          
+                                                          <h2>実証実験</h2>
+                                                          <dl>
+                                                          <dt>筑波大学主催「なないろサッカーフェス」でTimeLineを用いた情報保障実験を実施（<time datetime="2018-10-20">2018年10月20日</time>）</dt>
+                                                          <dd>- つくば市で開催された「なないろサッカーフェス」のブラインドサッカー競技において，captiOnlineのTimeLineを用いて競技の様子を説明する情報保障実験を行った．</dd>
+                                                          <dt>つくば市「スポーツ鬼ごっこ大会」でTimeLineを用いた情報保障実験を実施（<time datetime="2018-10-07">2018年10月7日</time>）</dt>
+                                                          <dd>- いきいき茨城ゆめ国体デモンストレーションスポーツ開催記念・平成30年度つくば市スポーツ鬼ごっこ大会において，captiOnlineのTimeLineを用いて競技の様子を説明する情報保障実験を行った．</dd>
+                                                          <dt>渋谷区でTimeLineを用いた情報保障実験を実施（<time datetime="2018-09-08">2018年9月8日</time>）</dt>
+                                                          <dd>- 渋谷区の「オリンピック・パラリンピック 競技リアル観戦事業」のパラ卓球において，captiOnlineのTimeLineを用いて競技・会場の様子を説明する情報保障実験を行った．</dd>
+                                                          <dt>筑波大学でTimeLineを用いた情報保障実験を実施（<time datetime="2018-07-28">2018年7月28日</time>）</dt>
+                                                          <dd>- 筑波大学・中央体育館で実施された体操競技の練習において，captiOnlineのTimeLineを用いて競技・会場の様子を説明する情報保障実験を行った．</dd>
+                                                          <dt>筑波技術大学でTimeLineを用いた情報保障実験を実施（<time datetime="2018-07-11">2018年7月11日</time>）</dt>
+                                                          <dd>- 筑波技術大学で実施されたソフトボール大会の試合会場において，captiOnlineのTimeLineを用いて競技・会場の様子を説明する情報保障実験を行った．</dd>
+                                                          <dt>渋谷区パラバドミントン大会でTimeLineを用いた情報保障実験を実施（<time datetime="2018-06-24">2018年6月24日</time>）</dt>
+                                                          <dd>- 渋谷区スポーツセンターで開催された渋谷区長杯第2回パラバドミントン大会において，captiOnlineのTimeLineを用いて競技・会場の様子を説明する情報保障実験を行った．</dd>
+                                                          <dt>第89回福祉情報工学研究会において，手話発表の文字情報保障を実施（<time datetime="2017-03-10">2017年3月10日</time>）</dt>
+                                                          <dd>- 複数の聴覚障害者が発表者の手話を文字にリアルタイム通訳して，ウェブで配信する実証実験を実施した．具体的には，5件の手話発表に対して，13名の聴覚障害者の連携により，手話の文字通訳を行った．</dd>
+                                                          </dl>
+                                                          
+                                                          <h2>協賛団体</h2>
+                                                          <ul>
+                                                          <li><a href="http://npo-stand.jp/">特定非営利活動法人 STAND（スタンド）</a>
+                                                          <li><a href="http://www.ipsj-dbs.org">情報処理学会 データベースシステム研究会（IPSJ DBS）</a>
+                                                          </ul>
+                                                          
+                                                          <h2>支援団体・研究費</h2>
+                                                          本研究の一部は，下記の支援を受けています．
+                                                          <ul>
+                                                          <li>- 科学研究費補助金(挑戦的研究(萌芽))
+                                                          ソーシャルインクルージョンを指向したアクセシブル・クラウドソーシング技術基盤
+                                                          研究期間 2017年6月～2020年3月．筑波大学，筑波技術大学，岩手大学．6,500千円 (直接経費 : 5,000千円、間接経費 : 1,500千円)
+                                                          <li>- 筑波技術大学概算要求機能強化経費
+                                                          研究期間 2016年4月〜2020年3月（予定）
+                                                          <li>- 科学技術振興機構CREST 2016年12月～2022年3月，「CyborgCrowd：柔軟でスケーラブルな人と機械の知力集約」研究領域「人間と調和した創造的協働を実現する知的情報処理システムの構築」
+                                                          <li>- 国立情報学研究所 戦略研究公募型 クラウドソーシングによるパラリンピックの情報保障
+                                                          研究期間 2016年4月〜2017年3月．750千円
+                                                          <li>- 学術研究助成基金助成金(若手研究(B))
+                                                          データ工学の手法による聴覚障害者のための情報獲得支援に関する研究
+                                                          研究期間2014年4月～2016年3月．3,120千円(直接経費 : 2,400千円、間接経費 : 720千円)
+                                                          </ul>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u_jp' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

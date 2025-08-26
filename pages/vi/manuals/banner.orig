@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='vi'>
+  <head>
+    <base href='//crowd4u.org/vi/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta content='This page describes how to put the Crowd4U banner to participate microvolunteering on your web page.' name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <title>Please put the Crowd4U banner on your website. - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/manuals/banner' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/manuals/banner' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/manuals/banner' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/manuals/banner' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/manuals/banner' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/manuals/banner' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/manuals/banner' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/manuals/banner' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/manuals/banner' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/manuals/banner' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/manuals/banner' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/manuals/banner' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/manuals/banner' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/manuals/banner' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/manuals/banner' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/manuals/banner' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/manuals/banner' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/manuals/banner' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/manuals/banner' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/manuals/banner' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/manuals/banner' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/manuals/banner' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/manual_banner.css?date=20141112' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <script src='/js/jquery.js'></script>
+    <script src='/js/bootstrap-modal.js'></script>
+    <script src='/js/scrollsmooth.js'></script>
+    <script src='/js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='logo' href=''>
+          <img alt='Crowd4U' height='40' src='/img/c4u_logo.png' />
+        </a>
+        <nav id='idx_nav'>
+          <ul>
+            <li>
+              <a class='' href='about'>
+                <img alt='About' src='/img/icon3w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='projects'>
+                <img alt='Projects' src='/img/icon7w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='contributors'>
+                <img alt='Contributors' src='/img/icon1w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='login'>
+                <img alt='Login / Sign up' src='/img/icon5w.png' />
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <a class='logo' href='https://play.google.com/store/apps/details?id=org.crowd4u.lockscreen' target='_blank'>
+          <img alt='Google Play' height='40' src='/img/google_play1.png' style='margin-left: 15px; margin-top: -5px;' />
+          <br />
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/manuals/banner'>Arabic</option>
+            <option value='/bn/manuals/banner'>Bengali</option>
+            <option value='/bg/manuals/banner'>Bulgarian</option>
+            <option value='/zh/manuals/banner'>Chinese</option>
+            <option value='/en/manuals/banner'>English</option>
+            <option value='/fi/manuals/banner'>Finnish</option>
+            <option value='/fr/manuals/banner'>French</option>
+            <option value='/de/manuals/banner'>German</option>
+            <option value='/el/manuals/banner'>Greek</option>
+            <option value='/hi/manuals/banner'>Hindi</option>
+            <option value='/id/manuals/banner'>Indonesian</option>
+            <option value='/it/manuals/banner'>Italian</option>
+            <option value='/ja/manuals/banner'>Japanese</option>
+            <option value='/ko/manuals/banner'>Korean</option>
+            <option value='/nl/manuals/banner'>Nederlands</option>
+            <option value='/fa/manuals/banner'>Persian</option>
+            <option value='/pt/manuals/banner'>Portuguese</option>
+            <option value='/ru/manuals/banner'>Russian</option>
+            <option value='/es/manuals/banner'>Spanish</option>
+            <option value='/th/manuals/banner'>Thai</option>
+            <option value='/tr/manuals/banner'>Trukish</option>
+            <option selected='selected' value='/vi/manuals/banner'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        *
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <h1>Please put the Crowd4U banner on your website.</h1>
+                                                            <div id='key_intro'>
+                                                              <p class='message'>
+                                                                <span class="bold">You can put the Crowd4U banner on your web page in JUST TWO STEPS. </span>
+                                                              </p>
+                                                            </div>
+                                                            <div id='banner_info'>
+                                                              <h2>Banner Samples</h2>
+                                                              <div class='banner_step'>
+                                                                <p>A)Big size</p>
+                                                                <img alt='Big banner' src='/img/crowd4u_banner364x93_en.png' />
+                                                                <p>
+                                                                  File Name :
+                                                                  <label class='file_name'>crowd4u_banner364x93_en.png</label>
+                                                                </p>
+                                                                <br />
+                                                                <p>A)Small size</p>
+                                                                <img alt='Small banner' src='/img/crowd4u_banner182x47_en.png' />
+                                                                <p>
+                                                                  File Name :
+                                                                  <label class='file_name'>crowd4u_banner182x47_en.png</label>
+                                                                </p>
+                                                              </div>
+                                                              <h2>Banner setting Method 1.<small>(You can set a banner the easiest. But, you can't choose a working task.)</small></h2>
+                                                              <div class='step'>
+                                                                STEP1:
+                                                                <div class='banner_step'>
+                                                                  Put a following link where you want to display a banner on your website. (you can change a banner file name.)
+                                                                  <pre>&lt;a class=&quot;microtask repeat&quot; href=&quot;javascript:void(0)&quot;&gt;&#x000A;  &lt;img src=&quot;//crowd4u.org/img/crowd4u_banner364x93_en.png&quot;&gt;&#x000A;&lt;/a&gt;</pre>
+                                                                </div>
+                                                              </div>
+                                                              <div class='step'>
+                                                                STEP2:
+                                                                <div class='banner_step'>
+                                                                  Put a following link somewhere on the same page as the Step 1.
+                                                                  <pre>&lt;script type=&quot;text/javascript&quot; src=&quot;//crowd4u.org/script/task_loader.js?requester=-1&amp;length=10&quot;&gt;&lt;/script&gt;</pre>
+                                                                </div>
+                                                              </div>
+                                                              <h2>Banner setting Method 2. <small>(If you get a Crowd4U account, you can choose a working task.)</small></h2>
+                                                              <div class='step'>
+                                                                STEP1:
+                                                                <div class='banner_step'>
+                                                                  Get a Crowd4U account, if you don't have one yet.
+                                                                  <br />
+                                                                  After that, make a note of the acount number(id:xxx) which is displayed upper right on the login screen.
+                                                                  <br />
+                                                                  <a href="/login"><img src="/img/icon5.png" width="15" alt="">Sign UP / Log in</a>
+                                                                  <br />
+                                                                </div>
+                                                              </div>
+                                                              <div class='step'>
+                                                                STEP2:
+                                                                <div class='banner_step'>
+                                                                  Put a following link where you want to display a banner on your website. (you can change a banner file name.)
+                                                                  <pre>&lt;a class=&quot;microtask repeat&quot; href=&quot;javascript:void(0)&quot;&gt;&#x000A;  &lt;img src=&quot;//crowd4u.org/img/crowd4u_banner364x93_en.png&quot;&gt;&#x000A;&lt;/a&gt;</pre>
+                                                                </div>
+                                                              </div>
+                                                              <div class='step'>
+                                                                STEP3:
+                                                                <div class='banner_step'>
+                                                                  Put a following link somewhere on the same page as the Step 2.
+                                                                  <pre>&lt;script type=&quot;text/javascript&quot; &#x000A;  src=&quot;//crowd4u.org/script/task_loader.js?requester=the account number on the Step1&amp;length=10&quot;&gt;&#x000A;&lt;/script&gt;</pre>
+                                                                </div>
+                                                              </div>
+                                                              <div class='step'>
+                                                                STEP4:
+                                                                <div class='banner_step'>
+                                                                  Click a following "Setting a task which is invoked from a banner" in you are logged in the Crowd4U, you check a task which you want to invoke from a banner to connect your account number and task type.
+                                                                  <br />
+                                                                  <a href="/requester">Setting a task which is invoked from a banner</a>
+                                                                  <br />
+                                                                  (Task type that were set are valid for the time being, but it may change without notice.)
+                                                                  <br />
+                                                                  It is now you are done!
+                                                                  <br />
+                                                                </div>
+                                                              </div>
+                                                            </div>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='fr'>
+  <head>
+    <base href='//crowd4u.org/fr/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta content='CyLog: A Logic-based Language for Complex Crowdsourcing and Cybernetic Intelligence' name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <title>CyLog: A Logic-based Language for Complex Crowdsourcing and Cybernetic Intelligence - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/cylog' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/cylog' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/cylog' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/cylog' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/cylog' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/cylog' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/de/cylog' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/cylog' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/cylog' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/cylog' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/cylog' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/cylog' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/cylog' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/cylog' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/cylog' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/cylog' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/cylog' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/cylog' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/cylog' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/cylog' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/vi/cylog' hreflang='vi' rel='alternate' />
+    <link href='https://crowd4u.org/cylog' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/cylog.css?date=20141112' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <script src='/js/jquery.js'></script>
+    <script src='/js/bootstrap-modal.js'></script>
+    <script src='/js/scrollsmooth.js'></script>
+    <script src='/js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='logo' href=''>
+          <img alt='Crowd4U' height='40' src='/img/c4u_logo.png' />
+        </a>
+        <nav id='idx_nav'>
+          <ul>
+            <li>
+              <a class='' href='about'>
+                <img alt='About' src='/img/icon3w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='projects'>
+                <img alt='Projects' src='/img/icon7w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='contributors'>
+                <img alt='Contributors' src='/img/icon1w.png' />
+              </a>
+            </li>
+            <li>
+              <a class='' href='login'>
+                <img alt='Login / Sign up' src='/img/icon5w.png' />
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <a class='logo' href='https://play.google.com/store/apps/details?id=org.crowd4u.lockscreen' target='_blank'>
+          <img alt='Google Play' height='40' src='/img/google_play1.png' style='margin-left: 15px; margin-top: -5px;' />
+          <br />
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/cylog'>Arabic</option>
+            <option value='/bn/cylog'>Bengali</option>
+            <option value='/bg/cylog'>Bulgarian</option>
+            <option value='/zh/cylog'>Chinese</option>
+            <option value='/en/cylog'>English</option>
+            <option value='/fi/cylog'>Finnish</option>
+            <option selected='selected' value='/fr/cylog'>French</option>
+            <option value='/de/cylog'>German</option>
+            <option value='/el/cylog'>Greek</option>
+            <option value='/hi/cylog'>Hindi</option>
+            <option value='/id/cylog'>Indonesian</option>
+            <option value='/it/cylog'>Italian</option>
+            <option value='/ja/cylog'>Japanese</option>
+            <option value='/ko/cylog'>Korean</option>
+            <option value='/nl/cylog'>Nederlands</option>
+            <option value='/fa/cylog'>Persian</option>
+            <option value='/pt/cylog'>Portuguese</option>
+            <option value='/ru/cylog'>Russian</option>
+            <option value='/es/cylog'>Spanish</option>
+            <option value='/th/cylog'>Thai</option>
+            <option value='/tr/cylog'>Trukish</option>
+            <option value='/vi/cylog'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        *
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <h1>
+                                                              <span style="font-size:80%">CyLog</span>:&nbsp;<span style="font-size:65%">A Logic-based Language for Complex Crowdsourcing and Cybernetic Intelligence</span>
+                                                            </h1>
+                                                            <div class='nav'>
+                                                              CyLog is an executable logic-based declarative language to write crowdsourcing applications that require complex dataflows among human and machine computations. Its syntax is similar to Datalog and Prolog.  CyLog has been used to implement complex crowdsourcing applications since 2009. Crowd4U has the latest CyLog engine and all crowdsourcing projects running on Crowd4U are written in CyLog.
+                                                            </div>
+                                                            <h2><span style="font-size:120%">Related Publications </span></h2>
+                                                            <div class='nav'>
+                                                              <ul>
+                                                                <li>Shun Fukusumi, Atsuyuki Morishima, Hiroyuki Kitagawa. Game Aspect:</span>&nbsp; An Approach to Separation of Concerns in Crowdsourced Data Management. 27th International Conference on Advanced Information Systems Engineering (CAiSE 2015), pp. 6-19, Stockholm, Sweden, June 8-12, 2015. [Best Paper Award]</li>
+                                                                <br />
+                                                                <li>Atsuyuki Morishima, Sihem Amer-Yahia, Senjuti Basu Roy. Crowd4U:&nbsp; An Initiative for Constructing an Open Academic Crowdsourcing Network. Second AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2014) WorkInProgress, pp. 50-51, Pittsburgh, USA, November 2-4, 2014.</li>
+                                                                <br />
+                                                                <li>Atsuyuki Morishima. CyLog/Crowd4U:&nbsp; A Case Study of a Computing Platform for Cybernetic Dataspaces (Invited Chapter). Handbook of Human Computation, Springer, pp. 561-572, Nov. 2013.</li>
+                                                                <br />
+                                                                <li>Atsuyuki Morishima, Norihide Shinagawa, Tomomi Mitsuishi, Hideto Aoki, Shun Fukusumi. CyLog/Crowd4U:&nbsp; A Declarative Platform for Complex Data-centric Crowdsourcing, PVLDB 5(12): 1918-1921 (2012)</li>
+                                                                <br />
+                                                                <li>Atsuyuki Morishima, Norihide Shinagawa, Shoji Mochizuki.&nbsp; The Power of Integrated Abstraction for Data-centric Human/Machine Computations. First International Workshop on Searching and Integrating New Web Data Sources (VLDS2011) Co-located with VLDB 2011, pp. 5-9, September, 2011.</li>
+                                                                <br />
+                                                                <li>Atsuyuki Morishima.&nbsp; A Database Abstraction for Data-intensive Social Applications. The 5th Korea-Japan Database Workshop 2010 (KJDB2010), May 28-29, 2010. Jeju Province, Korea</li>
+                                                                <br />
+                                                              </ul>
+                                                            </div>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

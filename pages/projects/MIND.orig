@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='vi'>
+  <head>
+    <base href='//crowd4u.org/vi/' />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta content='CyLog,The FusionCOMP Project,Crowd4U,Micro Volunteering,micro-volunteering,Volunteering' name='keywords' />
+    <meta content='MIND: Microvolunteering In Natural Disasters' name='description' />
+    <meta content='width=device-width,initial-scale=0.7' name='viewport' />
+    <meta content='no-cache' http-equiv='Pragma' />
+    <meta content='no-store' http-equiv='Cache-Control' />
+    <meta content='no-cache' http-equiv='Cache-Control' />
+    <meta content='-1' http-equiv='Expires' />
+    <title>MIND: Microvolunteering In Natural Disasters - Crowd4U</title>
+    <link href='https://crowd4u.org/ar/projects/MIND' hreflang='ar' rel='alternate' />
+    <link href='https://crowd4u.org/bn/projects/MIND' hreflang='bn' rel='alternate' />
+    <link href='https://crowd4u.org/bg/projects/MIND' hreflang='bg' rel='alternate' />
+    <link href='https://crowd4u.org/zh/projects/MIND' hreflang='zh' rel='alternate' />
+    <link href='https://crowd4u.org/en/projects/MIND' hreflang='en' rel='alternate' />
+    <link href='https://crowd4u.org/fi/projects/MIND' hreflang='fi' rel='alternate' />
+    <link href='https://crowd4u.org/fr/projects/MIND' hreflang='fr' rel='alternate' />
+    <link href='https://crowd4u.org/de/projects/MIND' hreflang='de' rel='alternate' />
+    <link href='https://crowd4u.org/el/projects/MIND' hreflang='el' rel='alternate' />
+    <link href='https://crowd4u.org/hi/projects/MIND' hreflang='hi' rel='alternate' />
+    <link href='https://crowd4u.org/id/projects/MIND' hreflang='id' rel='alternate' />
+    <link href='https://crowd4u.org/it/projects/MIND' hreflang='it' rel='alternate' />
+    <link href='https://crowd4u.org/ja/projects/MIND' hreflang='ja' rel='alternate' />
+    <link href='https://crowd4u.org/ko/projects/MIND' hreflang='ko' rel='alternate' />
+    <link href='https://crowd4u.org/nl/projects/MIND' hreflang='nl' rel='alternate' />
+    <link href='https://crowd4u.org/fa/projects/MIND' hreflang='fa' rel='alternate' />
+    <link href='https://crowd4u.org/pt/projects/MIND' hreflang='pt' rel='alternate' />
+    <link href='https://crowd4u.org/ru/projects/MIND' hreflang='ru' rel='alternate' />
+    <link href='https://crowd4u.org/es/projects/MIND' hreflang='es' rel='alternate' />
+    <link href='https://crowd4u.org/th/projects/MIND' hreflang='th' rel='alternate' />
+    <link href='https://crowd4u.org/tr/projects/MIND' hreflang='tr' rel='alternate' />
+    <link href='https://crowd4u.org/projects/MIND' hreflang='x-default' rel='alternate' />
+    <link href='/css/crowd4u.css?date=20141127' rel='stylesheet' type='text/css' />
+    <link href='/css/bootstrap-modal.css' rel='stylesheet' type='text/css' />
+    <link href='/css/sp.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_header.css' rel='stylesheet' type='text/css' />
+    <link href='/css/project_table.css' rel='stylesheet' type='text/css' />
+    <!-- Fontawesome -->
+    <link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet' type='text/css' />
+    <!-- Le fav and touch icons -->
+    <link href='/img/for_fc_4u.png' rel='apple-touch-icon' />
+    <link href='/img/favicon.ico' rel='shortcut icon' />
+    <script src='/js/jquery.js'></script>
+    <script src='/js/bootstrap-modal.js'></script>
+    <script src='/js/scrollsmooth.js'></script>
+    <script src='/js/scrolltopcontrol.js'></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <!-- Le styles -->
+    <!-- Analytics ================================================== -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-29320352-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+  </head>
+  <body>
+    <!-- Navbar ================================================== -->
+    <header id='idx_header'>
+      <div id='header_cont'>
+        <a class='project_logo' href=''>
+          <img align='right' alt='Crowd4U' height='20' src='/img/c4u_logo.png' />
+          <span style='color: white; font-size: 0.8em; margin-right: 1em;'>powered by:</span>
+        </a>
+        <div class='clearfix'></div>
+      </div>
+    </header>
+    <div id='lang_bar'>
+      <form>
+        <p class='je'>
+          <select onchange='if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value'>
+            <option value=''>-- Language --</option>
+            <option value='/ar/projects/MIND'>Arabic</option>
+            <option value='/bn/projects/MIND'>Bengali</option>
+            <option value='/bg/projects/MIND'>Bulgarian</option>
+            <option value='/zh/projects/MIND'>Chinese</option>
+            <option value='/en/projects/MIND'>English</option>
+            <option value='/fi/projects/MIND'>Finnish</option>
+            <option value='/fr/projects/MIND'>French</option>
+            <option value='/de/projects/MIND'>German</option>
+            <option value='/el/projects/MIND'>Greek</option>
+            <option value='/hi/projects/MIND'>Hindi</option>
+            <option value='/id/projects/MIND'>Indonesian</option>
+            <option value='/it/projects/MIND'>Italian</option>
+            <option value='/ja/projects/MIND'>Japanese</option>
+            <option value='/ko/projects/MIND'>Korean</option>
+            <option value='/nl/projects/MIND'>Nederlands</option>
+            <option value='/fa/projects/MIND'>Persian</option>
+            <option value='/pt/projects/MIND'>Portuguese</option>
+            <option value='/ru/projects/MIND'>Russian</option>
+            <option value='/es/projects/MIND'>Spanish</option>
+            <option value='/th/projects/MIND'>Thai</option>
+            <option value='/tr/projects/MIND'>Trukish</option>
+            <option selected='selected' value='/vi/projects/MIND'>Vietnamese</option>
+          </select>
+        </p>
+      </form>
+    </div>
+    <div id='lang_bar_comment'>
+      <br />
+      <p class='je'>
+        * Currently, English is used if we do not have translations
+      </p>
+    </div>
+    <div id='wrapper' style='width: 900px; margin-bottom: 50px;'>
+      <!-- Yield ================================================== -->
+      <h1>MIND</h1>
+                                                          <p>MIND (MIcrovolunteering In Natural Disasters) is a project that employes the activities of micro-volunteers and crowdsourcing to create a faster response in the occurrence of a natural disaster ．</p>
+                                                          
+                                                          <h2>Tasks for West-Japan Great Flood 2018</h2>
+                                                          
+                                                          We solicit volunteers for helping us understand situations of <a href="http://crowd4u.org/projects/mind-20180710-west-japan-great-flood">West-Japan Great Flood 2018</h2>
+                                                          
+                                                          
+                                                          <h2>Members</h2>
+                                                          <ul>
+                                                          <li>Munenari Inoguchi (University of Toyama)
+                                                          <li>Flavia Fulco (University of Toyama)
+                                                          <li>Itaru Kitahara (University of Tsukuba)
+                                                          <li>Hidehiko Shishido (University of Tsukuba)
+                                                          <li>Atsuyuki Morishima (University of Tsukuba)
+                                                          <li>Masaki Matsubara (University of Tsukuba)
+                                                          <li>Hisatoshi Toriya (University of Tsukuba)
+                                                          <li>Koyo Kobayashi (University of Tsukuba)
+                                                          <li>Tetsuya Mikami (University of Tsukuba)
+                                                          <li>Keishi Tajima (University of Kyoto)
+                                                          </ul>
+                                                          
+                                                          
+                                                          <h2>Partners</h2>
+                                                          
+                                                          <h2>Tasks</h2>
+                                                          <div>
+                                                              <script type="text/javascript" src="//crowd4u.org/script/task_loader.js?requester=1479&length=10"></script> 
+                                                              <a class="microtask repeat" href="//crowd4u.org"><img src="//crowd4u.org/img/crowd4u_banner364x93.png"></a>
+                                                          </div>
+                                                           
+                                                          <h2>First National Cyber-Physical Disaster Drill</h2>
+                                                          <div>
+                                                          On July 1st (Sun), from 9 a.m, the first national "cyber-physical disaster drill" will be held in Tsubame City (Niigata prefecture). The "CREST CyborgCrowd” project is carried out jointly by Tsukuba University, Toyama University, and Kyoto University. 
+                                                          The cyber physical disaster drill includes collecting information from over the sky using drones, reporting from the ground thanks to the participation of local residents, processing information by AI, and supporting activities carried out by people living outside the disaster drill area using crowdsourcing. By collecting all the data from the participants with the help of AI, we will be able to understand the extent of the disaster in the fastest way possible, providing an important tool to disaster relief efforts. In the future, using this technology, we aim to overcome the 72-hour critical limit where the survival rate decreases. Until now, the use of ICT (Information and Communication Technology) in the field of disaster management has attracted attention. However, while the development of technology is advancing in various directions, there are still many issues that need to be solved before a human and AI complete-integrated system can be employed during actual operations. By integrating ICT into our routine through disaster preventions drills, ICT becomes a useful took with a local knowledge, which could contribute to a safer and reliable society. The City of Tsubame will be the first one in Japan to experience the Cyber-Physical Disaster Prevention Disaster Drill. Please refer to the below schedule for the details of the event.
+                                                          </div>
+                                                          
+                                                          <img width="500" src="/img/projects/mind/20180608_tsubame_bousai_en.png" >
+                                                          
+                                                          <h3>● Schedule (in case of bad weather, the schedule might undergo changes)</h3>
+                                                          <ul>
+                                                          <li>1.	Drones will operate at the scheduled time of disaster and explore the area of Yanagiyama (“a” in the figure)
+                                                          <li>2.	A map about the disaster area situation will be created using the data collected from the residents gathered in the evacuation center and the results will be displayed on a large monitor (b)
+                                                          <li>3.	Creation of crowdsourcing task based on the photos taken by the drones. People outside the drill area will cooperate to this task. the cooperation of people outside the areas of the disaster drill (c) (connected locally through the internet video)
+                                                          <li>4.	Disaster response by 3D map created by AI based on drone image (d)
+                                                          <li>5.	Decision-making for detailed reconnaissance based on the collected disaster information (e)
+                                                          </ul>
+                                                          
+                                                          <h3>1.	Aim of the Disaster Prevention Drill</h3>
+                                                          <ul>
+                                                          <li>In order to realize a more effective disaster response, it is essential to create a system that can give a unified recognition of the disaster area and understand what is happening at a given moment in every location involved. In past disasters, the understanding of the situation of the damages took time, and in some cases, it was difficult to take a decision on disaster response. In Tsubame City, "CyborCrowd Project" will try out the most up-to-date results of our under development research: "Crowd 4 U". This new system employs the cooperation between human and AI (Artificial Intelligence) to create a new and more effective disaster response (“cyber” and “physical” tied together).
+                                                          In particular, to understand the situation of the disaster promptly and create an adequate response, it is necessary to process a large amount of information as fast as possible.  Although it is required to collect data about the situation using human efforts by and to organize the response according to the collected data, the shortage of human resources and urgency of time are poignant issues. To overcome these problems, we will use "crowdsourcing" in cooperation with "AI" and we will aim to realize the world's fastest unified recognition system, even if at the moment it is still not clear which tasks should be performed by the people and which ones should be entrusted to the AI. Through this training, we aim to pursue the possibilities and usefulness of this system. Also, it is important not only to research and develop these technologies but also to make them available on a daily basis. This time, focusing on information collected by the drones and evacuee residents, we will make the first step towards bringing this technology into everyday life.
+                                                          </ul>
+                                                          
+                                                          <h3>2.	Outline of the Disaster Prevention Drill
+                                                          <ul>
+                                                          <li>　On July 1st, we will carry out evacuation drill in the Koike area, simulating the direct damages of an earthquake disaster. During the evacuation drill, we will collect data to understand the situation of the disaster, with the participation of residents of the area that will play the role of the survivors. Before the drill, we will place some marks (○ or △ shown red) to the damages in the interested area. The residents that find the marks will have to report the place and damage contents on the dedicated website. In this way, we expect to understand the situation of the damages from the ground. Meanwhile, to grasp the situation of the damages from the sky, we will use drones (compact aerial vehicles without pilot), to collect images and video. The collected data will be processed using crowdsourcing. The obtained results will be made available to the residents (survivors) at the evacuation shelter, as well as to the municipal administration, which is the disaster countermeasure headquarters, in order to accelerate decision-making. In addition, the residents in the evacuation center will participate in the activities related to the identification of the affected areas and the assessment of the damages, and will understand the importance of unification of situation recognition.
+                                                          </ul>
+                                                          
+                                                          <h3>3.	Participating Organizations (expected)
+                                                          <ul>
+                                                          <li>・Research Institutions: University of Tsukuba, University of Toyama, University of Kyoto, (National Research Institute) National Research Institute for Earth Science and Disaster Relief
+                                                          <li>・Private companies: Yahoo Japan Corporation, Global Survey Co., Ltd.
+                                                          </ul>
+                                                          
+                                                          <h3>4.	Sponsor
+                                                          <ul>
+                                                          <li>① Prefecture of Niigata City of Tsubame
+                                                          <li>② University of Tsukuba, University of Toyama, University of Kyoto, CREST CyborgCrowd Project
+                                                          </ul>
+                                                          
+                                                          <h3>Additional Information
+                                                          <ul>
+                                                          <li>　Supplement
+                                                          <li>This disaster prevention drill will be carried out mainly under the auspices of JST-CREST "Construction of intelligent information processing system realizing creative collaboration harmonized with human beings" (research supervisor: Norihiro Hagita).
+                                                          </ul>
+                                                          
+                                                          <h2>＜Contacts or further information on this project＞</h2>
+                                                          <ul>
+                                                          <li>■University of Tsukuba
+                                                          <li>Atsuyuki Morishima
+                                                          <li>University of Tsukuba/Faculty of Library, Information and Media Science/Center for Artificial Intelligence Research - Professor
+                                                          <li>Telephone：029-859-1556
+                                                          <li>E-mail: morishima-office@ml.cc.tsukuba.ac.jp
+                                                          </ul>
+                                                          
+                                                          <ul>
+                                                          <li>■University of Toyama
+                                                          <li>Munenari Inoguchi
+                                                          <li>University of Toyama/Faculty of Sustainable Design - Associate Professor 
+                                                          <li>Prefecture of Niigata/ Disaster Preparedness Promotion Promotion - Strategy Advisor / University of Niigata Crisis Management Office - Special Lecturer
+                                                          <li>Telephone：076-411-4890
+                                                          <li>E-mail: inoguchi@sus.u-toyama.ac.jp
+                                                          </ul>
+                                                          
+                                                          <ul>
+                                                          <li>■University of Kyoto
+                                                          <li>Keishi Tajima
+                                                          <li>University of Kyoto/Graduate School of Informatics Department of Social Informatics - Professor
+                                                          <li>Telephone：075-753-5905
+                                                          <li>E-mail: tajima@i.kyoto-u.ac.jp
+                                                          </ul>
+                                                          
+                                                          
+                                                          <h2>Past Contributors to the project</h2>
+                                                          <ul>
+                                                          <li>Reiji Yunoki（University of Tsukuba） 
+                                                          <li>Hiroyoshi Tanji（University of Tsukuba） 
+                                                          <li>Emi Sakurai（University of Tsukuba） 
+                                                          <li>Keisuke Abe (University of Tsukuba)
+                                                          <li>Yuta Nakamura（University of Tsukuba）
+                                                          </ul>
+      <!-- Yield End -->
+    </div>
+    <!-- Footer ================================================== -->
+    <footer>
+      <p class='footer'>
+        We need your feedback, bug reports, and any comments.
+        <br />
+        Contact us using crowd4u#crowd4u.com (replace # with @)
+        or
+        <a href='http://twitter.com/crowd4u' target='_blank'>@crowd4u</a>.
+      </p>
+    </footer>
+    <!-- Le javascript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>
